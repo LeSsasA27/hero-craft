@@ -13,7 +13,7 @@ import { runewordDetail } from "./ui/runewordDetail.ts";
 import { craftInventoryView } from "./ui/craftInventory.ts";
 import { getVersion } from '@tauri-apps/api/app'
 import { isTauri } from '@tauri-apps/api/core'
-import { check, type Update } from '@tauri-apps/plugin-updater'
+import { check } from '@tauri-apps/plugin-updater'
 
 
 function getElement<T extends Element>(selector: string): T {
@@ -204,7 +204,6 @@ const updateStatus = getElement<HTMLElement>('#update-status')
 const statusDot = getElement<HTMLElement>('#status-dot')
 const updateButton = getElement<HTMLButtonElement>('#update-button')
 
-let availableUpdate: Update | null = null
 
 const allSocketCounts = [
     ...new Set(
@@ -244,7 +243,6 @@ async function checkAppVersion() {
             return
         }
 
-        availableUpdate = update
 
         updateStatus.textContent = `v${update.version} available`
         statusDot.className = 'status-dot update'
@@ -259,8 +257,6 @@ async function checkAppVersion() {
 }
 
 checkAppVersion()
-
-renderAppVersion()
 
 function showView(viewName: string) {
     navButtons.forEach(button => {
