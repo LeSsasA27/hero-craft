@@ -13,7 +13,8 @@ import { runewordDetail } from "./ui/runewordDetail.ts";
 import { craftInventoryView } from "./ui/craftInventory.ts";
 import { getVersion } from '@tauri-apps/api/app'
 import { isTauri } from '@tauri-apps/api/core'
-import { check } from '@tauri-apps/plugin-updater'
+import { check, type Update } from '@tauri-apps/plugin-updater'
+import { relaunch } from '@tauri-apps/plugin-process'
 
 
 function getElement<T extends Element>(selector: string): T {
@@ -220,6 +221,8 @@ allSocketCounts.forEach(socketCount => {
     socketFilter.appendChild(option)
 })
 
+let availableUpdate: Update | null = null
+
 async function checkAppVersion() {
     if (!isTauri()) {
         appVersion.textContent = 'Web dev'
@@ -243,6 +246,7 @@ async function checkAppVersion() {
             return
         }
 
+        availableUpdate = update
 
         updateStatus.textContent = `v${update.version} available`
         statusDot.className = 'status-dot update'
@@ -257,6 +261,60 @@ async function checkAppVersion() {
 }
 
 checkAppVersion()
+
+updateButton.addEventListener('click', async () => {
+    if (!availableUpdate) {
+        return
+    }
+
+    updateButton.disabled = true
+    updateButton.textContent = 'Updating...'
+
+    updateStatus.textContent = 'Downloading...'
+    statusDot.className = 'status-dot checking'
+
+    let downloaded = 0
+    let contentLength = 0
+
+    try {
+        await availableUpdate.downloadAndInstall(event => {
+            switch (event.event) {
+                case 'Started':
+                    contentLength = event.data.contentLength ?? 0
+                    break
+
+                case 'Progress':
+                    downloaded += event.data.chunkLength
+
+                    if (contentLength > 0) {
+                        const progress = Math.round(
+                            (downloaded / contentLength) * 100
+                        )
+
+                        updateStatus.textContent =
+                            `Downloading ${progress}%`
+                    }
+                    break
+
+                case 'Finished':
+                    updateStatus.textContent = 'Installing...'
+                    break
+            }
+        })
+
+        updateStatus.textContent = 'Restarting...'
+
+        await relaunch()
+    } catch (error) {
+        console.error('Update failed:', error)
+
+        updateStatus.textContent = 'Update failed'
+        statusDot.className = 'status-dot error'
+
+        updateButton.disabled = false
+        updateButton.textContent = 'Retry'
+    }
+})
 
 function showView(viewName: string) {
     navButtons.forEach(button => {

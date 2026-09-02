@@ -1162,3 +1162,8 @@ select {
 .update-button:hover {
   background: rgba(217, 122, 51, 0.16);
 }
+
+.update-button:disabled {
+  opacity: 0.55;
+  cursor: default;
+}
