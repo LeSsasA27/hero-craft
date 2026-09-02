@@ -1105,3 +1105,60 @@ select {
   font-size: 11px;
   font-weight: 600;
 }
+
+.app-version-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.status-dot {
+  width: 7px;
+  height: 7px;
+  flex-shrink: 0;
+
+  background: var(--text-dim);
+}
+
+.status-dot.checking {
+  background: var(--gold);
+}
+
+.status-dot.success {
+  background: var(--green);
+}
+
+.status-dot.update {
+  background: var(--orange);
+
+  box-shadow:
+          0 0 7px rgba(217, 122, 51, 0.45);
+}
+
+.status-dot.error {
+  background: var(--red);
+}
+
+.status-dot.development {
+  background: var(--blue);
+}
+
+.update-button {
+  padding: 5px 8px;
+
+  background: rgba(217, 122, 51, 0.08);
+  color: var(--orange);
+
+  border: 1px solid var(--orange);
+
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+
+  cursor: pointer;
+}
+
+.update-button:hover {
+  background: rgba(217, 122, 51, 0.16);
+}

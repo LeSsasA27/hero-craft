@@ -13,6 +13,8 @@ import { runewordDetail } from "./ui/runewordDetail.ts";
 import { craftInventoryView } from "./ui/craftInventory.ts";
 import { getVersion } from '@tauri-apps/api/app'
 import { isTauri } from '@tauri-apps/api/core'
+import { check, type Update } from '@tauri-apps/plugin-updater'
+
 
 function getElement<T extends Element>(selector: string): T {
     const element = document.querySelector<T>(selector)
@@ -54,14 +56,24 @@ app.innerHTML = `
             </button>
           </nav>
           
-          <div class="app-status">
-            <div class="app-status-state">
-                <span class="status-dot"></span>
-                <span id="update-status">Desktop app</span>
-            </div>
-            
-            <span id="app-version">v...</span>
+        <div class="app-status">
+          <div class="app-status-state">
+            <span id="status-dot" class="status-dot"></span>
+            <span id="update-status">Checking...</span>
           </div>
+        
+          <div class="app-version-row">
+            <span id="app-version">v...</span>
+        
+            <button
+              id="update-button"
+              class="update-button hidden"
+              type="button"
+            >
+              Update
+            </button>
+          </div>
+        </div>
         </aside>
         
         <main class="content">
@@ -189,6 +201,10 @@ const detailPanel = getElement<HTMLElement>('#detail-panel')
 const clearInventory = getElement<HTMLButtonElement>('#clear-inventory')
 const appVersion = getElement<HTMLElement>('#app-version')
 const updateStatus = getElement<HTMLElement>('#update-status')
+const statusDot = getElement<HTMLElement>('#status-dot')
+const updateButton = getElement<HTMLButtonElement>('#update-button')
+
+let availableUpdate: Update | null = null
 
 const allSocketCounts = [
     ...new Set(
@@ -205,18 +221,44 @@ allSocketCounts.forEach(socketCount => {
     socketFilter.appendChild(option)
 })
 
-async function renderAppVersion() {
+async function checkAppVersion() {
     if (!isTauri()) {
         appVersion.textContent = 'Web dev'
         updateStatus.textContent = 'Development'
+        statusDot.className = 'status-dot development'
         return
     }
 
-    const version = await getVersion()
+    try {
+        const version = await getVersion()
 
-    appVersion.textContent = `v${version}`
-    updateStatus.textContent = 'Desktop app'
+        appVersion.textContent = `v${version}`
+        updateStatus.textContent = 'Checking...'
+        statusDot.className = 'status-dot checking'
+
+        const update = await check()
+
+        if (!update) {
+            updateStatus.textContent = 'Up to date'
+            statusDot.className = 'status-dot success'
+            return
+        }
+
+        availableUpdate = update
+
+        updateStatus.textContent = `v${update.version} available`
+        statusDot.className = 'status-dot update'
+
+        updateButton.classList.remove('hidden')
+    } catch (error) {
+        console.error('Update check failed:', error)
+
+        updateStatus.textContent = 'Update check unavailable'
+        statusDot.className = 'status-dot error'
+    }
 }
+
+checkAppVersion()
 
 renderAppVersion()
 

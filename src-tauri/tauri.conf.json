@@ -42,7 +42,10 @@
   },
   "plugins": {
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEFBMTAyM0Q1OTMwRUNGNDMKUldSRHp3NlQxU01RcWxkbnJPVE9zU3hHU2pGeTRjcHdZOVNHbTVPM3VuYTNjK3Njb2pjQXJTZE8K"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEFBMTAyM0Q1OTMwRUNGNDMKUldSRHp3NlQxU01RcWxkbnJPVE9zU3hHU2pGeTRjcHdZOVNHbTVPM3VuYTNjK3Njb2pjQXJTZE8K",
+      "endpoints": [
+        "https://github.com/LeSsasA27/hero-craft/releases/latest/download/latest.json"
+      ]
     }
   }
 }
