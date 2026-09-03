@@ -28,7 +28,18 @@ jobs:
       - name: install frontend dependencies
         run: npm ci
 
+      - name: read release notes
+        id: release_notes
+        shell: pwsh
+        run: |
+          $notes = Get-Content "release-notes.md" -Raw
+
+          "body<<EOF" >> $env:GITHUB_OUTPUT
+          $notes >> $env:GITHUB_OUTPUT
+          "EOF" >> $env:GITHUB_OUTPUT
+
       - name: build and publish
+        id: tauri
         uses: tauri-apps/tauri-action@v0.6.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -37,6 +48,30 @@ jobs:
         with:
           tagName: v__VERSION__
           releaseName: "Hero Craft v__VERSION__"
-          generateReleaseNotes: true
+          releaseBody: ${{ steps.release_notes.outputs.body }}
           releaseDraft: false
           prerelease: false
+
+      - name: add notes to updater json
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          $version = "${{ steps.tauri.outputs.appVersion }}"
+          $tag = "v$version"
+
+          gh release download $tag `
+            --pattern "latest.json" `
+            --dir updater-temp
+
+          $jsonPath = "updater-temp/latest.json"
+          $json = Get-Content $jsonPath -Raw | ConvertFrom-Json
+          $notes = Get-Content "release-notes.md" -Raw
+
+          $json.notes = $notes
+
+          $json |
+            ConvertTo-Json -Depth 20 |
+            Set-Content $jsonPath -Encoding utf8NoBOM
+
+          gh release upload $tag $jsonPath --clobber
