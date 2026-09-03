@@ -1,0 +1,1084 @@
+[
+  {
+    "name": "Girdle of Resilience",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 8,
+    "image": "https://herosiege.wiki.gg/images/Belts_Girdle_of_Resilience.png?2b59b3",
+    "properties": {
+      "Defense": "4-7"
+    },
+    "stats": [
+      "+[15-30]% Enhanced Defense",
+      "+[5-10]% Increased Movement Speed",
+      "+[3-5] to Intelligence",
+      "+30 to Life",
+      "+[15-20]% Faster Hit Recovery",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "Bronze Legion Girdle",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 10,
+    "image": "https://herosiege.wiki.gg/images/Belts_Bronze_Legion_Girdle.png?51c9a7",
+    "properties": {
+      "Defense": "4-8"
+    },
+    "stats": [
+      "+[30-50]% Enhanced Defense",
+      "Replenish Mana [30-35]%",
+      "+[15-25] to Mana",
+      "+1 to Light Radius",
+      "+5% to All Resistances",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "USB's Cord",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 11,
+    "image": "https://herosiege.wiki.gg/images/Belts_USBs_Cord.png?bbef60",
+    "properties": {
+      "Defense": "12-12"
+    },
+    "stats": [
+      "+128% Enhanced Defense",
+      "+32 to Attack Rating",
+      "+8 to Additive Lightning Damage",
+      "+64 to Mana",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "Belt of War",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 12,
+    "image": "https://herosiege.wiki.gg/images/Belts_Belt_of_War.png?59a8b9",
+    "properties": {
+      "Defense": "4-8"
+    },
+    "stats": [
+      "+[30-50]% Enhanced Defense",
+      "+50 to Attack Rating",
+      "+[10-15]% Life stolen per Hit",
+      "+3 to All Attributes",
+      "+[20-35] to Life",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "Guardian's Waistband",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 16,
+    "image": "https://herosiege.wiki.gg/images/Belts_Guardians_Waistband.png?b52996",
+    "properties": {
+      "Defense": "4-7"
+    },
+    "stats": [
+      "+[30-35]% Enhanced Defense",
+      "+10 to Vitality",
+      "+[5-15]% to All Resistances",
+      "-[15-20]% to Enemy Poison Resistance",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "Storm's Dawn",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 20,
+    "image": "https://herosiege.wiki.gg/images/Belts_Storms_Dawn.png?d7dc9a",
+    "properties": {
+      "Defense": "8-16"
+    },
+    "stats": [
+      "Lightning Skill Damage increased by [5-12]%",
+      "-5% to Enemy Lightning Resistance",
+      "+[30-40] to Mana",
+      "-40% to Lightning Resistance",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "Pitfighter's Razor Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 23,
+    "image": "https://herosiege.wiki.gg/images/Belts_Pitfighters_Razor_Belt.png?d93432",
+    "properties": {
+      "Defense": "12-28"
+    },
+    "stats": [
+      "+[50-70]% Enhanced Defense",
+      "+25% Chance for a Deadly Blow",
+      "+5% Increased Attack Rating",
+      "+[40-60] to Attack Rating",
+      "+15 to Strength",
+      "+15 to Dexterity",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "Heavy Duty",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 26,
+    "image": "https://herosiege.wiki.gg/images/Belts_Heavy_Duty.png?c378d8",
+    "properties": {
+      "Defense": "12-28"
+    },
+    "stats": [
+      "+[50-70]% Enhanced Defense",
+      "+15% Increased Movement Speed",
+      "+10 to Strength",
+      "+10 to Vitality",
+      "Replenish Life 20%",
+      "+[25-50] to Life",
+      "+[20-30]% Faster Hit Recovery",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "Brute's Cord",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 28,
+    "image": "https://herosiege.wiki.gg/images/Belts_Brutes_Cord.png?65932a",
+    "properties": {
+      "Defense": "12-28"
+    },
+    "stats": [
+      "+[50-70]% Enhanced Defense",
+      "+10% Increased Critical Strike Chance",
+      "+[30-50] to Additive Physical Damage",
+      "+[5-10]% Increased Critical Strike Damage",
+      "+20% of target Defense ignored",
+      "+20 to Strength",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "Runemaster's Waistwrap",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 30,
+    "image": "https://herosiege.wiki.gg/images/Belts_Runemasters_Waistwrap.png?a23cc3",
+    "properties": {
+      "Defense": "8-16"
+    },
+    "stats": [
+      "+[2-10] to Energy",
+      "+5 to Intelligence",
+      "Arcane Skill Damage increased by 12%",
+      "Magic Damage Taken Reduced by 3%",
+      "Belt Slots: 3"
+    ]
+  },
+  {
+    "name": "Assassin's Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 34,
+    "image": "https://herosiege.wiki.gg/images/Belts_Assassins_Belt.png?e4e900",
+    "properties": {
+      "Defense": "26-47"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "+[8-15]% Increased Attack Rating",
+      "+[6-10]% Life stolen per Hit",
+      "+15 to Dexterity",
+      "Physical Damage Taken Reduced by 5%",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Lich Sash",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 36,
+    "image": "https://herosiege.wiki.gg/images/Belts_Lich_Sash.png?e6d4a7",
+    "properties": {
+      "Defense": "26-47"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "+1 to All Skills",
+      "Arcane Skill Damage increased by [3-8]%",
+      "Mana Increased by 5%",
+      "+[45-60]% to Arcane Resistance",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Tundra Warrior's Girdle",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 38,
+    "image": "https://herosiege.wiki.gg/images/Belts_Tundra_Warriors_Girdle.png?83e3ee",
+    "properties": {
+      "Defense": "26-47"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "+[50-75] to Attack Rating",
+      "+[20-30] to Additive Physical Damage",
+      "+10 to Strength",
+      "+10 to Dexterity",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Solar Magister's Sash",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 38,
+    "image": "https://herosiege.wiki.gg/images/Belts_Solar_Magisters_Sash.png?db995b",
+    "properties": {
+      "Defense": "20-32"
+    },
+    "stats": [
+      "5% Chance when Striking [Supernova] Level 9",
+      "+[5-15] to Strength",
+      "+5 to All Attributes",
+      "+[70-90] to Additive Fire Damage",
+      "+[25-40]% to Fire Resistance",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Vipermagi's Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Belts_Vipermagis_Belt.png?1e14cb",
+    "properties": {
+      "Defense": "26-47"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "+[10-20]% Faster Cast Rate",
+      "+10 to Energy",
+      "Replenish Mana 15%",
+      "+15% to All Resistances",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Crystal Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 41,
+    "image": "https://herosiege.wiki.gg/images/Belts_Crystal_Belt.png?5e6f1b",
+    "properties": {
+      "Defense": "26-47"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "+[8-15] to All Attributes",
+      "+15% Faster Hit Recovery",
+      "+[15-20]% to All Resistances",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Foxweave Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 42,
+    "image": "https://herosiege.wiki.gg/images/Belts_Foxweave_Belt.png?917301",
+    "properties": {
+      "Defense": "26-47"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "Cold Skill Damage increased by 5%",
+      "+[30-75] to Mana",
+      "+75% to Cold Resistance",
+      "Cannot be Frozen",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Gaze of the Void",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 46,
+    "image": "https://herosiege.wiki.gg/images/Belts_Gaze_of_the_Void.png?beeee8",
+    "properties": {
+      "Defense": "54-84"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "Arcane Skill Damage increased by [3-8]%",
+      "-[3-8]% to Enemy Arcane Resistance",
+      "Physical Damage Taken Reduced by 5%",
+      "+[30-40]% to Arcane Resistance",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Sun Wukong's Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 48,
+    "image": "https://herosiege.wiki.gg/images/Belts_Sun_Wukongs_Belt.png?980fc5",
+    "properties": {
+      "Defense": "54-84"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+10 to Vitality",
+      "Replenish Life [10-15]%",
+      "+175 to Life (Based on Level)",
+      "+[3-8]% to All Resistances",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Tribal Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 50,
+    "image": "https://herosiege.wiki.gg/images/Belts_Tribal_Belt.png?94b96c",
+    "properties": {
+      "Defense": "54-84"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+20% Increased Attack Speed",
+      "+15% Chance for a Deadly Blow",
+      "+[75-100] to Attack Rating",
+      "+10% to All Resistances",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Warbosses' Trophy Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Belts_Warbosses_Trophy_Belt.png?362b7f",
+    "properties": {
+      "Defense": "54-84"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+5% Increased Critical Strike Chance",
+      "+[5-15]% Increased Critical Strike Damage",
+      "+30 to Strength",
+      "+8 to Vitality",
+      "+225 to Damage (Based on Level)",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Cingulum of Shifting Destiny",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 55,
+    "image": "https://herosiege.wiki.gg/images/Belts_Cingulum_of_Shifting_Destiny.png?904b52",
+    "properties": {
+      "Defense": "90-132"
+    },
+    "stats": [
+      "+[150-175]% Enhanced Defense",
+      "+[2-3] to All Skills",
+      "+[8-15] to All Attributes",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Monkeyskin Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Belts_Monkeyskin_Belt.png?99955e",
+    "properties": {
+      "Defense": "169-225"
+    },
+    "stats": [
+      "+[125-150]% Enhanced Defense",
+      "+[30-40] to Vitality",
+      "Replenish Life [25-35]%",
+      "+[50-75]% Faster Hit Recovery",
+      "+75% to Cold Resistance",
+      "+75% to Fire Resistance",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Hatshepsut's Girdle",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Belts_Hatshepsuts_Girdle.png?8ff380",
+    "properties": {
+      "Defense": "53-80"
+    },
+    "stats": [
+      "+[45-65]% Enhanced Defense",
+      "+10% Increased Attack Speed",
+      "+3 to Light Radius",
+      "+[10-20]% Extra Gold Dropped From Kills",
+      "+[5-12]% Increased Magic Find",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Ashen Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Belts_Ashen_Belt.png?4ec134",
+    "properties": {
+      "Defense": "54-84"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+[340-360] to Additive Fire Damage",
+      "+200 to Life (Based on Level)",
+      "+[35-50]% to Fire Resistance",
+      "+10% to Maximum Fire Resist",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Combat Duty Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Belts_Combat_Duty_Belt.png?93c4f9",
+    "properties": {
+      "Defense": "54-84"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+5% Chance for a Crushing Blow",
+      "+[15-20]% Increased Attack Rating",
+      "+[50-60] to Additive Physical Damage",
+      "+15 to Strength",
+      "+15 to Armor",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Tether of Anguish",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 72,
+    "image": "https://herosiege.wiki.gg/images/Belts_Tether_of_Anguish.png?545038",
+    "properties": {
+      "Defense": "58-82"
+    },
+    "stats": [
+      "+[60-70]% Enhanced Defense",
+      "Extra Damage to Poisoned Monsters [12-20]%",
+      "Poison Skill Damage increased by [12-20]%",
+      "-[10-15]% to Enemy Poison Resistance",
+      "+[40-60]% to Poison Resistance",
+      "Poison Length Reduced by 25%",
+      "Belt Slots: 4"
+    ]
+  },
+  {
+    "name": "Commander's Sash",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Belts_Commanders_Sash.png?eae41e",
+    "properties": {
+      "Defense": "78-126"
+    },
+    "stats": [
+      "+[50-85]% Enhanced Defense",
+      "+1 to All Skills",
+      "+10% Increased Attack Speed",
+      "+[3-5]% Life stolen per Hit",
+      "+[3-5]% Mana stolen per Hit",
+      "Slows target by 10%",
+      "+[10-15] to Strength",
+      "+[20-25] to Dexterity",
+      "+3 Mana After each Kill",
+      "-3 to Light Radius",
+      "Physical Damage Taken Reduced by [5-10]%",
+      "+[15-20]% to All Resistances",
+      "Piercing Attack",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Knight's Girdle",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Belts_Knights_Girdle.png?73fe4e",
+    "properties": {
+      "Defense": "86-126"
+    },
+    "stats": [
+      "+[65-85]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[30-40] to Vitality",
+      "+[40-60]% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by [2-4]%",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Ice Queen's Cestus",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Belts_Ice_Queens_Cestus.png?e12860",
+    "properties": {
+      "Defense": "84-116"
+    },
+    "stats": [
+      "+[60-70]% Enhanced Defense",
+      "+20 to Energy",
+      "Cold Skill Damage increased by [10-25]%",
+      "+[8-15]% of Damage Taken goes to Mana",
+      "+[40-50]% to Cold Resistance",
+      "Cannot be Frozen",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Sash of the Magi",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 97,
+    "image": "https://herosiege.wiki.gg/images/Belts_Sash_of_the_Magi.png?e49d39",
+    "properties": {
+      "Defense": "84-116"
+    },
+    "stats": [
+      "+[60-70]% Enhanced Defense",
+      "+[10-20]% Faster Cast Rate",
+      "Magic Skill Damage increased by [15-25]%",
+      "+[40-65] to Life",
+      "Mana Increased by 4%",
+      "Belt Slots: 5",
+      "[Manapool Aura] Level [12-18]"
+    ]
+  },
+  {
+    "name": "Rugal's Sash of Undertaking",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Belts_Rugals_Sash_of_Undertaking.png?2b15ab",
+    "properties": {
+      "Defense": "137-184"
+    },
+    "stats": [
+      "12% Chance when Struck [Meat Shield] Level 32",
+      "+[110-130]% Enhanced Defense",
+      "+20 to All Attributes",
+      "-[8-18]% to Enemy Arcane Resistance",
+      "Physical Damage Taken Reduced by [8-15]%",
+      "+30% to All Resistances",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Lunar Prophet's Girdle",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 72,
+    "image": "https://herosiege.wiki.gg/images/Belts_Lunar_Prophets_Girdle.png?3ee3f9",
+    "properties": {
+      "Defense": "74-99"
+    },
+    "stats": [
+      "+[60-70]% Enhanced Defense",
+      "+[218-250] to Cold Skill Damage",
+      "-[12-20]% to Enemy Cold Resistance",
+      "+8% Cold Damage Absorbed",
+      "+[40-60]% to Cold Resistance",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Traveler's Double Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 77,
+    "image": "https://herosiege.wiki.gg/images/Belts_Travelers_Double_Belt.png?fe84fa",
+    "properties": {
+      "Defense": "68-102"
+    },
+    "stats": [
+      "+[30-50]% Enhanced Defense",
+      "+25 to Strength",
+      "+[25-35] to Dexterity",
+      "+[10-20] to All Attributes",
+      "+[40-50]% to Arcane Resistance",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Thunder Caller's Sash",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Belts_Thunder_Callers_Sash.png?331ce9",
+    "properties": {
+      "Defense": "73-109"
+    },
+    "stats": [
+      "+[40-60]% Enhanced Defense",
+      "+[2-4] to [Symphony of Thunder]",
+      "+[15-25] to Intelligence",
+      "+40% Defense vs Missiles",
+      "+[5-15]% of Damage Taken goes to Mana",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Engineer's Toolbelt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Belts_Engineers_Toolbelt.png?297ad8",
+    "properties": {
+      "Defense": "76-119"
+    },
+    "stats": [
+      "+[45-75]% Enhanced Defense",
+      "+10% Increased Movement Speed",
+      "+20% Faster Cast Rate",
+      "Arcane Skill Damage increased by [12-20]%",
+      "Explosion area of effect increased by [10-15]%",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Earth Shaper's Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Belts_Earth_Shapers_Belt.png?77eda1",
+    "properties": {
+      "Defense": "76-119"
+    },
+    "stats": [
+      "+[45-75]% Enhanced Defense",
+      "+[18-25] to Armor",
+      "Replenish Mana [8-15]%",
+      "+[35-50] to Life",
+      "+[25-40] to Mana",
+      "+5% to All Resistances",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Butcher's Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Belts_Butchers_Belt.png?e8ef2d",
+    "properties": {
+      "Defense": "91-153"
+    },
+    "stats": [
+      "+[75-125]% Enhanced Defense",
+      "+[1-3] to Physical Skills",
+      "+[15-25] to Dexterity",
+      "Replenish Life [15-35]%",
+      "Damage Taken Reduced by [20-40]",
+      "+[20-30]% to All Resistances",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Vagabond's Strap",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Belts_Vagabonds_Strap.png?f322c6",
+    "properties": {
+      "Defense": "76-119"
+    },
+    "stats": [
+      "+[45-75]% Enhanced Defense",
+      "+[5-10]% Increased Critical Strike Chance",
+      "+[20-35]% Increased Critical Strike Damage",
+      "+250 to Damage (Based on Level)",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Flame Diviner's Cord",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 90,
+    "image": "https://herosiege.wiki.gg/images/Belts_Flame_Diviners_Cord.png?24059a",
+    "properties": {
+      "Defense": "76-119"
+    },
+    "stats": [
+      "5% Chance when Struck [Hydra] Level 34",
+      "+[45-75]% Enhanced Defense",
+      "Fire Skill Damage increased by [3-8]%",
+      "+[20-40]% to Fire Resistance",
+      "+[10-25]% Increased Magic Find",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Justiciar's Thunder Sash",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 90,
+    "image": "https://herosiege.wiki.gg/images/Belts_Justiciars_Thunder_Sash.png?604825",
+    "properties": {
+      "Defense": "76-119"
+    },
+    "stats": [
+      "+[45-75]% Enhanced Defense",
+      "+[3-5] to [Lightning Fury]",
+      "+[2-4] to [Eye of the Storm]",
+      "+[10-15]% Faster Cast Rate",
+      "Mana Increased by [2-5]%",
+      "+[20-40]% to Arcane Resistance",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Trophy Hunter",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Belts_Trophy_Hunter.png?4e675b",
+    "properties": {
+      "Defense": "78-123"
+    },
+    "stats": [
+      "001% Chance after each Kill [Collector] Level 1",
+      "+[50-80]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[15-35]% Increased Movement Speed",
+      "+20% Increased Attack Rating",
+      "+[5-20] to All Attributes",
+      "+[10-25] Life After each Kill",
+      "+[10-25] Mana After each Kill",
+      "Belt Slots: 5",
+      "Unbreakable"
+    ]
+  },
+  {
+    "name": "Belt of Skulls",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Belts_Belt_of_Skulls.png?6cf5b8",
+    "properties": {
+      "Defense": "76-119"
+    },
+    "stats": [
+      "+[45-75]% Enhanced Defense",
+      "+[20-35]% Increased Movement Speed",
+      "+25% Chance for a Deadly Blow",
+      "+15% Chance for a Crushing Blow",
+      "+[10-15]% Life stolen per Hit",
+      "Extra Damage to Bleeding Monsters [5-15]%",
+      "Attack Damage increased by [25-40]%",
+      "+40% Faster Hit Recovery",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Sash of Eternal Hatred",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Belts_Sash_of_Eternal_Hatred.png?41efb4",
+    "properties": {
+      "Defense": "76-119"
+    },
+    "stats": [
+      "+[45-75]% Enhanced Defense",
+      "+[15-30] to Vitality",
+      "+75% Faster Hit Recovery",
+      "Unholy Stat",
+      "Unholy Stat",
+      "Unholy Stat",
+      "Belt Slots: 5",
+      "Unbreakable"
+    ]
+  },
+  {
+    "name": "Belt of Infinite Wealth",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Belts_Belt_of_Infinite_Wealth.png?3d9fc0",
+    "properties": {
+      "Defense": "76-109"
+    },
+    "stats": [
+      "+[45-60]% Enhanced Defense",
+      "Physical Damage Taken Reduced by 10%",
+      "+25% Magic Find (Based on Level)",
+      "+[25-40]% Extra Gold Dropped From Kills",
+      "+[20-25]% Increased Magic Find",
+      "+[1-5]% Increased Experience Gain",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Soulburn Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Belts_Soulburn_Belt.png?ce39d9",
+    "properties": {
+      "Defense": "165-240"
+    },
+    "stats": [
+      "[3-5]% Chance when Attacking [Soulburn] Level 23",
+      "+[120-140]% Enhanced Defense",
+      "+[1-3] to Fire Skills",
+      "Extra Damage to Burning Monsters [5-15]%",
+      "+30 to Intelligence",
+      "Fire Skill Damage increased by [15-25]%",
+      "-[15-30]% to Enemy Fire Resistance",
+      "Replenish Mana [25-40]%",
+      "+[10-15]% Fire Damage Absorbed",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Freya's Frozen Buckle",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Belts_Freyas_Frozen_Buckle.png?22ef62",
+    "properties": {
+      "Defense": "165-240"
+    },
+    "stats": [
+      "14% Chance when Casting [Frozen Boulder] Level 76",
+      "+[120-140]% Enhanced Defense",
+      "+[2-4] to Cold Skills",
+      "+20 to Energy",
+      "+20 to Intelligence",
+      "Cold Skill Damage increased by [15-25]%",
+      "Replenish Mana [25-40]%",
+      "+[10-15]% Cold Damage Absorbed",
+      "Cannot be Frozen",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Gladiator King's Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Belts_Gladiator_Kings_Belt.png?e68bd0",
+    "properties": {
+      "Defense": "86-136"
+    },
+    "stats": [
+      "+[65-100]% Enhanced Defense",
+      "+2 to All Skills",
+      "Extra Damage to Bleeding Monsters [40-50]%",
+      "+[10-20] to All Attributes",
+      "+15% to All Resistances",
+      "Belt Slots: 5",
+      "Unbreakable"
+    ]
+  },
+  {
+    "name": "Komodos Bloodstrap",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Belts_Komodos_Bloodstrap.png?90e56b",
+    "properties": {
+      "Defense": "73-109"
+    },
+    "stats": [
+      "[5-10]% Chance after Blocking [Defunct Surgeon] Level [20-30]",
+      "+[40-60]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[10-22] to [Devout Doctor]",
+      "Replenish Life 15%",
+      "Life Increased by [6-10]%",
+      "Physical Damage Taken Reduced by [8-14]%",
+      "+410 to Life (Based on Level)",
+      "Belt Slots: 5",
+      "Unbreakable"
+    ]
+  },
+  {
+    "name": "Set's Lightning Sash",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Belts_Sets_Lightning_Sash.png?4f7c1f",
+    "properties": {
+      "Defense": "165-240"
+    },
+    "stats": [
+      "4% Chance when Attacking [Static Shock] Level 24",
+      "+[120-140]% Enhanced Defense",
+      "+[3-6] to Lightning Skills",
+      "Stasis Damage increased by [25-35]%",
+      "+30 to Vitality",
+      "Lightning Skill Damage increased by [25-35]%",
+      "Replenish Mana [25-40]%",
+      "+[10-15]% Lightning Damage Absorbed",
+      "+10% to Maximum Lightning Resist",
+      "Belt Slots: 5"
+    ]
+  },
+  {
+    "name": "Liquor Holster",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Belts_Liquor_Holster.png?bd52a4",
+    "properties": {
+      "Defense": "81-123"
+    },
+    "stats": [
+      "+[55-80]% Enhanced Defense",
+      "+[2-4] to [Liquid Containers]",
+      "+[8-20]% Increased Movement Speed",
+      "+[18-30] to All Attributes"
+    ]
+  },
+  {
+    "name": "Majorie's Belt",
+    "category": "Jewellery",
+    "type": "Belts",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Belts_Majories_Belt.png?2d50ff",
+    "properties": {
+      "Defense": "165-240"
+    },
+    "stats": [
+      "5% Chance when Struck [Valors Defender] Level 21",
+      "+[120-140]% Enhanced Defense",
+      "+[1-3] to All Skills",
+      "+[4-8] to [Shield Wall]",
+      "Potion Cooldown Recovery Increased by [5-25]%",
+      "+[15-35] to All Attributes",
+      "+[150-250]% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by [5-15]%",
+      "Belt Slots: 5"
+    ]
+  }
+]

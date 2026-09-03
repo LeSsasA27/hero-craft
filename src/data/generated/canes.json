@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Crystal Cane of Ice",
+    "category": "Weapons",
+    "type": "Canes",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 24,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Cane_Crystal_Cane_of_Ice.png?20c71f",
+    "properties": {
+      "Damage": "4-7",
+      "APS": "1.25",
+      "DPS": "5-9"
+    },
+    "stats": [
+      "15% Chance when Struck [Avalanche] Level 17",
+      "+1 to All Skills",
+      "+[4-8] Mana per second",
+      "Replenish Mana [8-15]%",
+      "+[8-15] Life After each Kill",
+      "+[10-20]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Cane of the Tundra",
+    "category": "Weapons",
+    "type": "Canes",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Cane_Cane_of_the_Tundra.png?fe74c0",
+    "properties": {
+      "Damage": "32-42",
+      "APS": "1.14",
+      "DPS": "37-48"
+    },
+    "stats": [
+      "15% Chance when Casting [Blizzard] Level 44",
+      "+[2-4] to All Skills",
+      "+[1230-1245] to Cold Skill Damage",
+      "Cold Skill Damage increased by [15-25]%",
+      "+[310-325] to Mana",
+      "+[15-35] Mana After each Kill",
+      "+[40-60]% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Crackling Thunder",
+    "category": "Weapons",
+    "type": "Canes",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 86,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Cane_Crackling_Thunder.png?a6bdbf",
+    "properties": {
+      "Damage": "45-73",
+      "APS": "1.8",
+      "DPS": "81-132"
+    },
+    "stats": [
+      "30% Chance when Casting [Thunder Orb] Level 3",
+      "+[3-5] to All Skills",
+      "+[4-8] to Lightning Skills",
+      "+55 to Energy",
+      "+40 to Intelligence",
+      "Lightning Skill Damage increased by [10-60]%",
+      "-[20-30]% to Enemy Lightning Resistance",
+      "+150% Increased Magic Find",
+      "Socketed (3-6)"
+    ]
+  },
+  {
+    "name": "The Eye of Tarethiel",
+    "category": "Weapons",
+    "type": "Canes",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Cane_The_Eye_of_Tarethiel.png?ad400c",
+    "properties": {
+      "Damage": "32-42",
+      "APS": "1.25",
+      "DPS": "40-53"
+    },
+    "stats": [
+      "13% Chance when Casting [Eye of Tarethiel] Level 72",
+      "+[5-10] to All Skills",
+      "+8 to [Age Proliferation]",
+      "+8 to [Temporal Heroes]",
+      "Cooldown Recovery Increased by [20-45]%",
+      "+[30-45] to Energy",
+      "Arcane Skill Damage increased by [15-30]%",
+      "Replenish Mana [25-35]%",
+      "+[8-15] Life After each Kill",
+      "+[15-30]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Blood of Abaddon",
+    "category": "Weapons",
+    "type": "Canes",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Cane_Blood_of_Abaddon.png?3b44e5",
+    "properties": {
+      "Damage": "32-42",
+      "APS": "1.14",
+      "DPS": "37-48"
+    },
+    "stats": [
+      "+[2-4] to All Skills",
+      "+[12-20] to [Blood Surge]",
+      "+[6-10] Mana per second",
+      "+[30-40] to Energy",
+      "+[15-20] to Vitality",
+      "Arcane Skill Damage increased by [25-45]%",
+      "Replenish Mana [35-45]%",
+      "+[420-440] to Mana"
+    ]
+  },
+  {
+    "name": "Pagan God's Blasphemy",
+    "category": "Weapons",
+    "type": "Canes",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Cane_Pagan_Gods_Blasphemy.png?8a9152",
+    "properties": {
+      "Damage": "32-42",
+      "APS": "1",
+      "DPS": "32-42"
+    },
+    "stats": [
+      "1% Chance when Struck [Despair] Level 666",
+      "30% Chance when Casting [Judgement] Level 333",
+      "+[2-4] to All Skills",
+      "+40% Faster Cast Rate",
+      "+[4-8] Mana per second",
+      "+[20-40] to All Attributes",
+      "Magic Skill Damage increased by [20-50]%",
+      "+[4-8] to Light Radius"
+    ]
+  },
+  {
+    "name": "St. Nimo's Lightbringer",
+    "category": "Weapons",
+    "type": "Canes",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Cane_St._Nimos_Lightbringer.png?2d8771",
+    "properties": {
+      "Damage": "32-42",
+      "APS": "0.77",
+      "DPS": "25-33"
+    },
+    "stats": [
+      "+[4-5] to All Skills",
+      "+[15-25]% Increased Movement Speed",
+      "+[8-15] to Vitality",
+      "Attack Damage increased by value1%",
+      "Magic Skill Damage increased by value1%",
+      "+[25-35]% to All Resistances",
+      "[Mirror Aura] Level 1 (Holder Only)",
+      "Socketed (4)"
+    ]
+  }
+]

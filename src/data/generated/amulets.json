@@ -1,0 +1,1107 @@
+[
+  {
+    "name": "Rapidshell Medallion",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 9,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Rapidshell_Medallion.png?de1b69",
+    "properties": {},
+    "stats": [
+      "+10% Faster Cast Rate",
+      "+10% Increased Attack Speed",
+      "+[7-15] to Vitality",
+      "+[1-3]% Increased Experience Gain"
+    ]
+  },
+  {
+    "name": "Lifeblood Infuser",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 11,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Lifeblood_Infuser.png?a483fc",
+    "properties": {},
+    "stats": [
+      "+[2-4]% Mana stolen per Hit",
+      "+15 to Strength",
+      "+[15-35] to Life",
+      "+4 Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Arcane Slayer's Talisman",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 14,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Arcane_Slayers_Talisman.png?c90d5a",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "+[4-8] to Energy",
+      "Replenish Mana 10%",
+      "Magic Damage Taken Reduced by 2%"
+    ]
+  },
+  {
+    "name": "Soulreplenish Pendant",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 21,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Soulreplenish_Pendant.png?23a7c5",
+    "properties": {},
+    "stats": [
+      "+15 to Energy",
+      "+20 to Vitality",
+      "Replenish Life [15-30]%",
+      "Replenish Mana [20-35]%"
+    ]
+  },
+  {
+    "name": "Eagerblade's Tooth",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 24,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Eagerblades_Tooth.png?ed7e13",
+    "properties": {},
+    "stats": [
+      "+7% Increased Critical Strike Chance",
+      "+50 to Attack Rating",
+      "+[40-60] to Additive Physical Damage",
+      "+8 to Armor"
+    ]
+  },
+  {
+    "name": "Insignia of the Burning Legion",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 27,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Insignia_of_the_Burning_Legion.png?e832a1",
+    "properties": {},
+    "stats": [
+      "6% Chance when Attacking [Fire Enchant] Level 7",
+      "+[10-20]% Increased Attack Speed",
+      "+15 Life After each Kill"
+    ]
+  },
+  {
+    "name": "Coldsnap Insignia",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 30,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Coldsnap_Insignia.png?466d7e",
+    "properties": {},
+    "stats": [
+      "+10 to Intelligence",
+      "Cold Skill Damage increased by [5-15]%",
+      "Magic Skill Damage increased by 5%",
+      "+[30-40]% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Stone of Archaeology",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 34,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Stone_of_Archaeology.png?35e6c3",
+    "properties": {},
+    "stats": [
+      "+[10-20]% Increased Movement Speed",
+      "+[8-15]% Extra Gold Dropped From Kills",
+      "+[10-15]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Amethyst Knight's Amulet",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 38,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Amethyst_Knights_Amulet.png?cad163",
+    "properties": {},
+    "stats": [
+      "+10 to Energy",
+      "Arcane Skill Damage increased by [120-200]%",
+      "+15% to All Resistances",
+      "+50% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Gambler's Demise",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 38,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Gamblers_Demise.png?447edf",
+    "properties": {},
+    "stats": [
+      "+[1-50] to Strength",
+      "+[1-50] to Intelligence",
+      "+[1-350] to Life"
+    ]
+  },
+  {
+    "name": "Storm Pendant",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Storm_Pendant.png?936ba0",
+    "properties": {},
+    "stats": [
+      "+[1-2] to Lightning Skills",
+      "+10 to Energy",
+      "+[80-120] to Lightning Skill Damage",
+      "+40% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Elder's Heart",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 42,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Elders_Heart.png?2153d0",
+    "properties": {},
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "+[7-10]% Increased Attack Rating",
+      "+15 to All Attributes",
+      "+20% to All Resistances"
+    ]
+  },
+  {
+    "name": "Pyramid Pendant",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 46,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Pyramid_Pendant.png?3fcc53",
+    "properties": {},
+    "stats": [
+      "+[10-15] to Vitality",
+      "Replenish Life [10-15]%",
+      "+[20-30] to Life"
+    ]
+  },
+  {
+    "name": "Claw of the Hunter",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Claw_of_the_Hunter.png?2873a0",
+    "properties": {},
+    "stats": [
+      "+20% Increased Attack Rating",
+      "+[325-360] to Additive Poison Damage",
+      "+3 to Light Radius",
+      "+[50-75]% of Damage Returned to the Attacker",
+      "+75% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Ritual Pendant",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 59,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Ritual_Pendant.png?74a10c",
+    "properties": {},
+    "stats": [
+      "+[3-6]% Life stolen per Hit",
+      "+[11-15]% Mana stolen per Hit",
+      "+45 to Mana",
+      "-2 to Light Radius",
+      "+10% of Damage Taken goes to Mana",
+      "Magic Damage Taken Reduced by 10%"
+    ]
+  },
+  {
+    "name": "Scout's Medal of Honor",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 60,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Scouts_Medal_of_Honor.png?6ce8e7",
+    "properties": {},
+    "stats": [
+      "+20% Increased Movement Speed",
+      "+[4-8]% Increased Attack Rating",
+      "+15 to Strength",
+      "+10 to Dexterity",
+      "+4 to All Attributes"
+    ]
+  },
+  {
+    "name": "Arcana Eye",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 61,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Arcana_Eye.png?338b6c",
+    "properties": {},
+    "stats": [
+      "+20% Faster Cast Rate",
+      "+4% Mana stolen per Hit",
+      "+15 to Energy",
+      "Magic Skill Damage increased by [8-15]%",
+      "+[20-30] to Mana"
+    ]
+  },
+  {
+    "name": "Visage's Eye",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Visages_Eye.png?249fc9",
+    "properties": {},
+    "stats": [
+      "+20% Faster Cast Rate",
+      "+[3-6]% Mana stolen per Hit",
+      "Replenish Mana 25%",
+      "+[10-15]% of Damage Taken goes to Mana"
+    ]
+  },
+  {
+    "name": "Baby Log Necklace",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Baby_Log_Necklace.png?1d239b",
+    "properties": {},
+    "stats": [
+      "Replenish Life [15-30]%",
+      "+[150-225] to Life",
+      "+[75-100]% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by 5%"
+    ]
+  },
+  {
+    "name": "Eye of Horus",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Eye_of_Horus.png?84773f",
+    "properties": {},
+    "stats": [
+      "+15 to Energy",
+      "+15 to Vitality",
+      "+[8-12] Life After each Kill",
+      "+[8-12] Mana After each Kill",
+      "Life Increased by [2-4]%",
+      "Mana Increased by [2-4]%"
+    ]
+  },
+  {
+    "name": "Treasure Pendant",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 66,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Treasure_Pendant.png?49906c",
+    "properties": {},
+    "stats": [
+      "+10% Increased Movement Speed",
+      "+[15-20]% Extra Gold Dropped From Kills",
+      "+[10-30]% Increased Magic Find",
+      "+[1-3]% Increased Experience Gain"
+    ]
+  },
+  {
+    "name": "Rift Warrior's Skull",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Rift_Warriors_Skull.png?8ce317",
+    "properties": {},
+    "stats": [
+      "+[11-15]% Mana stolen per Hit",
+      "+20 to Energy",
+      "+25 to Intelligence",
+      "Replenish Mana 25%",
+      "+[10-15] Mana After each Kill"
+    ]
+  },
+  {
+    "name": "High Demon's Necklace",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 83,
+    "image": "https://herosiege.wiki.gg/images/Amulets_High_Demons_Necklace.png?27cae5",
+    "properties": {},
+    "stats": [
+      "+[1-2] to All Skills",
+      "+[3-7]% Life stolen per Hit",
+      "+[450-480] to Additive Cold Damage",
+      "+[30-50]% Defense vs Missiles"
+    ]
+  },
+  {
+    "name": "Earth Goliath's Protection",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Earth_Goliaths_Protection.png?eb625f",
+    "properties": {},
+    "stats": [
+      "+[20-30] to Vitality",
+      "+[3-6]% Increased Defense",
+      "+[75-125]% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by [5-10]%"
+    ]
+  },
+  {
+    "name": "Lost Dieties Authority",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Lost_Dieties_Authority.png?246add",
+    "properties": {},
+    "stats": [
+      "+[400-450] to Attack Rating",
+      "+[10-15] Life After each Kill",
+      "+[35-45]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Dark Lord's Sigil",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 86,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Dark_Lords_Sigil.png?d8c463",
+    "properties": {},
+    "stats": [
+      "+[1-2] to Arcane Skills",
+      "+[250-300] to Arcane Skill Damage",
+      "Arcane Skill Damage increased by [15-30]%",
+      "+[50-75]% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Unfathomable Puzzle",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 86,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Unfathomable_Puzzle.png?552549",
+    "properties": {},
+    "stats": [
+      "Magic Skill Damage increased by [17-30]%",
+      "Replenish Life [10-20]%",
+      "Replenish Mana [10-20]%",
+      "+[40-50] to Life",
+      "+[35-45] to Mana"
+    ]
+  },
+  {
+    "name": "Serpentine Necklace",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Serpentine_Necklace.png?c7e708",
+    "properties": {},
+    "stats": [
+      "+[280-340] to Poison Skill Damage",
+      "Poison Skill Damage increased by [15-35]%",
+      "+50% to Poison Resistance",
+      "+[3-5]% to Maximum Poison Resist"
+    ]
+  },
+  {
+    "name": "Raven's Claw",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Ravens_Claw.png?2c3377",
+    "properties": {},
+    "stats": [
+      "+[10-20]% Increased Critical Strike Chance",
+      "+[20-45]% Increased Critical Strike Damage",
+      "+[10-20]% Chance to Open Wounds",
+      "+[15-25] to Strength",
+      "+10 to Dexterity"
+    ]
+  },
+  {
+    "name": "Claw of the Bloodthirsty",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Claw_of_the_Bloodthirsty.png?6241a7",
+    "properties": {},
+    "stats": [
+      "+5% Increased Critical Strike Chance",
+      "+[4-8]% Life stolen per Hit",
+      "+[25-40]% Increased Critical Strike Damage",
+      "+[25-40] to Strength",
+      "+[25-40] to Dexterity"
+    ]
+  },
+  {
+    "name": "Charcoal Memento",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 90,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Charcoal_Memento.png?f65055",
+    "properties": {},
+    "stats": [
+      "+[20-30]% Increased Movement Speed",
+      "+[20-35]% Increased Attack Speed",
+      "+25 to Dexterity",
+      "+50% Defense vs Missiles"
+    ]
+  },
+  {
+    "name": "Shining Pearl",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 91,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Shining_Pearl.png?365515",
+    "properties": {},
+    "stats": [
+      "+30 to All Attributes",
+      "Magic Skill Damage increased by 20%",
+      "+100 to Mana (Based on Level)",
+      "+125 to Life (Based on Level)"
+    ]
+  },
+  {
+    "name": "Kallik's Fury",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 91,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Kalliks_Fury.png?971711",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "+30% Increased Attack Speed",
+      "+[135-160] to Additive Lightning Damage",
+      "+37.50% Enhanced Damage (Based on Level)",
+      "+[30-40]% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Coldfire Amulet",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Coldfire_Amulet.png?214904",
+    "properties": {},
+    "stats": [
+      "+[10-15]% Increased Attack Rating",
+      "+[250-370] to Attack Rating",
+      "+[370-410] to Additive Fire Damage",
+      "+[370-410] to Additive Cold Damage"
+    ]
+  },
+  {
+    "name": "Thunderstone Amulet",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 97,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Thunderstone_Amulet.png?58aef7",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Lightning Skills",
+      "+[140-160] to Lightning Skill Damage",
+      "Lightning Skill Damage increased by [15-30]%",
+      "+[40-50]% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "All Seeing Eye",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 97,
+    "image": "https://herosiege.wiki.gg/images/Amulets_All_Seeing_Eye.png?e51b6b",
+    "properties": {},
+    "stats": [
+      "+3 to All Skills",
+      "Replenish Mana 50%",
+      "Mana Increased by [3-5]%",
+      "+5 to Light Radius",
+      "+[35-50]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Light Bringer's Mark",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Light_Bringers_Mark.png?5e71a1",
+    "properties": {},
+    "stats": [
+      "+[1-3] to All Skills",
+      "+[20-40]% Increased Attack Speed",
+      "+[6-15]% Mana stolen per Hit",
+      "+[5-25]% of target Defense ignored",
+      "+[25-40] to Dexterity"
+    ]
+  },
+  {
+    "name": "Arc's Sigil",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 1,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Arcs_Sigil.png?6e800d",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "Attack Damage increased by [8-20]%",
+      "Magic Skill Damage increased by [5-15]%",
+      "Replenish Mana [25-40]%",
+      "+[15-30]% Increased Experience Gain Below Level 100"
+    ]
+  },
+  {
+    "name": "Sacred Pendant",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Sacred_Pendant.png?8377f4",
+    "properties": {},
+    "stats": [
+      "+15 to Energy",
+      "Replenish Mana [10-20]%",
+      "+[12-24] Mana After each Kill",
+      "+50 to Mana (Based on Level)"
+    ]
+  },
+  {
+    "name": "Aztec Necklace",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 79,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Aztec_Necklace.png?ca973e",
+    "properties": {},
+    "stats": [
+      "-[5-15]% to Enemy Poison Resistance",
+      "+30 to Dexterity (Based on Level)",
+      "+[40-60]% to Poison Resistance",
+      "+5% to Maximum Poison Resist",
+      "Poison Length Reduced by 25%"
+    ]
+  },
+  {
+    "name": "Anubis Oculus",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 81,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Anubis_Oculus.png?469297",
+    "properties": {},
+    "stats": [
+      "+15 to Vitality",
+      "Replenish Life [8-15]%",
+      "+[35-50] to Life",
+      "Life Increased by [1-4]%"
+    ]
+  },
+  {
+    "name": "Devil's Gem",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 81,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Devils_Gem.png?28d0c5",
+    "properties": {},
+    "stats": [
+      "-[5-15]% to Enemy Arcane Resistance",
+      "Replenish Mana [10-15]%",
+      "+30 to Energy (Based on Level)",
+      "+[40-60]% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Gurag's Pebble",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Gurags_Pebble.png?1bc31a",
+    "properties": {},
+    "stats": [
+      "+1 to Physical Skills",
+      "+15% Chance for a Crushing Blow",
+      "+[50-80] to Additive Physical Damage",
+      "+[4-8]% Life stolen per Hit",
+      "Damage Taken Reduced by [5-10]"
+    ]
+  },
+  {
+    "name": "Plunderer's Spy Glass",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Plunderers_Spy_Glass.png?7cd155",
+    "properties": {},
+    "stats": [
+      "+[10-15] to Energy",
+      "+[445-520] to Cold Skill Damage",
+      "Cold Skill Damage increased by [8-15]%",
+      "+[30-50]% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Engineer's Master Pendant",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Engineers_Master_Pendant.png?f462ea",
+    "properties": {},
+    "stats": [
+      "+[10-20]% Faster Cast Rate",
+      "+[35-45] to Life",
+      "+[20-30] to Mana",
+      "Damage Taken Reduced by [8-15]"
+    ]
+  },
+  {
+    "name": "Insignia of the Hunter",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 83,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Insignia_of_the_Hunter.png?aea076",
+    "properties": {},
+    "stats": [
+      "Attack Range Increased by 5%",
+      "+[3-8]% Increased Attack Rating",
+      "+[50-80] to Additive Physical Damage",
+      "Attack Damage increased by [4-8]%"
+    ]
+  },
+  {
+    "name": "Satan's Precious",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Satans_Precious.png?6b6bff",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Fire Skills",
+      "+[3-7]% Mana stolen per Hit",
+      "Slows target by 10%",
+      "+[420-480] to Additive Fire Damage",
+      "+[20-50]% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Champion's Medal of Valor",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Champions_Medal_of_Valor.png?5010d2",
+    "properties": {},
+    "stats": [
+      "+[15-20] to Vitality",
+      "Replenish Life [8-20]%",
+      "+[40-60]% of Damage Returned to the Attacker",
+      "+[10-30]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Ymir's Frozen Tear",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Ymirs_Frozen_Tear.png?24de31",
+    "properties": {},
+    "stats": [
+      "Cold Skill Damage increased by [10-20]%",
+      "Replenish Mana [5-10]%",
+      "+[25-35] to Life",
+      "+[6-12] Mana After each Kill",
+      "+[30-50]% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Spirit Pendant",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Spirit_Pendant.png?bb938a",
+    "properties": {},
+    "stats": [
+      "Cooldown Recovery Increased by 10%",
+      "+[30-45] to Life",
+      "+[15-25] to Mana",
+      "+[20-30]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Chronomancer's Curio of Time",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Chronomancers_Curio_of_Time.png?5f1cb3",
+    "properties": {},
+    "stats": [
+      "+[2-4] to All Attributes",
+      "Arcane Skill Damage increased by [4-8]%",
+      "+[25-35] to Life",
+      "+[6-12] Mana After each Kill",
+      "+[30-50]% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Steve's Necklace",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 86,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Steves_Necklace.png?b1fe51",
+    "properties": {},
+    "stats": [
+      "+[5-15] to All Attributes",
+      "Physical Damage Taken Reduced by [8-12]%",
+      "Magic Damage Taken Reduced by [8-12]%",
+      "+15% to All Resistances"
+    ]
+  },
+  {
+    "name": "Damien's Soulstone",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Damiens_Soulstone.png?1dc00e",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "Magic Skill Damage increased by [6-15]%",
+      "+10% to All Resistances"
+    ]
+  },
+  {
+    "name": "Venom's Necklace",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 90,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Venoms_Necklace.png?3bbd9d",
+    "properties": {},
+    "stats": [
+      "+[3-8] to All Attributes",
+      "+[50-80] to Additive Poison Damage",
+      "-[5-10]% to Enemy Poison Resistance",
+      "+[40-50]% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Bone Conjurer's Mask",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 90,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Bone_Conjurers_Mask.png?d50c2b",
+    "properties": {},
+    "stats": [
+      "+10 to Energy",
+      "+[450-580] to Arcane Skill Damage",
+      "-[5-10]% to Enemy Arcane Resistance",
+      "+[40-50]% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Juggernaut's Emblem",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Juggernauts_Emblem.png?66ffe5",
+    "properties": {},
+    "stats": [
+      "+[1-2] to Physical Skills",
+      "Replenish Life [15-25]%",
+      "+[35-45] to Life",
+      "Physical Damage Taken Reduced by [5-10]%"
+    ]
+  },
+  {
+    "name": "Nobunaga's Warrior Spirit",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 93,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Nobunagas_Warrior_Spirit.png?1d81ca",
+    "properties": {},
+    "stats": [
+      "+[20-40]% Faster Cast Rate",
+      "+[10-20] to All Attributes",
+      "Arcane Skill Damage increased by [10-25]%",
+      "Replenish Mana 35%"
+    ]
+  },
+  {
+    "name": "Tal's Pendant",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 93,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Tals_Pendant.png?3d4f1a",
+    "properties": {},
+    "stats": [
+      "+15 to All Attributes",
+      "+[20-30]% Extra Gold Dropped From Kills",
+      "+[25-40]% Increased Magic Find",
+      "+[2-5]% Increased Experience Gain"
+    ]
+  },
+  {
+    "name": "Traveler's Compass",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Travelers_Compass.png?3bcb25",
+    "properties": {},
+    "stats": [
+      "+[20-30]% Increased Movement Speed",
+      "+[13-25] to All Attributes",
+      "+[15-25]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Eagle's Claw",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Eagles_Claw.png?b0aa8c",
+    "properties": {},
+    "stats": [
+      "7% Chance when Attacking [Live by the Sword] Level 18",
+      "+[50-75]% Enhanced Damage",
+      "+[7-12] to [Enraged Mania]",
+      "+[25-40]% Increased Attack Speed",
+      "+[12-20]% Chance for a Deadly Blow",
+      "+8% Life stolen per Hit",
+      "+[12-20]% of target Defense ignored",
+      "Socketed (0-1)"
+    ]
+  },
+  {
+    "name": "Compass of Wealth",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 99,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Compass_of_Wealth.png?8a0c5f",
+    "properties": {},
+    "stats": [
+      "+[15-20] to All Attributes",
+      "+35% Magic Find (Based on Level)",
+      "+[30-40]% Extra Gold Dropped From Kills",
+      "+[20-70]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Gryphon's Claw",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Gryphons_Claw.png?1b2f26",
+    "properties": {},
+    "stats": [
+      "+[12-18] to [Execute]",
+      "+[18-25]% Increased Critical Strike Chance",
+      "+[40-50]% Increased Critical Strike Damage",
+      "+[15-25]% Chance to Open Wounds",
+      "+[20-30] to All Attributes"
+    ]
+  },
+  {
+    "name": "Tarethiel's Fall",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Tarethiels_Fall.png?48698e",
+    "properties": {},
+    "stats": [
+      "+[1-3] to All Skills",
+      "Unholy Stat",
+      "+[20-40] to All Attributes",
+      "Unholy Stat"
+    ]
+  },
+  {
+    "name": "Philosopher's Stone",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Philosophers_Stone.png?513fb9",
+    "properties": {},
+    "stats": [
+      "+[2-4] to All Skills",
+      "+[15-40] to All Attributes",
+      "+[20-35]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Amulet of Colosseum",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Amulet_of_Colosseum.png?46b4f5",
+    "properties": {},
+    "stats": [
+      "+[2-4] to All Skills",
+      "+[40-80]% Faster Cast Rate",
+      "+15 to Energy"
+    ]
+  },
+  {
+    "name": "Pendant of Eternity",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Pendant_of_Eternity.png?98915f",
+    "properties": {},
+    "stats": [
+      "5% Chance when Casting [The Venerated One] Level 20",
+      "+30% Faster Cast Rate",
+      "Cooldown Recovery Increased by [15-25]%",
+      "Magic Skill Damage increased by [30-45]%"
+    ]
+  },
+  {
+    "name": "Lilith's Scorn",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Liliths_Scorn.png?9205ed",
+    "properties": {},
+    "stats": [
+      "2% Chance after each Kill [Liliths Rage] Level 1",
+      "Magic Skill Damage increased by [15-60]%",
+      "Explosion area of effect increased by [30-50]%",
+      "+[15-25]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Thoth's Agony",
+    "category": "Jewellery",
+    "type": "Amulets",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Amulets_Thoths_Agony.png?b5263c",
+    "properties": {},
+    "stats": [
+      "+[40-50] to [Malediction]",
+      "+[50-75] to All Attributes",
+      "Magic Skill Damage increased by [25-50]%",
+      "Unbreakable",
+      "Socketed (1)"
+    ]
+  }
+]

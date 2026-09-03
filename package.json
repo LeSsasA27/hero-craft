@@ -8,7 +8,11 @@
     "build": "tsc && vite build",
     "tauri": "tauri",
     "preview": "vite preview",
-    "import:swords": "node scripts/import-swords.mjs"
+    "import:items": "node scripts/import-items.mjs",
+    "import:weapons": "node scripts/import-weapons.mjs",
+    "import:armor": "node scripts/import-armor.mjs",
+    "import:jewellery": "node scripts/import-jewellery.mjs",
+    "import:special": "node scripts/import-special-items.mjs"
   },
 
   "devDependencies": {

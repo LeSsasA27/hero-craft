@@ -1,0 +1,260 @@
+[
+  {
+    "name": "The Annihilator",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 14,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_The_Annihilator.png?3d030c",
+    "properties": {
+      "Damage": "36-52",
+      "APS": "1.4",
+      "DPS": "51-73"
+    },
+    "stats": [
+      "+[140-160]% Enhanced Damage",
+      "+40% Chance for a Crushing Blow",
+      "+60 to Attack Rating",
+      "+[2-4]% Mana stolen per Hit",
+      "+40% of target Defense ignored",
+      "Slows target by 20%",
+      "+[10-20] to Additive Fire Damage",
+      "+[10-20]% to All Resistances",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-4)"
+    ]
+  },
+  {
+    "name": "Doomsaw",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 25,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_Doomsaw.png?1856fe",
+    "properties": {
+      "Damage": "73-99",
+      "APS": "1.5",
+      "DPS": "110-148"
+    },
+    "stats": [
+      "10% Chance when Striking [Chainsaw Slash] Level 14",
+      "+[180-190]% Enhanced Damage",
+      "+[110-140] to Attack Rating",
+      "+[4-8]% Mana stolen per Hit",
+      "+[140-160] to Additive Fire Damage",
+      "Fire Skill Damage increased by [5-15]%",
+      "-30% to Enemy Fire Resistance",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Doublesaw 4000",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 56,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_Doublesaw_4000.png?6c9a5d",
+    "properties": {
+      "Damage": "118-140",
+      "APS": "1.5",
+      "DPS": "177-209"
+    },
+    "stats": [
+      "10% Chance when Striking [Revved Up] Level 8",
+      "+[180-190]% Enhanced Damage",
+      "+40% Chance for a Deadly Blow",
+      "+20% Chance to Open Wounds",
+      "Slows target by 40%",
+      "+[20-30] to Strength",
+      "Attack Damage increased by [15-20]%",
+      "+[8-14] Life After each Kill",
+      "Attacks can hit multiple enemies",
+      "Socketed (3)"
+    ]
+  },
+  {
+    "name": "Sawgun",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_Sawgun.png?4b3858",
+    "properties": {
+      "Damage": "121-147",
+      "APS": "1.89-2.16",
+      "DPS": "228-318"
+    },
+    "stats": [
+      "10% Chance when Striking [Trigger Finger] Level 15",
+      "+[225-250]% Enhanced Damage",
+      "+[40-60]% Increased Attack Speed",
+      "+20% Chance for a Deadly Blow",
+      "+[420-580] to Attack Rating",
+      "+[6-8]% Mana stolen per Hit",
+      "+40% of target Defense ignored",
+      "+10 to Dexterity",
+      "Socketed (1-2)"
+    ]
+  },
+  {
+    "name": "Vorpal Sharktooth",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 63,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_Vorpal_Sharktooth.png?fbfe1f",
+    "properties": {
+      "Damage": "132-164",
+      "APS": "2.16-2.34",
+      "DPS": "284-384"
+    },
+    "stats": [
+      "8% Chance when Striking [Slice of Shadows] Level 13",
+      "+[255-290]% Enhanced Damage",
+      "+[20-30]% Increased Attack Speed",
+      "+[3-6]% Life stolen per Hit",
+      "+15 to Strength",
+      "+15 to Dexterity",
+      "+[825-950] to Additive Fire Damage",
+      "+[6-8] Life After each Kill",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Royal Decapitator",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_Royal_Decapitator.png?86aad7",
+    "properties": {
+      "Damage": "444-520",
+      "APS": "1",
+      "DPS": "444-520"
+    },
+    "stats": [
+      "+[500-550]% Enhanced Damage",
+      "+[2-4] to All Skills",
+      "+[3-6] to [Chainsaw Massacre]",
+      "+30% Chance for a Crushing Blow",
+      "+[1550-1700] to Additive Physical Damage",
+      "Slows target by 20%",
+      "Magic Skill Damage increased by [10-20]%",
+      "+100 to Strength (Based on Level)",
+      "Attacks can hit multiple enemies",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Lumberjack's Chainsaw",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 70,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_Lumberjacks_Chainsaw.png?45fe52",
+    "properties": {
+      "Damage": "354-394",
+      "APS": "1.95-2.23",
+      "DPS": "690-878"
+    },
+    "stats": [
+      "+[365-380]% Enhanced Damage",
+      "+[2-4] to [Chainsaw Mastery]",
+      "+[2-5] to [Revved Up]",
+      "+[40-60]% Increased Attack Speed",
+      "+[680-700] to Attack Rating",
+      "+30 to Strength",
+      "+20 to Vitality",
+      "+[440-470] to Life",
+      "Life Increased by [2-5]%",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "Candy Shredder",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_Candy_Shredder.png?91e33c",
+    "properties": {
+      "Damage": "418-461",
+      "APS": "2.21-2.38",
+      "DPS": "923-1097"
+    },
+    "stats": [
+      "+220% Enhanced Damage",
+      "+[30-40]% Increased Attack Speed",
+      "+40% Chance for a Deadly Blow",
+      "+[825-935] to Attack Rating",
+      "+[8-12]% Life stolen per Hit",
+      "+[30-50]% of target Defense ignored",
+      "+[1475-1600] to Additive Arcane Damage",
+      "+17 Mana After each Kill",
+      "+400% Enhanced Damage (Based on Level)",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Diablo",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_Diablo.png?27db51",
+    "properties": {
+      "Damage": "303-363",
+      "APS": "0.75",
+      "DPS": "227-273"
+    },
+    "stats": [
+      "40% Chance when Casting [Tire Fire] Level 48",
+      "+[320-365]% Enhanced Damage",
+      "+[3-5] to All Skills",
+      "+[12-20] to [Moonshine Molotov]",
+      "+[70-120]% Faster Cast Rate",
+      "+20 to All Attributes",
+      "+[666-6666] to Fire Skill Damage",
+      "Fire Skill Damage increased by [16-66]%",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "St. Draxis Longsaw",
+    "category": "Weapons",
+    "type": "Chainsaws",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 99,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Chainsaw_St._Draxis_Longsaw.png?1fcff5",
+    "properties": {
+      "Damage": "N/A",
+      "APS": "N/A",
+      "DPS": "N/A"
+    },
+    "stats": [
+      "20% Chance when Striking [Tree Trunk Triumph] Level 143",
+      "+[850-925]% Enhanced Damage",
+      "+[4-6] to All Skills",
+      "+40% Increased Movement Speed",
+      "Attack Range Increased by [50-100]%",
+      "+[40-80]% Increased Attack Speed",
+      "+30% Increased Attack Rating",
+      "+50 to Strength",
+      "+50 to Dexterity",
+      "Attack Damage increased by [45-65]%",
+      "Attacks can hit multiple enemies",
+      "Socketed (4-6)"
+    ]
+  }
+]

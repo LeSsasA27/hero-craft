@@ -1,0 +1,1936 @@
+[
+  {
+    "name": "Elementalist's Silk Shroud",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 10,
+    "image": "https://herosiege.wiki.gg/images/Armors_Elementalists_Silk_Shroud.png?efe6bc",
+    "properties": {
+      "Defense": "18-36"
+    },
+    "stats": [
+      "+[80-100]% Enhanced Defense",
+      "+1 to All Skills",
+      "+[10-20]% Faster Cast Rate",
+      "Replenish Mana 10%",
+      "+2 to Light Radius",
+      "+10% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Ironclad Protector",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 11,
+    "image": "https://herosiege.wiki.gg/images/Armors_Ironclad_Protector.png?d74500",
+    "properties": {
+      "Defense": "24-51"
+    },
+    "stats": [
+      "+[140-180]% Enhanced Defense",
+      "[-5-10]% Increased Movement Speed",
+      "+10 to Vitality",
+      "+5 to Armor",
+      "Physical Damage Taken Reduced by [4-6]%",
+      "Magic Damage Taken Reduced by [2-4]%",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Bandit Lord's Shroud",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 12,
+    "image": "https://herosiege.wiki.gg/images/Armors_Bandit_Lords_Shroud.png?dd4dd1",
+    "properties": {
+      "Defense": "13-24"
+    },
+    "stats": [
+      "+30% Enhanced Defense",
+      "+50 to Attack Rating",
+      "+2 Life per second",
+      "+[3-8] to All Attributes",
+      "+[15-50] to Life",
+      "+[15-50] to Mana",
+      "Life Increased by [1-3]%",
+      "+[15-25]% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Thunder Gladiator's Armor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 13,
+    "image": "https://herosiege.wiki.gg/images/Armors_Thunder_Gladiators_Armor.png?d7577e",
+    "properties": {
+      "Defense": "17-33"
+    },
+    "stats": [
+      "8% Chance when Struck [Charged Bolts] Level 6",
+      "+[70-82]% Enhanced Defense",
+      "Lightning Skill Damage increased by [4-8]%",
+      "-[20-30]% to Enemy Lightning Resistance",
+      "+40% to Lightning Resistance",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Clan Leader's Pride",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 14,
+    "image": "https://herosiege.wiki.gg/images/Armors_Clan_Leaders_Pride.png?429982",
+    "properties": {
+      "Defense": "21-39"
+    },
+    "stats": [
+      "10% Chance when Struck [Fan of Knives] Level 7",
+      "+[12-20]% Enhanced Damage",
+      "+[90-115]% Enhanced Defense",
+      "+[6-15] to Strength",
+      "+[6-12] to Armor",
+      "+[12-20]% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Magiward Battlegear",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 14,
+    "image": "https://herosiege.wiki.gg/images/Armors_Magiward_Battlegear.png?8d2b80",
+    "properties": {
+      "Defense": "14-29"
+    },
+    "stats": [
+      "+8% Enhanced Damage",
+      "+[30-60]% Enhanced Defense",
+      "+[30-40]% Increased Attack Speed",
+      "+[3-5]% Life stolen per Hit",
+      "Arcane Skill Damage increased by 8%",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Black Knight's Carapace",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 26,
+    "image": "https://herosiege.wiki.gg/images/Armors_Black_Knights_Carapace.png?93241f",
+    "properties": {
+      "Defense": "40-96"
+    },
+    "stats": [
+      "15% Chance when Struck [Impale] Level 13",
+      "+[80-100]% Enhanced Defense",
+      "+10 to Strength",
+      "+15 to Vitality",
+      "Physical Damage Taken Reduced by [5-10]%",
+      "Magic Damage Taken Reduced by [5-10]%",
+      "+125 Defense (Based on Level)",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Magic-Imbued Frozen Plate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 27,
+    "image": "https://herosiege.wiki.gg/images/Armors_Magic-Imbued_Frozen_Plate.png?4e5af2",
+    "properties": {
+      "Defense": "22-48"
+    },
+    "stats": [
+      "+[1-3] to Cold Skills",
+      "Physical Damage Taken Reduced by 15%",
+      "+75% to Cold Resistance",
+      "+10% to Maximum Cold Resist",
+      "Cannot be Frozen",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Wardbreaker Armor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 27,
+    "image": "https://herosiege.wiki.gg/images/Armors_Wardbreaker_Armor.png?874a7f",
+    "properties": {
+      "Defense": "38-101"
+    },
+    "stats": [
+      "10% Chance when Struck [Volatile Shot] Level 10",
+      "+[70-110]% Enhanced Defense",
+      "+[10-20] to Strength",
+      "+30 to Dexterity",
+      "+[10-15]% to All Resistances",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Ice Howl's Cuirass",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 27,
+    "image": "https://herosiege.wiki.gg/images/Armors_Ice_Howls_Cuirass.png?9622bb",
+    "properties": {
+      "Defense": "42-104"
+    },
+    "stats": [
+      "+[90-115]% Enhanced Defense",
+      "+5 to Strength",
+      "+10 to Vitality",
+      "Cold Skill Damage increased by [12-20]%",
+      "+125 Defense (Based on Level)",
+      "+50% to Cold Resistance",
+      "+5% to Maximum Cold Resist",
+      "Cannot be Frozen",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "Unearthed Esoteric Panoply",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 28,
+    "image": "https://herosiege.wiki.gg/images/Armors_Unearthed_Esoteric_Panoply.png?c9fb70",
+    "properties": {
+      "Defense": "47-116"
+    },
+    "stats": [
+      "+[110-140]% Enhanced Defense",
+      "Replenish Life 20%",
+      "+50 to Life",
+      "+[15-25]% Increased Magic Find",
+      "+[1-3]% Increased Experience Gain",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Magister's Robe",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 30,
+    "image": "https://herosiege.wiki.gg/images/Armors_Magisters_Robe.png?6bc3f1",
+    "properties": {
+      "Defense": "40-92"
+    },
+    "stats": [
+      "+[80-90]% Enhanced Defense",
+      "+1 to All Skills",
+      "+30% Faster Cast Rate",
+      "+[10-15] to Energy",
+      "Replenish Mana 15%",
+      "Physical Damage Taken Reduced by 8%",
+      "+50% to Arcane Resistance",
+      "+5% to Maximum Arcane Resist",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Aegisweave Robes",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 30,
+    "image": "https://herosiege.wiki.gg/images/Armors_Aegisweave_Robes.png?b703dd",
+    "properties": {
+      "Defense": "29-75"
+    },
+    "stats": [
+      "+[30-55]% Enhanced Defense",
+      "+[5-15]% Faster Cast Rate",
+      "+[4-10] to Intelligence",
+      "Replenish Mana 20%",
+      "Socketed (2-3)"
+    ]
+  },
+  {
+    "name": "Upi's Sweetshirt",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Upis_Sweetshirt.png?1d1a78",
+    "properties": {
+      "Defense": "156-252"
+    },
+    "stats": [
+      "+[160-180]% Enhanced Defense",
+      "+15 to Vitality",
+      "Replenish Life 10%",
+      "Physical Damage Taken Reduced by [4-8]%",
+      "+25 to Vitality (Based on Level)",
+      "+10% to All Resistances",
+      "+[20-30]% Increased Magic Find",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Tropical Storm",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Tropical_Storm.png?796160",
+    "properties": {
+      "Defense": "132-216"
+    },
+    "stats": [
+      "12% Chance when Struck [Astrope's Battle Maiden] Level 21",
+      "+[120-140]% Enhanced Defense",
+      "+[1-2] to Lightning Skills",
+      "Lightning Skill Damage increased by [25-40]%",
+      "+100% Faster Hit Recovery",
+      "+[50-75]% to Lightning Resistance",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Molten Steel Cataphract",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Molten_Steel_Cataphract.png?116e01",
+    "properties": {
+      "Defense": "225-407"
+    },
+    "stats": [
+      "+[150-225]% Enhanced Defense",
+      "+2 to Fire Skills",
+      "-[8-25]% to Enemy Fire Resistance",
+      "+75% Faster Hit Recovery",
+      "All Damage Taken Reduced by 8%",
+      "+75% to Fire Resistance",
+      "+5% to Maximum Fire Resist",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "Hazmat Suit",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Hazmat_Suit.png?8de307",
+    "properties": {
+      "Defense": "114-194"
+    },
+    "stats": [
+      "+[90-115]% Enhanced Defense",
+      "+[1-2] to Poison Skills",
+      "+10 to Vitality",
+      "+[400-750] to Poison Skill Damage",
+      "-[8-20]% to Enemy Poison Resistance",
+      "+10% to All Resistances",
+      "+50% to Poison Resistance",
+      "+5% to Maximum Poison Resist",
+      "Poison Length Reduced by 50%",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Marsh Shroud",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Marsh_Shroud.png?5b80a1",
+    "properties": {
+      "Defense": "60-90"
+    },
+    "stats": [
+      "+[110-150]% Increased Defense",
+      "+1 to All Skills",
+      "Replenish Life [10-15]%",
+      "Physical Damage Taken Reduced by [5-10]%",
+      "Cannot be Frozen",
+      "Socketed (3)"
+    ]
+  },
+  {
+    "name": "Hellfire Cuirass",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Hellfire_Cuirass.png?608116",
+    "properties": {
+      "Defense": "126-225"
+    },
+    "stats": [
+      "+[110-150]% Enhanced Defense",
+      "+[2-3] to Fire Skills",
+      "+[60-85] to Additive Fire Damage",
+      "Replenish Life [10-15]%",
+      "+[50-60]% to Fire Resistance",
+      "+5% to Maximum Fire Resist",
+      "Socketed (0-4)"
+    ]
+  },
+  {
+    "name": "Sand King's Scarab",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Sand_Kings_Scarab.png?7a3674",
+    "properties": {
+      "Defense": "156-252"
+    },
+    "stats": [
+      "+[160-180]% Enhanced Defense",
+      "Replenish Life [10-15]%",
+      "+[10-15] Life After each Kill",
+      "Life Increased by [1-3]%",
+      "+75 to Life (Based on Level)",
+      "+15% to All Resistances",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Behemoth's Damascus Body",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Behemoths_Damascus_Body.png?1820a6",
+    "properties": {
+      "Defense": "156-252"
+    },
+    "stats": [
+      "+[160-180]% Enhanced Defense",
+      "+10 to All Attributes",
+      "+5% Increased Defense",
+      "+[150-300]% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by 10%",
+      "+[25-35]% to All Resistances",
+      "Cannot be Frozen",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Lichbane",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Lichbane.png?d26e15",
+    "properties": {
+      "Defense": "156-252"
+    },
+    "stats": [
+      "+[160-180]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+15 to Energy",
+      "+10 to All Attributes",
+      "Magic Skill Damage increased by [12-30]%",
+      "Replenish Mana 50%",
+      "+35 to Energy (Based on Level)",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Gladiator's Demise",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Gladiators_Demise.png?776250",
+    "properties": {
+      "Defense": "306-400"
+    },
+    "stats": [
+      "+[15-25]% Enhanced Damage",
+      "+[120-150]% Enhanced Defense",
+      "+[5-10]% Increased Attack Rating",
+      "+15% of target Defense ignored",
+      "Attack Damage increased by [30-45]%",
+      "+[125-200] to Life",
+      "Life Increased by [4-8]%",
+      "+75 to Strength (Based on Level)",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Grandwizard's Robe",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Grandwizards_Robe.png?1587cb",
+    "properties": {
+      "Defense": "260-352"
+    },
+    "stats": [
+      "+[100-120]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+30% Faster Cast Rate",
+      "Physical Damage Taken Reduced by [10-15]%",
+      "+[20-35]% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Zephy's Gown",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Zephys_Gown.png?e0c71e",
+    "properties": {
+      "Defense": "260-400"
+    },
+    "stats": [
+      "+[100-150]% Enhanced Defense",
+      "+50% Increased Movement Speed",
+      "+[6-15] Mana After each Kill",
+      "Life Increased by [7-15]%",
+      "+[35-50]% to All Resistances",
+      "+[8-25]% Increased Magic Find",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Mystique Allure",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 60,
+    "image": "https://herosiege.wiki.gg/images/Armors_Mystique_Allure.png?25a3f5",
+    "properties": {
+      "Defense": "486-660"
+    },
+    "stats": [
+      "+[260-300]% Enhanced Defense",
+      "+1 to All Skills",
+      "Physical Damage Taken Reduced by 10%",
+      "+60% Magic Find (Based on Level)",
+      "+20% to All Resistances",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Heaven's Might",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Heavens_Might.png?fe69fb",
+    "properties": {
+      "Defense": "1612-2640"
+    },
+    "stats": [
+      "+[420-500]% Enhanced Defense",
+      "+[2-4] to All Skills",
+      "Physical Damage Taken Reduced by [10-15]%",
+      "Magic Damage Taken Reduced by [10-15]%",
+      "+100 to Vitality (Based on Level)",
+      "Socketed (2-6)"
+    ]
+  },
+  {
+    "name": "Cocoon of the Berserker",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Cocoon_of_the_Berserker.png?4ec607",
+    "properties": {
+      "Defense": "788-1032"
+    },
+    "stats": [
+      "+[175-230]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[475-750] to Attack Rating",
+      "+[6-8]% Life stolen per Hit",
+      "+[4-6]% Mana stolen per Hit",
+      "+30 to Strength",
+      "+100% Enhanced Damage (Based on Level)",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Giant Thorned Lizard Skin",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Giant_Thorned_Lizard_Skin.png?56d31f",
+    "properties": {
+      "Defense": "735-1020"
+    },
+    "stats": [
+      "+[250-325]% Enhanced Defense",
+      "+10 to [Random Class Skill]",
+      "+15 to Energy",
+      "+25 to Vitality",
+      "Arcane Skill Damage increased by [15-30]%",
+      "Lightning Skill Damage increased by [15-30]%",
+      "Poison Skill Damage increased by [15-30]%",
+      "Fire Skill Damage increased by [15-30]%",
+      "Cold Skill Damage increased by [15-30]%",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Tactical Flak Jacket",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Tactical_Flak_Jacket.png?31dc98",
+    "properties": {
+      "Defense": "735-1020"
+    },
+    "stats": [
+      "+[250-325]% Enhanced Defense",
+      "+[1-5] to [Demolition Expert]",
+      "+[5-10] to [Frag Grenade]",
+      "+60% Faster Cast Rate",
+      "+25 to All Attributes",
+      "+[40-50]% Faster Hit Recovery",
+      "Physical Damage Taken Reduced by 20%",
+      "+[20-30]% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Empire's Military Plate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Empires_Military_Plate.png?f65dd7",
+    "properties": {
+      "Defense": "788-1020"
+    },
+    "stats": [
+      "+[275-325]% Enhanced Defense",
+      "+[40-50] to Vitality",
+      "Physical Damage Taken Reduced by [18-25]%",
+      "+[30-40]% Increased Magic Find",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Leather Muscle Breastplate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Leather_Muscle_Breastplate.png?7f1f47",
+    "properties": {
+      "Defense": "525-780"
+    },
+    "stats": [
+      "10% Chance when Struck [Holy Hammer] Level 29",
+      "+[150-225]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+175 to Life",
+      "+[10-20]% Defense vs Missiles",
+      "+30 to Vitality (Based on Level)",
+      "+[15-20]% to All Resistances",
+      "Socketed (2-3)"
+    ]
+  },
+  {
+    "name": "Arcane Robes of Authority",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Arcane_Robes_of_Authority.png?6c83b5",
+    "properties": {
+      "Defense": "441-624"
+    },
+    "stats": [
+      "+[110-160]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[30-40]% Faster Cast Rate",
+      "+[15-20] to Energy",
+      "Replenish Mana 35%",
+      "Mana Increased by [10-15]%",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Cuirass of Blood",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Cuirass_of_Blood.png?4f9404",
+    "properties": {
+      "Defense": "525-780"
+    },
+    "stats": [
+      "+[150-225]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[20-40]% Increased Attack Speed",
+      "+[110-150] to Attack Rating",
+      "+10% Life stolen per Hit",
+      "+30% of target Defense ignored",
+      "+[15-20]% Defense vs Missiles",
+      "+75 to Damage (Based on Level)",
+      "+50 to Strength",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Devil's Cocoon",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Devils_Cocoon.png?16f6f5",
+    "properties": {
+      "Defense": "525-780"
+    },
+    "stats": [
+      "+[150-225]% Enhanced Defense",
+      "Fire Skill Damage increased by [25-40]%",
+      "-[15-25]% to Enemy Fire Resistance",
+      "+125 to Vitality (Based on Level)",
+      "+[50-75]% to Fire Resistance",
+      "+5% to Maximum Fire Resist",
+      "Socketed (2-5)"
+    ]
+  },
+  {
+    "name": "Leviathan's Carcass",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Leviathans_Carcass.png?18158b",
+    "properties": {
+      "Defense": "1260-1800"
+    },
+    "stats": [
+      "+[500-650]% Enhanced Defense",
+      "+[60-100] to Strength",
+      "+825 to Life",
+      "Life Increased by [10-20]%",
+      "All Damage Taken Reduced by 25%",
+      "Socketed (2-3)"
+    ]
+  },
+  {
+    "name": "Noxious Hunter's Reward",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Armors_Noxious_Hunters_Reward.png?6a7a05",
+    "properties": {
+      "Defense": "814-1075"
+    },
+    "stats": [
+      "+[270-330]% Enhanced Defense",
+      "+2 to All Skills",
+      "+[3-5] to Poison Skills",
+      "Extra Damage to Poisoned Monsters [15-30]%",
+      "-25% to Enemy Poison Resistance",
+      "+[10-20]% Poison Damage Absorbed",
+      "+[50-75]% to Poison Resistance",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Exiled Pagan's Mantle",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Armors_Exiled_Pagans_Mantle.png?c19648",
+    "properties": {
+      "Defense": "961-1368"
+    },
+    "stats": [
+      "+[210-260]% Enhanced Defense",
+      "+[2-4] to All Skills",
+      "+[40-60]% Faster Cast Rate",
+      "+[25-35] to Energy",
+      "Replenish Mana 75%",
+      "Mana Increased by [15-25]%"
+    ]
+  },
+  {
+    "name": "Uabel's Chest",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Uabels_Chest.png?d78456",
+    "properties": {
+      "Defense": "108-171"
+    },
+    "stats": [
+      "+[80-90]% Enhanced Defense",
+      "+1 to All Skills",
+      "+10% Faster Cast Rate",
+      "Magic Skill Damage increased by [5-10]%",
+      "Replenish Mana [10-15]%",
+      "+[15-25] to Mana",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Traveler's Leather Jacket",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Armors_Travelers_Leather_Jacket.png?4c9946",
+    "properties": {
+      "Defense": "156-252"
+    },
+    "stats": [
+      "+[160-180]% Enhanced Defense",
+      "+1 to All Skills",
+      "+[20-30]% Increased Movement Speed",
+      "+10 to Dexterity",
+      "+5 to All Attributes",
+      "+25% Faster Hit Recovery",
+      "+30 to Dexterity (Based on Level)",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Odin's Battlearmor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Odins_Battlearmor.png?5576b8",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+10% Faster Cast Rate",
+      "Arcane Skill Damage increased by [5-15]%",
+      "+[25-35] to Life",
+      "+[25-35] to Mana",
+      "Physical Damage Taken Reduced by [5-10]%",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Mevius' Mighty Plate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Mevius_Mighty_Plate.png?bfc973",
+    "properties": {
+      "Defense": "540-684"
+    },
+    "stats": [
+      "+[260-280]% Enhanced Defense",
+      "+15 to Energy",
+      "+15 to Vitality",
+      "Explosion area of effect increased by [20-30]%",
+      "+125% Faster Hit Recovery",
+      "All Damage Taken Reduced by 3%",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Gabriel's Leather Trench Coat",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Gabriels_Leather_Trench_Coat.png?780cfa",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+10% Increased Attack Speed",
+      "+3% Mana stolen per Hit",
+      "Attack Damage increased by [5-15]%",
+      "+[15-25]% Faster Hit Recovery",
+      "Physical Damage Taken Reduced by [5-12]%",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Einar's Plated Armor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Einars_Plated_Armor.png?10148c",
+    "properties": {
+      "Defense": "338-480"
+    },
+    "stats": [
+      "+[160-200]% Enhanced Defense",
+      "+635 to Additive Cold Damage",
+      "Cold Skill Damage increased by [5-15]%",
+      "+[15-25]% Faster Hit Recovery",
+      "+75 Defense (Based on Level)",
+      "+45% to Cold Resistance",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Ymir's Frozen Vestment",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Ymirs_Frozen_Vestment.png?f40a63",
+    "properties": {
+      "Defense": "338-480"
+    },
+    "stats": [
+      "+[160-200]% Enhanced Defense",
+      "+2 to Cold Skills",
+      "Cold Skill Damage increased by [3-12]%",
+      "+[3-5]% Cold Damage Absorbed",
+      "+45% to Cold Resistance",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Sand Manipulator's Kalasiris",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Sand_Manipulators_Kalasiris.png?54445c",
+    "properties": {
+      "Defense": "338-480"
+    },
+    "stats": [
+      "+[160-200]% Enhanced Defense",
+      "+1 to All Skills",
+      "Physical Damage Taken Reduced by [5-10]%",
+      "+10% to All Resistances",
+      "+45% to Arcane Resistance",
+      "+[10-20]% Increased Magic Find",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Engineer's Plated Vest",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Engineers_Plated_Vest.png?bee641",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+1 to All Skills",
+      "+[3-6]% Mana stolen per Hit",
+      "+15% of Damage Taken goes to Mana",
+      "Physical Damage Taken Reduced by [5-15]%",
+      "+30 to Vitality (Based on Level)",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Vagabond's Wraps",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Vagabonds_Wraps.png?68d967",
+    "properties": {
+      "Defense": "130-160"
+    },
+    "stats": [
+      "+1 to All Skills",
+      "+20% Increased Movement Speed",
+      "+25 to Strength",
+      "+20 to Dexterity",
+      "Physical Damage Taken Reduced by [5-15]%",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Flame Diviner's Sanctum",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Flame_Diviners_Sanctum.png?1517bb",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+20 to Energy",
+      "+10 to Vitality",
+      "+5 to All Attributes",
+      "Replenish Mana 20%",
+      "Mana Increased by [2-5]%",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Blood-letter's Plated Body",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Blood-letters_Plated_Body.png?eba5f7",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+5 to All Attributes",
+      "Attack Damage increased by [15-25]%",
+      "Replenish Mana 20%",
+      "+[30-40] to Mana",
+      "+25% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Venom's Ribcage",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Venoms_Ribcage.png?7f9e65",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "-[10-20]% to Enemy Arcane Resistance",
+      "Replenish Mana 25%",
+      "+15% to All Resistances",
+      "+5% to Maximum Arcane Resist",
+      "+[10-20]% Increased Magic Find",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Shield Bearer's Plated Armor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Shield_Bearers_Plated_Armor.png?173448",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+8% Increased Attack Rating",
+      "+20 to Strength",
+      "+10 to Vitality",
+      "Replenish Life 25%",
+      "+[35-50] to Life",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Juggernaut's Glorious Plate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Juggernauts_Glorious_Plate.png?58a248",
+    "properties": {
+      "Defense": "338-512"
+    },
+    "stats": [
+      "+[160-220]% Enhanced Defense",
+      "+5% Mana stolen per Hit",
+      "Slows target by 10%",
+      "+75 to Strength (Based on Level)",
+      "+35 to Vitality (Based on Level)",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Justiciar's Thunder Armor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Justiciars_Thunder_Armor.png?c3cc5f",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+[10-15] to Energy",
+      "+10 to Vitality",
+      "+[230-340] to Lightning Skill Damage",
+      "+8 Mana After each Kill",
+      "+50% to Lightning Resistance",
+      "+5% to Maximum Lightning Resist",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Lost Master's Platemail",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Lost_Masters_Platemail.png?4add97",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+5% Mana stolen per Hit",
+      "+20 to Strength",
+      "+10 to Dexterity",
+      "+[145-170] to Additive Fire Damage",
+      "+40% to Cold Resistance",
+      "+40% to Fire Resistance",
+      "+40% to Lightning Resistance",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Earth Shaper's Body",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Earth_Shapers_Body.png?35fe66",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+10 to Energy",
+      "+10 to Vitality",
+      "+[325-440] to Arcane Skill Damage",
+      "+[325-440] to Lightning Skill Damage",
+      "+[325-440] to Fire Skill Damage",
+      "+[20-30] to Mana",
+      "+30% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Chestplate of Fire",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Chestplate_of_Fire.png?51d374",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+1 to All Skills",
+      "-[20-25]% to Enemy Fire Resistance",
+      "+[25-35] to Life",
+      "+[10-20] Mana After each Kill",
+      "+50 to Mana (Based on Level)",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Anubis Torso",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Anubis_Torso.png?57bf87",
+    "properties": {
+      "Defense": "338-448"
+    },
+    "stats": [
+      "+[160-180]% Enhanced Defense",
+      "+25 to Strength",
+      "+25 to Vitality",
+      "Replenish Life 40%",
+      "+[200-250] to Life",
+      "Life Increased by [6-10]%",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Genji's Battle Armor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Genjis_Battle_Armor.png?dedba2",
+    "properties": {
+      "Defense": "338-448"
+    },
+    "stats": [
+      "+[160-180]% Enhanced Defense",
+      "+40% Increased Attack Speed",
+      "+20 to Dexterity",
+      "+20 to Armor",
+      "+350 to Life (Based on Level)",
+      "+300 to Attack Rating (Based on Level)",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Satan's Cuirass",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Satans_Cuirass.png?73f7b9",
+    "properties": {
+      "Defense": "338-448"
+    },
+    "stats": [
+      "+[160-180]% Enhanced Defense",
+      "+[2-4] to Fire Skills",
+      "+20 to Vitality",
+      "+20 to All Attributes",
+      "+75% to Fire Resistance",
+      "+10% to Maximum Fire Resist",
+      "Socketed (3)"
+    ]
+  },
+  {
+    "name": "Zeus' Body Armor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Zeus_Body_Armor.png?585b9a",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+[1750-3250] to Lightning Skill Damage",
+      "Lightning Skill Damage increased by [10-20]%",
+      "-[5-10]% to Enemy Lightning Resistance",
+      "+[50-75]% to Lightning Resistance",
+      "+[5-10]% to Maximum Lightning Resist",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Redneck's Shirt",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Rednecks_Shirt.png?ed58d4",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+[415-460] to Additive Fire Damage",
+      "Physical Damage Taken Reduced by [5-8]%",
+      "+100 Defense (Based on Level)",
+      "+[5-10]% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Pirate Captain's Shirt",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Pirate_Captains_Shirt.png?c84c12",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+[10-20]% Increased Movement Speed",
+      "+[10-20] to Dexterity",
+      "+15 to Vitality",
+      "+[415-450] to Fire Skill Damage",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Death Lord's Bone Armor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Death_Lords_Bone_Armor.png?976bed",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+[10-20] to Energy",
+      "+[10-20] to Vitality",
+      "+[340-460] to Additive Arcane Damage",
+      "+50 to Mana (Based on Level)",
+      "+50% to Arcane Resistance",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Thor's Chest Armor",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Thors_Chest_Armor.png?7ddaa8",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+3% Mana stolen per Hit",
+      "+[10-15] to Energy",
+      "+10 to Vitality",
+      "+[330-540] to Arcane Skill Damage",
+      "+40% to Arcane Resistance",
+      "+40% to Cold Resistance",
+      "+40% to Lightning Resistance",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Nomad's Battlerobe",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Nomads_Battlerobe.png?de95ff",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "Attack Damage increased by [5-10]%",
+      "+20% Faster Hit Recovery",
+      "+40% Defense vs Missiles",
+      "Physical Damage Taken Reduced by 8%",
+      "+10% to All Resistances",
+      "+15% Increased Magic Find",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Marksman's Hunting Shroud",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Marksmans_Hunting_Shroud.png?11aa31",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "Attack Range Increased by [10-20]%",
+      "+20 to Strength",
+      "+40 to Dexterity",
+      "+125 to Life",
+      "+[50-75]% Defense vs Missiles",
+      "+8 Mana After each Kill",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Nobunaga's Battle Cuirass",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Nobunagas_Battle_Cuirass.png?f89efd",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+[1-3] to Arcane Skills",
+      "+35 to Energy",
+      "+25 to Vitality",
+      "Magic Skill Damage increased by [15-25]%",
+      "+75 Defense (Based on Level)",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Dante's Jacket",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Dantes_Jacket.png?3917c6",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+5% Increased Critical Strike Chance",
+      "+40 to Additive Physical Damage",
+      "+[15-25]% Increased Critical Strike Damage",
+      "+20 to Strength",
+      "+10 to Vitality",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Lancer's Chestplate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Lancers_Chestplate.png?6c9e55",
+    "properties": {
+      "Defense": "273-512"
+    },
+    "stats": [
+      "+[110-220]% Enhanced Defense",
+      "+25 to Strength",
+      "+15 to Dexterity",
+      "+10 to Vitality",
+      "Replenish Life 15%",
+      "Replenish Mana 20%",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Demon's Ribcage",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Demons_Ribcage.png?463c7f",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Damage",
+      "+25 to Energy",
+      "+10 to Vitality",
+      "+15 to Armor",
+      "-[10-20]% to Enemy Arcane Resistance",
+      "+50% to Arcane Resistance",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Sacred Robe",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Armors_Sacred_Robe.png?3ef97c",
+    "properties": {
+      "Defense": "299-416"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "+2 to All Skills",
+      "+[10-15] to Energy",
+      "+[5-10] to Vitality",
+      "+[10-30]% to All Resistances",
+      "+[20-30]% Increased Magic Find",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Solar Prophet's Robes",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Armors_Solar_Prophets_Robes.png?6ca8f2",
+    "properties": {
+      "Defense": "286-400"
+    },
+    "stats": [
+      "+[120-150]% Enhanced Defense",
+      "+10% Faster Cast Rate",
+      "Fire Skill Damage increased by [10-25]%",
+      "+[10-15]% of Damage Taken goes to Mana",
+      "+50 to Intelligence (Based on Level)",
+      "+[3-8]% Fire Damage Absorbed",
+      "+[35-60]% to Fire Resistance",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Thunder Caller's Robe",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Thunder_Callers_Robe.png?6bc9cb",
+    "properties": {
+      "Defense": "483-624"
+    },
+    "stats": [
+      "+[130-160]% Enhanced Defense",
+      "Cooldown Recovery Increased by [5-10]%",
+      "+[10-15] to Energy",
+      "+[15-25] to Vitality",
+      "+[330-540] to Lightning Skill Damage",
+      "+250 to Mana (Based on Level)",
+      "+[20-40]% to Lightning Resistance",
+      "Socketed (2-3)"
+    ]
+  },
+  {
+    "name": "Sheep King's Hide",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Sheep_Kings_Hide.png?f0dfb7",
+    "properties": {
+      "Defense": "830-1020"
+    },
+    "stats": [
+      "+[220-250]% Enhanced Defense",
+      "+1 to All Skills",
+      "Physical Damage Taken Reduced by 10%",
+      "+125 to Life (Based on Level)",
+      "+75% Enhanced Damage (Based on Level)",
+      "+[25-30]% to Arcane Resistance",
+      "+[1-5]% to Maximum Arcane Resist",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Valkyrie's Battle Raiment",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Valkyries_Battle_Raiment.png?8e7651",
+    "properties": {
+      "Defense": "546-720"
+    },
+    "stats": [
+      "+[160-200]% Enhanced Defense",
+      "+[235-350] to Additive Lightning Damage",
+      "-[7-15]% to Enemy Lightning Resistance",
+      "Physical Damage Taken Reduced by [2-8]%",
+      "+40% to Lightning Resistance",
+      "+5% to Maximum Lightning Resist",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Plunderer's Jacket",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Plunderers_Jacket.png?9cc5d5",
+    "properties": {
+      "Defense": "546-720"
+    },
+    "stats": [
+      "+[160-200]% Enhanced Defense",
+      "+[435-550] to Cold Skill Damage",
+      "-[7-15]% to Enemy Cold Resistance",
+      "Replenish Mana [20-30]%",
+      "+[1-3]% Increased Defense",
+      "+40% to Cold Resistance",
+      "+5% to Maximum Cold Resist",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Butcher's Apron",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Butchers_Apron.png?3ac1c2",
+    "properties": {
+      "Defense": "704-912"
+    },
+    "stats": [
+      "+[25-40]% Enhanced Damage",
+      "+[210-280]% Enhanced Defense",
+      "Extra Damage to Bleeding Monsters [2-10]%",
+      "Replenish Life 50%",
+      "Damage Taken Reduced by [30-60]",
+      "Life Increased by [8-20]%",
+      "Magic Damage Taken Reduced by [3-10]%",
+      "+35 to Dexterity (Based on Level)",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Gem King's Garb",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Gem_Kings_Garb.png?b615cb",
+    "properties": {
+      "Defense": "1260-1760"
+    },
+    "stats": [
+      "+[350-450]% Enhanced Defense",
+      "Socketed (6)"
+    ]
+  },
+  {
+    "name": "Stoneplate of Corruption",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Armors_Stoneplate_of_Corruption.png?4a6071",
+    "properties": {
+      "Defense": "1260-1760"
+    },
+    "stats": [
+      "+[350-450]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "Unholy Stat",
+      "Unholy Stat",
+      "Unholy Stat",
+      "Socketed (5)"
+    ]
+  },
+  {
+    "name": "Executioner's Cocoon",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Armors_Executioners_Cocoon.png?b74e76",
+    "properties": {
+      "Defense": "1575-1933"
+    },
+    "stats": [
+      "4% Chance when Striking [Warrior's Path] Level 18",
+      "+[375-430]% Enhanced Defense",
+      "+[2-4] to All Skills",
+      "+[1400-1800] to Attack Rating",
+      "+[10-18]% Life stolen per Hit",
+      "+[6-12]% Mana stolen per Hit",
+      "+50 to Strength",
+      "+275% Enhanced Damage (Based on Level)",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Venomsteel Carapace",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Armors_Venomsteel_Carapace.png?d6c6ee",
+    "properties": {
+      "Defense": "525-780"
+    },
+    "stats": [
+      "8% Chance when Struck [Poison Nova] Level 60",
+      "+[150-225]% Enhanced Defense",
+      "+[1-3] to All Skills",
+      "+[3-5] to Poison Skills",
+      "Extra Damage to Poisoned Monsters [15-25]%",
+      "Poison Skill Damage increased by [25-40]%",
+      "-[10-20]% to Enemy Poison Resistance",
+      "+[30-50]% to Poison Resistance",
+      "Poison Length Reduced by 20%",
+      "Socketed (3-4)"
+    ]
+  },
+  {
+    "name": "Isarius Ironthorn Breastplate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Armors_Isarius_Ironthorn_Breastplate.png?ba77fe",
+    "properties": {
+      "Defense": "525-780"
+    },
+    "stats": [
+      "5% Chance when Struck [Combat Order] Level 21",
+      "+[150-225]% Enhanced Defense",
+      "+[3-5] to All Skills",
+      "+[1-3] to [Thorn of Vitality]",
+      "Extra Damage to Stunned Monsters [15-25]%",
+      "+[35-50] to Vitality",
+      "+40 to Armor",
+      "+[175-350]% of Damage Returned to the Attacker",
+      "All Damage Taken Reduced by [11-16]%",
+      "+[25-50]% to All Resistances",
+      "Socketed (3-4)"
+    ]
+  },
+  {
+    "name": "Tundra Hunter's Long Coat",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Armors_Tundra_Hunters_Long_Coat.png?514a5f",
+    "properties": {
+      "Defense": "525-780"
+    },
+    "stats": [
+      "8% Chance when Struck [Blizzard] Level 53",
+      "+[150-225]% Enhanced Defense",
+      "+[1-3] to All Skills",
+      "+[3-5] to Cold Skills",
+      "+15 to Armor",
+      "+20 to All Attributes",
+      "Cold Skill Damage increased by [25-40]%",
+      "-[10-20]% to Enemy Cold Resistance",
+      "+[30-50]% to Cold Resistance",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Muspelheim Guardian's Scorched Plate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Armors_Muspelheim_Guardians_Scorched_Plate.png?1479b9",
+    "properties": {
+      "Defense": "525-780"
+    },
+    "stats": [
+      "8% Chance when Struck [Volcano] Level 60",
+      "+[150-225]% Enhanced Defense",
+      "+[1-3] to All Skills",
+      "+[3-5] to Fire Skills",
+      "Extra Damage to Burning Monsters [15-25]%",
+      "+15 to Armor",
+      "Fire Skill Damage increased by [25-40]%",
+      "-[10-20]% to Enemy Fire Resistance",
+      "+[30-50]% to Fire Resistance",
+      "Socketed (3-4)"
+    ]
+  },
+  {
+    "name": "Grimbone's Ribcage",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Armors_Grimbones_Ribcage.png?40a10f",
+    "properties": {
+      "Defense": "1815-2750"
+    },
+    "stats": [
+      "+[450-525]% Enhanced Defense",
+      "+3 to All Skills",
+      "+[3-6] Mana per second",
+      "+[30-50] to Vitality",
+      "-20% to Enemy Arcane Resistance",
+      "+475 to Life (Based on Level)",
+      "+[10-25]% to All Resistances",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Thunder Guardian's Plate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Armors_Thunder_Guardians_Plate.png?2713b2",
+    "properties": {
+      "Defense": "875-1275"
+    },
+    "stats": [
+      "15% Chance when Striking [Symphony of Thunder] Level 29",
+      "+[250-325]% Enhanced Defense",
+      "+[6-8] to Lightning Skills",
+      "+30 to All Attributes",
+      "Lightning Skill Damage increased by [25-40]%",
+      "-[20-25]% to Enemy Lightning Resistance",
+      "+[35-40]% to All Resistances",
+      "+[50-75]% to Lightning Resistance",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Gabriel's Broken Wings",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Armors_Gabriels_Broken_Wings.png?359cb3",
+    "properties": {
+      "Defense": "4290-5330"
+    },
+    "stats": [
+      "+[450-550]% Enhanced Defense",
+      "+[3-4] to All Skills",
+      "+1 to [Wings of Hatred]",
+      "+[35-70]% Increased Attack Speed",
+      "+[800-1000] to Attack Rating",
+      "+15 to Intelligence",
+      "+[40-55] to All Attributes",
+      "Magic Skill Damage increased by [30-55]%",
+      "Physical Damage Taken Reduced by 10%",
+      "Unbreakable",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Tayrel's Chestplate",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Armors_Tayrels_Chestplate.png?6dfc28",
+    "properties": {
+      "Defense": "3485-5535"
+    },
+    "stats": [
+      "+[750-925]% Enhanced Defense",
+      "+[8-12] to All Skills",
+      "+[40-50]% Increased Movement Speed",
+      "+40 to All Attributes",
+      "+2500 to Life (Based on Level)",
+      "+250 to Vitality (Based on Level)",
+      "+[50-75]% to All Resistances",
+      "Cannot be Frozen",
+      "Socketed (6)"
+    ]
+  },
+  {
+    "name": "St. Jupe's Plate of Command",
+    "category": "Armor",
+    "type": "Body Armors",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Armors_St._Jupes_Plate_of_Command.png?63da7c",
+    "properties": {
+      "Defense": "2108-2482"
+    },
+    "stats": [
+      "+[580-630]% Enhanced Defense",
+      "+5 to All Skills",
+      "+[15-30]% of Physical Damage taken as Fire",
+      "+50 to All Attributes",
+      "-[20-25]% to All Enemy Resistances",
+      "+100 to Vitality (Based on Level)",
+      "+25% to All Resistances",
+      "+50% to Fire Resistance",
+      "+[1-5]% to Maximum Fire Resist",
+      "Socketed (6)"
+    ]
+  }
+]

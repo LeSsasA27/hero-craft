@@ -1,6 +1,23 @@
-import type { Item } from "../types.ts";
-import swords from './generated/swords.json'
+import type { Item } from '../types.ts'
 
-export const items: Item[] = [
-    ...(swords as Item[]),
-]
+const modules = import.meta.glob(
+    './generated/*.json',
+    {
+        eager: true,
+        import: 'default',
+    },
+) as Record<string, Item[]>
+
+export const items: Item[] = Object
+    .values(modules)
+    .flat()
+    .sort((a, b) => {
+        const typeCompare =
+            a.type.localeCompare(b.type)
+
+        if (typeCompare !== 0) {
+            return typeCompare
+        }
+
+        return a.name.localeCompare(b.name)
+    })

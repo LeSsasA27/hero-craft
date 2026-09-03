@@ -1,0 +1,496 @@
+[
+  {
+    "name": "Glimmerfury",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 8,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Glimmerfury.png?175f15",
+    "properties": {
+      "Damage": "50-97",
+      "APS": "1.4",
+      "DPS": "70-136"
+    },
+    "stats": [
+      "+[210-340]% Enhanced Damage",
+      "+15% Increased Movement Speed",
+      "+2% Increased Attack Rating",
+      "+15 to Dexterity",
+      "+[20-30] to Additive Cold Damage",
+      "Cold Skill Damage increased by [5-15]%",
+      "+8 Mana After each Kill",
+      "+40% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Poison Ivy",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 22,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Poison_Ivy.png?daefbc",
+    "properties": {
+      "Damage": "159-250",
+      "APS": "1.5",
+      "DPS": "238-375"
+    },
+    "stats": [
+      "+[260-380]% Enhanced Damage",
+      "+[130-145] to Attack Rating",
+      "+7 to Strength",
+      "+7 to Dexterity",
+      "+[160-180] to Additive Poison Damage",
+      "Poison Skill Damage increased by [5-15]%",
+      "+50% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Electro",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 61,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Electro.png?685997",
+    "properties": {
+      "Damage": "238-375",
+      "APS": "1.87-2.21",
+      "DPS": "445-828"
+    },
+    "stats": [
+      "+[260-380]% Enhanced Damage",
+      "+[10-30]% Increased Attack Speed",
+      "+[180-250] to Attack Rating",
+      "+30 to Dexterity",
+      "+[625-665] to Additive Lightning Damage",
+      "Lightning Skill Damage increased by [4-15]%",
+      "-[4-10]% to Enemy Lightning Resistance",
+      "+50% to Lightning Resistance",
+      "+5% to Maximum Lightning Resist"
+    ]
+  },
+  {
+    "name": "Buriza-Ko-Nu",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 66,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Buriza-Ko-Nu.png?e4c4b7",
+    "properties": {
+      "Damage": "304-390",
+      "APS": "1.65",
+      "DPS": "501-644"
+    },
+    "stats": [
+      "[5-10]% Chance when Striking [Trigger Finger] Level [5-10]",
+      "+[360-400]% Enhanced Damage",
+      "+10% Increased Attack Rating",
+      "+375 to Attack Rating",
+      "+[30-40]% of target Defense ignored",
+      "+20 to Strength",
+      "+20 to Dexterity",
+      "Piercing Attack"
+    ]
+  },
+  {
+    "name": "Hellspawn Eradicator",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 81,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Hellspawn_Eradicator.png?30b46d",
+    "properties": {
+      "Damage": "408-602",
+      "APS": "1.25",
+      "DPS": "510-752"
+    },
+    "stats": [
+      "7% Chance after each Kill [Orb of Frost] Level 40",
+      "+[410-540]% Enhanced Damage",
+      "+75% Chance for a Deadly Blow",
+      "+75% Chance for a Crushing Blow",
+      "+35% of target Defense ignored",
+      "Slows target by 40%",
+      "+[1600-1800] to Additive Cold Damage",
+      "Cold Skill Damage increased by [20-30]%",
+      "+20 Life After each Kill",
+      "Piercing Attack",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Flamebringer",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Flamebringer.png?baa462",
+    "properties": {
+      "Damage": "297-507",
+      "APS": "1.75",
+      "DPS": "520-888"
+    },
+    "stats": [
+      "[5-10]% Chance when Striking [Explosive Bullets] Level [15-25]",
+      "+[350-550]% Enhanced Damage",
+      "+40% Increased Movement Speed",
+      "+40% Increased Attack Speed",
+      "+6% Mana stolen per Hit",
+      "+30 to Dexterity",
+      "+[1150-1350] to Additive Fire Damage",
+      "Fire Skill Damage increased by 15%",
+      "-25% to Enemy Fire Resistance",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Wind's Force",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Winds_Force.png?c93ac6",
+    "properties": {
+      "Damage": "376-636",
+      "APS": "2.34-2.52",
+      "DPS": "880-1603"
+    },
+    "stats": [
+      "[5-10]% Chance after each Kill [Rapid Fire] Level [10-20]",
+      "+[300-500]% Enhanced Damage",
+      "+[30-40]% Increased Attack Speed",
+      "+[4-7]% Mana stolen per Hit",
+      "+30 to Strength",
+      "+30 to Dexterity",
+      "+300 to Damage (Based on Level)",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Marksman's Hunting Bow",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Marksmans_Hunting_Bow.png?7abdfc",
+    "properties": {
+      "Damage": "432-583",
+      "APS": "1.65-1.79",
+      "DPS": "713-1044"
+    },
+    "stats": [
+      "+[440-520]% Enhanced Damage",
+      "+20% Increased Movement Speed",
+      "+[10-20]% Increased Attack Speed",
+      "+20% Increased Critical Strike Chance",
+      "+[650-675] to Additive Physical Damage",
+      "+[25-40]% Increased Critical Strike Damage",
+      "+20 to Strength",
+      "+20 to Dexterity",
+      "+12 Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Steve's Punchbow",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Steves_Punchbow.png?e6a781",
+    "properties": {
+      "Damage": "432-640",
+      "APS": "1.5",
+      "DPS": "648-959"
+    },
+    "stats": [
+      "+[440-580]% Enhanced Damage",
+      "+2 to All Skills",
+      "+4% Increased Attack Rating",
+      "+[280-460] to Attack Rating",
+      "+6% Mana stolen per Hit",
+      "Slows target by 20%",
+      "+10 to All Attributes",
+      "+[550-575] to Additive Lightning Damage",
+      "+[550-575] to Additive Fire Damage",
+      "+[550-575] to Additive Cold Damage"
+    ]
+  },
+  {
+    "name": "Monsoon",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Monsoon.png?b5111e",
+    "properties": {
+      "Damage": "741-1071",
+      "APS": "1.8",
+      "DPS": "1334-1928"
+    },
+    "stats": [
+      "+[550-750]% Enhanced Damage",
+      "+[2-4] to All Skills",
+      "+1 to [Ricochet]",
+      "Attack Range Increased by [10-20]%",
+      "+[8-15]% Mana stolen per Hit",
+      "+[45-60] to Strength",
+      "+[40-50] to Dexterity",
+      "+1000 to Attack Rating (Based on Level)",
+      "Piercing Attack",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Astral Projector",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Astral_Projector.png?23dd3b",
+    "properties": {
+      "Damage": "509-753",
+      "APS": "1.9",
+      "DPS": "967-1430"
+    },
+    "stats": [
+      "+[430-560]% Enhanced Damage",
+      "+[3-6] to Arcane Skills",
+      "+[3-6] to [Homing Missile]",
+      "+1150 to Attack Rating",
+      "+[4-8] Mana per second",
+      "+35 to Dexterity",
+      "+[30-60] to Intelligence",
+      "+[800-1500] to Additive Arcane Damage",
+      "Arcane Skill Damage increased by [18-45]%",
+      "Explosion area of effect increased by [25-40]%",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "Deathquill",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 95,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Deathquill.png?7e5ee7",
+    "properties": {
+      "Damage": "558-870",
+      "APS": "2.25",
+      "DPS": "1256-1956"
+    },
+    "stats": [
+      "10% Chance when Striking [Plague of Rats] Level 29",
+      "+[520-720]% Enhanced Damage",
+      "+50% Increased Attack Speed",
+      "+[1275-1325] to Additive Poison Damage",
+      "Poison Skill Damage increased by [20-40]%",
+      "-[15-25]% to Enemy Poison Resistance",
+      "+60% to Poison Resistance",
+      "+5% to Maximum Poison Resist",
+      "Poison Length Reduced by 50%"
+    ]
+  },
+  {
+    "name": "Recurving Corrosion",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 99,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Recurving_Corrosion.png?1104cd",
+    "properties": {
+      "Damage": "855-1107",
+      "APS": "1.5",
+      "DPS": "1283-1661"
+    },
+    "stats": [
+      "+[850-925]% Enhanced Damage",
+      "+[2-3] to All Skills",
+      "+[2-3] to Poison Skills",
+      "+[750-1250] to Attack Rating",
+      "Extra Damage to Poisoned Monsters [10-20]%",
+      "+40 to Strength",
+      "+65 to Dexterity",
+      "+[3500-5000] to Additive Poison Damage",
+      "Poison Skill Damage increased by [30-50]%",
+      "+8% Poison Damage Absorbed",
+      "+50% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Arrow of Niflheim",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Arrow_of_Niflheim.png?38ed39",
+    "properties": {
+      "Damage": "855-1197",
+      "APS": "1.5",
+      "DPS": "1283-1796"
+    },
+    "stats": [
+      "+[650-850]% Enhanced Damage",
+      "+[3-5] to All Skills",
+      "+[1-3] to [Lingering Frost]",
+      "+25% Increased Movement Speed",
+      "+15% Mana stolen per Hit",
+      "+[40-50] to Strength",
+      "+65 to Dexterity",
+      "Cold Skill Damage increased by [40-70]%",
+      "-[25-40]% to Enemy Cold Resistance",
+      "+[8-15]% Cold Damage Absorbed"
+    ]
+  },
+  {
+    "name": "Arachno Phobia",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Arachno_Phobia.png?4ae4e5",
+    "properties": {
+      "Damage": "592-771",
+      "APS": "0.65",
+      "DPS": "385-502"
+    },
+    "stats": [
+      "6% Chance after each Kill [Spiderlings] Level 1",
+      "8% Chance when Casting [Cursed Ground] Level 24",
+      "+[640-720]% Enhanced Damage",
+      "+[4-6] to Poison Skills",
+      "+[8-12] to [Caustic Spearhead]",
+      "Total Attack Speed Reduced by -35%",
+      "+[25-50]% Chance for a Deadly Blow",
+      "+[600-750] to Attack Rating",
+      "+11% Mana stolen per Hit",
+      "+75% of target Defense ignored",
+      "Extra Damage to Poisoned Monsters [40-55]%",
+      "+[1300-1800] to Additive Poison Damage",
+      "+[1400-2100] to Poison Skill Damage",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Shadowfury",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Shadowfury.png?438a99",
+    "properties": {
+      "Damage": "624-1004",
+      "APS": "2.1-2.27",
+      "DPS": "1311-2278"
+    },
+    "stats": [
+      "+[550-780]% Enhanced Damage",
+      "+[3-5] to All Skills",
+      "+[1-3] to [Reaper's Culling]",
+      "+[20-30]% Increased Attack Speed",
+      "+[1-2] to Projectile Speed",
+      "+[5-7]% Life stolen per Hit",
+      "+[40-50] to Strength",
+      "+60 to Dexterity",
+      "+[1180-1300] to Additive Arcane Damage",
+      "Magic Skill Damage increased by [8-25]%",
+      "Socketed (3-4)"
+    ]
+  },
+  {
+    "name": "Eternity",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_Eternity.png?66ba09",
+    "properties": {
+      "Damage": "1300-1470",
+      "APS": "1.14",
+      "DPS": "1482-1676"
+    },
+    "stats": [
+      "15% Chance when Striking [Homing Missile] Level 80",
+      "+[900-950]% Enhanced Damage",
+      "+5 to All Skills",
+      "Skill Movement Diminish Decreased by 75%",
+      "+50% Increased Critical Strike Chance",
+      "+[150-200]% Increased Critical Strike Damage",
+      "+[3-4] to Projectile Speed",
+      "Explosion Damage increased by [75-150]%",
+      "Explosion area of effect increased by [50-65]%",
+      "Unholy Stat",
+      "Unbreakable",
+      "Socketed (4)"
+    ]
+  },
+  {
+    "name": "St. Soloyolo's Holy Bow",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_St._Soloyolos_Holy_Bow.png?980e81",
+    "properties": {
+      "Damage": "814-1032",
+      "APS": "2.3",
+      "DPS": "1872-2373"
+    },
+    "stats": [
+      "20% Chance when Attacking [Holy Bolt] Level [200-225]",
+      "+[775-855]% Enhanced Damage",
+      "+40% Increased Attack Speed",
+      "+50% Increased Critical Strike Chance",
+      "+[7-10]% Life stolen per Hit",
+      "+[7-10]% Mana stolen per Hit",
+      "+[50-100]% Increased Critical Strike Damage",
+      "+30% of target Defense ignored",
+      "+[25-30] to All Attributes",
+      "Piercing Attack",
+      "Socketed (4)"
+    ]
+  },
+  {
+    "name": "St. Amitiel's Truth",
+    "category": "Weapons",
+    "type": "Bows",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Bow_St._Amitiels_Truth.png?aade51",
+    "properties": {
+      "Damage": "583-819",
+      "APS": "2.4-2.77",
+      "DPS": "1398-2267"
+    },
+    "stats": [
+      "15% Chance when Attacking [Truth Seeker] Level [1-5]",
+      "+[533-644]% Enhanced Damage",
+      "+[1-5] to All Skills",
+      "+[30-50]% Increased Attack Speed",
+      "+20% Chance for a Deadly Blow",
+      "+20% Chance for a Crushing Blow",
+      "+[3-7]% Life stolen per Hit",
+      "+[3-7]% Mana stolen per Hit",
+      "+[50-75]% of target Defense ignored",
+      "Piercing Attack",
+      "Socketed (4)"
+    ]
+  }
+]

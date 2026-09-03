@@ -1,8 +1,15 @@
 import type { Item } from '../types.ts'
 
+function getRarityClass(rarity: string) {
+    return rarity
+        .toLowerCase()
+        .replace(/\s+/g, '-')
+}
+
 export function itemCard(item: Item) {
     const visibleStats = item.stats.slice(0, 3)
     const remainingStats = item.stats.length - visibleStats.length
+    const rarityClass = getRarityClass(item.rarity)
 
     return `
     <article
@@ -10,7 +17,7 @@ export function itemCard(item: Item) {
       data-item="${item.name}"
     >
       <div class="item-card-top">
-        <div class="item-card-image-wrapper">
+        <div class="item-card-image-wrapper rarity-${rarityClass}">
           ${item.image ? `
             <img
               class="item-card-image"

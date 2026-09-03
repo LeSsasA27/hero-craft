@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Magistriker",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Strength",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Magistriker.png?f60523",
+    "properties": {
+      "Description": "Your Magic Skill Damage is increased based on your total Attacks per Second for each node of Strength taken nearby.",
+      "Base": "Magic Skill Damage: 1% per Glyph Level",
+      "Per Node of Strength": "Magic Skill Damage: 0.5% per Glyph Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Overloaded",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Strength",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Overloaded.png?165325",
+    "properties": {
+      "Description": "When using a ranged weapon, your attacks gain increased projectile speed and critical strike damage per node of Strength taken nearby.",
+      "Base": "Projectile Speed: 2% per Glyph LevelCritical Strike Damage: 4% per Glyph Level",
+      "Per Node of Strength": "Projectile Speed: 1% per Glyph LevelCritical Strike Damage: 2% per Glyph Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Titan's Power",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Strength",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Titans_Power.png?f6a25d",
+    "properties": {
+      "Description": "Every 30 seconds your attacks for the next 2 seconds gain increased area size, projectile speed and damage per node of Strength taken nearby.",
+      "Base": "Area of Effect: 4% per Glyph LevelProjectile Speed: 2% per Glyph LevelDamage: 6% per Glyph Level",
+      "Per Node of Strength": "Area of Effect: 1% per Glyph LevelProjectile Speed: 0.5% per Glyph LevelDamage: 1.5% per Glyph Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Avarice",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Dexterity",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Avarice.png?2f3ecd",
+    "properties": {
+      "Description": "Picking up gold grants you a stack of Avarice for 8 seconds. Each stack refreshes the buff duration and increases your Magic Find and Gold Find for each node of Dexterity taken nearby. Effect from this Glyph does not have diminishing returns.",
+      "Base": "Magic Find: 0.60% per LevelExtra Gold from Kills: 0.40% per Level",
+      "Per Node of Dexterity": "Magic Find: 0.12% per LevelExtra Gold from Kills: 0.08% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Precision",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Dexterity",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Precision.png?678c3a",
+    "properties": {
+      "Description": "Gain Ignore Target Defense for each node of Dexterity taken nearby.",
+      "Base": "Ignore Target Defense: 2% per Level",
+      "Per Node of Dexterity": "Ignore Target Defense: 1% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Tempest Strikes",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Dexterity",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Tempest_Strikes.png?dfd0e1",
+    "properties": {
+      "Description": "Striking enemies grants you a stack of Tempest. Each stack of Tempest increases your Attack & Movement Speed per node of Dexterity taken nearby. When you reach maximum stacks, the effect is doubled for a short period.",
+      "Base": "Movement Speed: 0.01% per LevelAttack Speed: 0.03% per Level",
+      "Per Node of Dexterity": "Movement Speed: 0.0022% per LevelAttack Speed: 0.006% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Longevity",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Intelligence",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Longevity.png?e6f214",
+    "properties": {
+      "Description": "All Orbiting Skills last longer and pulse a small amount of area damage per node of Intelligence taken nearby.",
+      "Base": "Duration: 1% per LevelDamage: 1.75% per Level",
+      "Per Node of Intelligence": "Duration: 0.5% per LevelDamage: 0.875% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Echo",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Intelligence",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Echo.png?31756c",
+    "properties": {
+      "Description": "Every 30 seconds you automatically cast your last used skill, dealing increased damage for each node of Intelligence taken nearby. The cooldown is reduced by 0.5s after each kill.",
+      "Base": "Damage: 4% per Level",
+      "Per Node of Intelligence": "Damage: 2% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Mystic Insight",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Intelligence",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Mystic_Insight.png?4f75e8",
+    "properties": {
+      "Description": "Gain Spell Critical Chance and Spell Critical Damage per node of Intelligence taken nearby. Standard sources of critical chance & critical damage do not apply to spells.",
+      "Base": "Critical Strike Chance: 30%Critical Strike Damage: 2% per Level",
+      "Per Node of Intelligence": "Critical Strike Damage: 2% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Minion Mastery",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Intelligence",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Minion_Mastery.png?2c83b0",
+    "properties": {
+      "Description": "Your Summons gain increased Attack Speed for each node of Intelligence taken nearby. This bonus is doubled for 8 seconds whenever you summon a new minion or command them.",
+      "Base": "Attack Speed: 1% per Level",
+      "Per Node of Intelligence": "Attack Speed: 0.75% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Infinity",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Energy",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Infinity.png?a3e5e0",
+    "properties": {
+      "Description": "Casting an elemental skill has a chance to double cast it for each node of Energy taken nearby.",
+      "Base": "Chance: 5% +0.50% per Level",
+      "Per Node of Energy": "Chance: 0.20% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Alchemy",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Energy",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Alchemy.png?503002",
+    "properties": {
+      "Description": "Gain 0.1% Magic Skill Damage per 100 maximum mana for each node of energy.",
+      "Base": "Magic Skill Damage: 0.10% per Level",
+      "Per Node of Energy": "Magic Skill Damage: 0.05% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Nordic Winter",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Energy",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Nordic_Winter.png?797c2c",
+    "properties": {
+      "Description": "Cold Damage has a chance to apply a stack of freeze on enemies. At 5 stacks you indlict Deep Freeze which deals 75% of incoming damage as cold damage for 5 seconds and causing the enemy to take increased damage for each node of Energy taken nearby.",
+      "Base": "Damage: 2% per Level",
+      "Per Node of Energy": "Damage: 0.3% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Monstrosity",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Energy",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Monstrosity.png?549e9d",
+    "properties": {
+      "Description": "Dealing Elemental damage grants you a stack of Manastream, increasing your Magic Skill Damage per stack. At 1000 Stacks gain a temporary buff for 15 seconds where your mana costs are decreased by 80%, gain Increased Cast Rate and Increased Cooldown Recovery Rate per node of Energy taken nearby.",
+      "Base": "Magic Skill Damage: 0.02% per LevelFaster Cast Rate: 6% per LevelCooldown Recovery: 3% per Level",
+      "Per Node of Energy": "Faster Cast Rate: 0.12% per LevelCooldown Recovery: 0.06% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Zapper",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Energy",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Zapper.png?d2ca97",
+    "properties": {
+      "Description": "Dealing Lightning Damage to enemies has a chance to cause Chain Lightning on nearby enemies, dealing a portion of the incoming damage as Lightning Damage per node of Energy taken nearby.",
+      "Base": "Lightning Damage: 5% +2% per Level",
+      "Per Node of Energy": "Lightning Damage: 1.25% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Spellslinger",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Energy",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Spellslinger.png?3a255d",
+    "properties": {
+      "Description": "Gain Faster Cast Rate for a portion of your Total Magic Skill Damage (Faster Cast Rate bonus also benefits from the Magic Skill Damage added by this Glyph) and additionally gain increased Magic Skill Damage per node of Energy taken nearby.",
+      "Base": "Faster Cast Rate: 35%Magic Skill Damage: 2% per Level",
+      "Per Node of Energy": "Magic Skill Damage: 0.82% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Gravity",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Armor",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Gravity.png?c18045",
+    "properties": {
+      "Description": "You are surrounded by a gravity field which pulls enemies towards you, slowing them and lowing their damage dealt. The field grows in size for each node of Armor taken nearby whenever you hit an enemy with a spell or attack and decreases in size over time.",
+      "Base": "Area of Effect: 5% per LevelDamage Reduced By: 1% per Level",
+      "Per Node of Armor": "Area of Effect: 2.5% per LevelDamage Reduced By: 0.5% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Artful Dodger",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Armor",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Artful_Dodger.png?2e0f9f",
+    "properties": {
+      "Description": "Dodging or blocking attacks or projectiles grants you increased Movement Speed, Attack Speed and Attack Damage for each node of Armor taken nearby.",
+      "Base": "Movement Speed: 1% per LevelAttack Speed: 1.50% per LevelAttack Damage: 2.50% per Level",
+      "Per Node of Armor": "Movement Speed: 0.2% per LevelAttack Speed: 0.3% per LevelAttack Damage: 0.5% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Tinkerer",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Armor",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Tinkerer.png?6f3529",
+    "properties": {
+      "Description": "Every 10th cast you gain a buff for 2 seconds which grants Increased Explosion Area and causes any explosions to happen multiple times per node of Armor taken nearby.",
+      "Base": "Area of Effect: 8% +2% per LevelMulticast: 1 +0.3 per level",
+      "Per Node of Armor": "Area of Effect: 1% per LevelMulticast: 0.015 per level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Survivor's Shield",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Armor",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Survivors_Shield.png?2c3f96",
+    "properties": {
+      "Description": "When losing 35% of your maximum life you become immune to all healing and damage for a short period. The duration is increased per node of Armor taken nearby.",
+      "Base": "Duration: 0.25s per Level",
+      "Per Node of Armor": "Duration: 0.06s per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Drunkard",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Vitality",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Drunkard.png?e8cfe2",
+    "properties": {
+      "Description": "For each buff you have active, your damage taken is reduced for each node of Vitality taken nearby.",
+      "Base": "Damage Reduction: 1% +0.5% per Level",
+      "Per Node of Vitality": "Damage Reduction: 0.05% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Corrosion",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Vitality",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Corrosion.png?d60b5e",
+    "properties": {
+      "Description": "Your damage over time effects last longer for each node of Vitality taken nearby. Every second an enemy is affected by a damage over time they take increased damage from that element.",
+      "Base": "Duration: 0.25s per LevelDamage: 12%",
+      "Per Node of Vitality": "Duration: 0.06s per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "SIngularity",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Vitality",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Singularity.png?700bf1",
+    "properties": {
+      "Description": "Every 7 seconds your next projectile will pull enemies to it when destroyed. The size of the pull is increased per node of Vitality taken nearby.",
+      "Base": "Area of Effect: 30% +10% per Level",
+      "Per Node of Vitality": "Area of Effect: 5% per Level"
+    },
+    "stats": []
+  },
+  {
+    "name": "Mixture",
+    "category": "Special Items",
+    "type": "Glyphs",
+    "rarity": "Vitality",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Glyphs_Mixture.png?3f21ef",
+    "properties": {
+      "Description": "Your Poison Skills create a field of venom which poisons enemies for a portion of the damage dealt, breaking their poison resistances per node of Vitality taken nearby.",
+      "Base": "Poison Break 4% +2% per Level",
+      "Per Node of Vitality": "Poison Break 0.4% per Level"
+    },
+    "stats": []
+  }
+]

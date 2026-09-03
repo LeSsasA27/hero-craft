@@ -1,0 +1,1169 @@
+[
+  {
+    "name": "Thunderburn Aegis",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 12,
+    "image": "https://herosiege.wiki.gg/images/Shields_Thunderburn_Aegis.png?ba67cd",
+    "properties": {
+      "Defense": "9-17",
+      "Block": "40"
+    },
+    "stats": [
+      "+[50-70]% Enhanced Defense",
+      "+10% Increased Attack Speed",
+      "+[8-12] to Additive Lightning Damage",
+      "+[8-12] to Additive Fire Damage",
+      "+5% to All Resistances"
+    ]
+  },
+  {
+    "name": "Shield of Shattered Elements",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 14,
+    "image": "https://herosiege.wiki.gg/images/Shields_Shield_of_Shattered_Elements.png?22f11a",
+    "properties": {
+      "Defense": "9-17",
+      "Block": "25"
+    },
+    "stats": [
+      "+[50-70]% Enhanced Defense",
+      "-6% to Enemy Cold Resistance",
+      "-[4-7]% to Enemy Fire Resistance",
+      "-[3-8]% to Enemy Poison Resistance",
+      "-[1-10]% to Enemy Lightning Resistance",
+      "Magic Skill Damage increased by 5%"
+    ]
+  },
+  {
+    "name": "Battlemagi's Rampart",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 16,
+    "image": "https://herosiege.wiki.gg/images/Shields_Battlemagis_Rampart.png?c42f7d",
+    "properties": {
+      "Defense": "9-16",
+      "Block": "20"
+    },
+    "stats": [
+      "+[50-60]% Enhanced Defense",
+      "+5 to Armor",
+      "Replenish Life 15%",
+      "Replenish Mana 10%"
+    ]
+  },
+  {
+    "name": "Archmagus Glyphward",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 20,
+    "image": "https://herosiege.wiki.gg/images/Shields_Archmagus_Glyphward.png?6cfdf4",
+    "properties": {
+      "Defense": "21-31",
+      "Block": "25"
+    },
+    "stats": [
+      "+[50-70]% Enhanced Defense",
+      "+10 to Energy",
+      "+[5-15] to Intelligence",
+      "Replenish Life [10-15]%",
+      "+125 to Life"
+    ]
+  },
+  {
+    "name": "Darkwood Defender",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 23,
+    "image": "https://herosiege.wiki.gg/images/Shields_Darkwood_Defender.png?5ca3aa",
+    "properties": {
+      "Defense": "20-27",
+      "Block": "40"
+    },
+    "stats": [
+      "+[40-50]% Enhanced Defense",
+      "+[20-30]% Increased Chance of Blocking",
+      "+8 to Strength",
+      "+15 to Energy",
+      "+15 to Vitality"
+    ]
+  },
+  {
+    "name": "Bob's Piece of Plywood",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 25,
+    "image": "https://herosiege.wiki.gg/images/Shields_Bobs_Piece_of_Plywood.png?d6cddd",
+    "properties": {
+      "Defense": "21-31",
+      "Block": "40"
+    },
+    "stats": [
+      "5% Chance when Struck [Chainsaw Massacre] Level 40",
+      "+[50-70]% Enhanced Defense",
+      "+[10-20]% Increased Chance of Blocking",
+      "+[3-5]% Increased Critical Strike Chance",
+      "+10 to Strength"
+    ]
+  },
+  {
+    "name": "Rusted Spiked Shield",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 26,
+    "image": "https://herosiege.wiki.gg/images/Shields_Rusted_Spiked_Shield.png?5c3fb6",
+    "properties": {
+      "Defense": "20-27",
+      "Block": "60"
+    },
+    "stats": [
+      "18% Chance after Blocking [Fan of Knives] Level 8",
+      "+[40-50]% Enhanced Defense",
+      "+5 to Strength",
+      "+10 to Dexterity",
+      "+20 to Life"
+    ]
+  },
+  {
+    "name": "Blessed Defender",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 28,
+    "image": "https://herosiege.wiki.gg/images/Shields_Blessed_Defender.png?888a95",
+    "properties": {
+      "Defense": "21-29",
+      "Block": "55"
+    },
+    "stats": [
+      "+[50-60]% Enhanced Defense",
+      "+[20-30]% Increased Chance of Blocking",
+      "+[18-36] to Additive Lightning Damage",
+      "+35% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by [2-5]%",
+      "+25% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Lost Wizard's Barrier",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 30,
+    "image": "https://herosiege.wiki.gg/images/Shields_Lost_Wizards_Barrier.png?882b5c",
+    "properties": {
+      "Defense": "24-35",
+      "Block": "60"
+    },
+    "stats": [
+      "+[70-90]% Enhanced Defense",
+      "Cooldown Recovery Increased by 10%",
+      "Arcane Skill Damage increased by [7-15]%",
+      "+[2-4] to Light Radius"
+    ]
+  },
+  {
+    "name": "Spellbinder's Magebarrier",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 35,
+    "image": "https://herosiege.wiki.gg/images/Shields_Spellbinders_Magebarrier.png?ecfb0f",
+    "properties": {
+      "Defense": "33-68",
+      "Block": "25"
+    },
+    "stats": [
+      "+[50-70]% Enhanced Defense",
+      "+20 to Energy",
+      "Magic Skill Damage increased by 10%",
+      "+[8-12] Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Rendguard of Carnage",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Shields_Rendguard_of_Carnage.png?98f87d",
+    "properties": {
+      "Defense": "29-72",
+      "Block": "25"
+    },
+    "stats": [
+      "+[30-80]% Enhanced Defense",
+      "+[5-10]% Increased Critical Strike Chance",
+      "+[5-10]% Chance for a Deadly Blow",
+      "+[5-10]% Chance for a Crushing Blow",
+      "+[180-200] to Attack Rating"
+    ]
+  },
+  {
+    "name": "Thunderstruck Deflector",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 45,
+    "image": "https://herosiege.wiki.gg/images/Shields_Thunderstruck_Deflector.png?11e30e",
+    "properties": {
+      "Defense": "33-64",
+      "Block": "25"
+    },
+    "stats": [
+      "+[50-60]% Enhanced Defense",
+      "+[30-40]% Increased Movement Speed",
+      "+[10-15]% Increased Attack Speed",
+      "Skill Movement Diminish Decreased by 50%",
+      "+[750-1500] to Additive Lightning Damage",
+      "Lightning Skill Damage increased by [15-20]%",
+      "+75% Faster Hit Recovery"
+    ]
+  },
+  {
+    "name": "Ward of Toxicity",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 48,
+    "image": "https://herosiege.wiki.gg/images/Shields_Ward_of_Toxicity.png?882a98",
+    "properties": {
+      "Defense": "53-120",
+      "Block": "60"
+    },
+    "stats": [
+      "+[140-200]% Enhanced Defense",
+      "+[1-2] to Poison Skills",
+      "+[120-80] to Poison Skill Damage",
+      "Poison Skill Damage increased by [5-10]%",
+      "+15% to All Resistances",
+      "+50% to Poison Resistance",
+      "Poison Length Reduced by 25%"
+    ]
+  },
+  {
+    "name": "Pandemic Shield",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 50,
+    "image": "https://herosiege.wiki.gg/images/Shields_Pandemic_Shield.png?f021f7",
+    "properties": {
+      "Defense": "58-112",
+      "Block": "55"
+    },
+    "stats": [
+      "15% Chance after Blocking [Poison Nova] Level 24",
+      "+[160-180]% Enhanced Defense",
+      "+15% Increased Chance of Blocking",
+      "+[20-30] to Vitality",
+      "+[250-350]% of Damage Returned to the Attacker",
+      "+[40-75]% to Poison Resistance",
+      "Poison Length Reduced by 25%"
+    ]
+  },
+  {
+    "name": "Crystal Infused Shield",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Shields_Crystal_Infused_Shield.png?d8c3a4",
+    "properties": {
+      "Defense": "36-80",
+      "Block": "60"
+    },
+    "stats": [
+      "+[60-100]% Enhanced Defense",
+      "+1 to All Skills",
+      "Damage Taken Reduced by 3",
+      "+3 to Light Radius",
+      "+15% to All Resistances"
+    ]
+  },
+  {
+    "name": "Storm Gladiator's Wall",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Shields_Storm_Gladiators_Wall.png?f62799",
+    "properties": {
+      "Defense": "53-120",
+      "Block": "40"
+    },
+    "stats": [
+      "10% Chance after Blocking [Lightning Fury] Level [5-10]",
+      "+[140-200]% Enhanced Defense",
+      "+[160-180] to Additive Lightning Damage",
+      "+3 to Light Radius",
+      "+[25-35]% to All Resistances",
+      "+30% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Lancer's Wall",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 55,
+    "image": "https://herosiege.wiki.gg/images/Shields_Lancers_Wall.png?8f1bb9",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "60"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+10% Increased Chance of Blocking",
+      "+35% Defense vs Missiles",
+      "+[3-5]% Increased Defense",
+      "+200% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by [10-15]%",
+      "Magic Damage Taken Reduced by [10-15]%"
+    ]
+  },
+  {
+    "name": "Den Glider In",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Shields_Den_Glider_In.png?e3ae6c",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "50"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+[20-30]% Increased Chance of Blocking",
+      "+15 to Vitality",
+      "+35% Defense vs Missiles",
+      "+125% of Damage Returned to the Attacker",
+      "Magic Damage Taken Reduced by 15%",
+      "+[10-20]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Battle Mage's Shield",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Shields_Battle_Mages_Shield.png?542558",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "60"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+1 to All Skills",
+      "+[10-20]% Faster Cast Rate",
+      "Magic Skill Damage increased by [5-10]%",
+      "Replenish Mana 15%",
+      "+[20-30] to Mana"
+    ]
+  },
+  {
+    "name": "The Templar",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 61,
+    "image": "https://herosiege.wiki.gg/images/Shields_The_Templar.png?36b261",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "50"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+2 to All Skills",
+      "+20% Increased Movement Speed",
+      "Replenish Life [15-25]%",
+      "+[30-50] to Life",
+      "+25% Faster Hit Recovery",
+      "+[3-5]% Increased Defense"
+    ]
+  },
+  {
+    "name": "Rift Eye",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Shields_Rift_Eye.png?51b5c6",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "35"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+2 to Arcane Skills",
+      "+[20-30]% Faster Cast Rate",
+      "+15 to Energy",
+      "+10 to Vitality",
+      "Arcane Skill Damage increased by [8-20]%",
+      "Replenish Mana [15-25]%",
+      "+[30-50] to Mana"
+    ]
+  },
+  {
+    "name": "Heaven's Champion",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Shields_Heavens_Champion.png?741bb0",
+    "properties": {
+      "Defense": "232-330",
+      "Block": "60"
+    },
+    "stats": [
+      "+[190-230]% Enhanced Defense",
+      "+[2-4] to All Skills",
+      "+8% Mana stolen per Hit",
+      "Magic Skill Damage increased by [8-15]%",
+      "+40 to Mana",
+      "+[8-15] Mana After each Kill"
+    ]
+  },
+  {
+    "name": "King's Tower Shield",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 83,
+    "image": "https://herosiege.wiki.gg/images/Shields_Kings_Tower_Shield.png?32e5c0",
+    "properties": {
+      "Defense": "272-400",
+      "Block": "70"
+    },
+    "stats": [
+      "+[240-300]% Enhanced Defense",
+      "+[15-25] to All Attributes",
+      "+30% Faster Hit Recovery",
+      "+5% Increased Defense",
+      "Physical Damage Taken Reduced by [8-15]%",
+      "Magic Damage Taken Reduced by [8-15]%",
+      "+50% to All Resistances"
+    ]
+  },
+  {
+    "name": "Ward of Blood",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 86,
+    "image": "https://herosiege.wiki.gg/images/Shields_Ward_of_Blood.png?a31697",
+    "properties": {
+      "Defense": "192-300",
+      "Block": "65"
+    },
+    "stats": [
+      "+[140-200]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[8-20] to [Devout Doctor]",
+      "+[15-25]% Life stolen per Hit",
+      "+[100-200] to Life",
+      "Life Increased by [10-15]%",
+      "Socketed (3)"
+    ]
+  },
+  {
+    "name": "Visage of Relentless Rage",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 86,
+    "image": "https://herosiege.wiki.gg/images/Shields_Visage_of_Relentless_Rage.png?c52912",
+    "properties": {
+      "Defense": "171-299",
+      "Block": "56"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+15% Chance for a Deadly Blow",
+      "+5% Increased Attack Rating",
+      "+[75-110] to Additive Physical Damage",
+      "+5% Life stolen per Hit",
+      "+50 to Strength",
+      "Attack Damage increased by [8-15]%",
+      "+18 Life After each Kill"
+    ]
+  },
+  {
+    "name": "Pitfiend's Thorn",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Shields_Pitfiends_Thorn.png?4d1f35",
+    "properties": {
+      "Defense": "152-230",
+      "Block": "52"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+[20-30]% Increased Movement Speed",
+      "+30% Increased Attack Speed",
+      "+[250-400]% Increased Attack Rating",
+      "+[8-12]% Life stolen per Hit",
+      "+25% Chance to Open Wounds",
+      "Extra Damage to Bleeding Monsters [10-18]%",
+      "Socketed (2-3)"
+    ]
+  },
+  {
+    "name": "Leprechauns Greed",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Shields_Leprechauns_Greed.png?482d23",
+    "properties": {
+      "Defense": "238-352",
+      "Block": "35"
+    },
+    "stats": [
+      "+[180-220]% Enhanced Defense",
+      "+35% Magic Find (Based on Level)",
+      "+[40-60]% Extra Gold Dropped From Kills",
+      "+[20-40]% Increased Magic Find",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Thunder Lord's Aegis",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Shields_Thunder_Lords_Aegis.png?2ba3e1",
+    "properties": {
+      "Defense": "152-230",
+      "Block": "56"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+[375-440] to Lightning Skill Damage",
+      "Lightning Skill Damage increased by [10-20]%",
+      "-[5-10]% to Enemy Lightning Resistance",
+      "Magic Damage Taken Reduced by 20%",
+      "+50% to Lightning Resistance",
+      "+10% to Maximum Lightning Resist"
+    ]
+  },
+  {
+    "name": "Shadow Buckler",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Shields_Shadow_Buckler.png?f9c8cf",
+    "properties": {
+      "Defense": "200-280",
+      "Block": "35"
+    },
+    "stats": [
+      "+[150-180]% Enhanced Defense",
+      "+[2-3] to All Skills",
+      "+[30-40]% Increased Attack Speed",
+      "+30 to Strength",
+      "+25 to Dexterity",
+      "+15 to Vitality",
+      "Magic Skill Damage increased by [10-20]%",
+      "+20% to All Resistances",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Mirror of Flesh",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Shields_Mirror_of_Flesh.png?6f8182",
+    "properties": {
+      "Defense": "192-300",
+      "Block": "75"
+    },
+    "stats": [
+      "18% Chance after Blocking [Meat Bomb] Level 32",
+      "+[140-200]% Enhanced Defense",
+      "+1 to All Skills",
+      "Magic Skill Damage increased by [10-15]%",
+      "+30% Faster Hit Recovery",
+      "Physical Damage Taken Reduced by 10%"
+    ]
+  },
+  {
+    "name": "Iron Giants Shield",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 90,
+    "image": "https://herosiege.wiki.gg/images/Shields_Iron_Giants_Shield.png?797607",
+    "properties": {
+      "Defense": "256-360",
+      "Block": "75"
+    },
+    "stats": [
+      "8% Chance after Blocking [Last Stand] Level 11",
+      "+[220-260]% Enhanced Defense",
+      "+[1-3] to All Skills",
+      "+50 to Vitality",
+      "+30 to Armor",
+      "Damage Taken Reduced by 30"
+    ]
+  },
+  {
+    "name": "Novice's Tower",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Shields_Novices_Tower.png?b9a743",
+    "properties": {
+      "Defense": "192-300",
+      "Block": "65"
+    },
+    "stats": [
+      "+[140-200]% Enhanced Defense",
+      "+45 to All Attributes",
+      "+75% Faster Hit Recovery",
+      "+25% Magic Find (Based on Level)",
+      "+30% to All Resistances",
+      "+[10-20]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Wall of the Legion",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 93,
+    "image": "https://herosiege.wiki.gg/images/Shields_Wall_of_the_Legion.png?d9cb88",
+    "properties": {
+      "Defense": "280-380",
+      "Block": "70"
+    },
+    "stats": [
+      "+[250-280]% Enhanced Defense",
+      "+1 to All Skills",
+      "+20 to Strength",
+      "+30 to Vitality",
+      "+[350-400]% Defense vs Missiles",
+      "+40% to All Resistances",
+      "Socketed (6)"
+    ]
+  },
+  {
+    "name": "Gem Encrusted Tower",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 93,
+    "image": "https://herosiege.wiki.gg/images/Shields_Gem_Encrusted_Tower.png?e5bdd2",
+    "properties": {
+      "Defense": "256-360",
+      "Block": "70"
+    },
+    "stats": [
+      "+[220-260]% Enhanced Defense",
+      "+20 to Vitality",
+      "+[150-250] to Life",
+      "+75% Faster Hit Recovery",
+      "Physical Damage Taken Reduced by [12-18]%",
+      "Magic Damage Taken Reduced by [12-18]%",
+      "+[30-40]% to All Resistances",
+      "Socketed (6)"
+    ]
+  },
+  {
+    "name": "Gladiator's Wall",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 48,
+    "image": "https://herosiege.wiki.gg/images/Shields_Gladiators_Wall.png?437c10",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "55"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+5% Increased Critical Strike Chance",
+      "+4% Mana stolen per Hit",
+      "+[15-30]% Increased Critical Strike Damage",
+      "+20 to Strength",
+      "+20 to Dexterity",
+      "+75 to Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "Vagabond's Ward",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 51,
+    "image": "https://herosiege.wiki.gg/images/Shields_Vagabonds_Ward.png?8dfa1f",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "48"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+2 to Physical Skills",
+      "+10% Increased Attack Speed",
+      "+5 to All Attributes",
+      "Replenish Life 10%",
+      "+25 to Life",
+      "+20% to All Resistances"
+    ]
+  },
+  {
+    "name": "Aztec Ward",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Shields_Aztec_Ward.png?8da9db",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "40"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+2 to Poison Skills",
+      "+[20-30]% Faster Cast Rate",
+      "+20 to Strength",
+      "+15 to Dexterity",
+      "Poison Skill Damage increased by [8-20]%",
+      "Replenish Life [10-20]%",
+      "+[20-40] to Life"
+    ]
+  },
+  {
+    "name": "Sacred Aegis",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 53,
+    "image": "https://herosiege.wiki.gg/images/Shields_Sacred_Aegis.png?a9d1d2",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "60"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+[4-8]% Increased Attack Rating",
+      "+4% Mana stolen per Hit",
+      "+20 to Strength",
+      "+10 to Vitality",
+      "Replenish Life [10-20]%",
+      "+[20-40] to Life",
+      "+75 to Life (Based on Level)"
+    ]
+  },
+  {
+    "name": "Valkyrie's Battle Shield",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 56,
+    "image": "https://herosiege.wiki.gg/images/Shields_Valkyries_Battle_Shield.png?a804ca",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "40"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+[25-40]% Increased Chance of Blocking",
+      "+20% Faster Cast Rate",
+      "+235 to Lightning Skill Damage",
+      "+[20-30] to Life",
+      "Damage Taken Reduced by 8",
+      "+[30-50]% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Justiciar's Thunder Wall",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 59,
+    "image": "https://herosiege.wiki.gg/images/Shields_Justiciars_Thunder_Wall.png?a70f56",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "60"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+3% Mana stolen per Hit",
+      "+[250-375] to Lightning Skill Damage",
+      "Damage Taken Reduced by [8-15]",
+      "Magic Damage Taken Reduced by 10%",
+      "+50% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Flame Diviner's Ward",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 60,
+    "image": "https://herosiege.wiki.gg/images/Shields_Flame_Diviners_Ward.png?105c57",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "40"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+[10-20]% Faster Cast Rate",
+      "+[550-625] to Fire Skill Damage",
+      "Fire Skill Damage increased by 5%",
+      "Replenish Mana 10%",
+      "+25 to Mana",
+      "+50% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Shield Bearer's Wall",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Shields_Shield_Bearers_Wall.png?c39cd9",
+    "properties": {
+      "Defense": "99-161",
+      "Block": "65"
+    },
+    "stats": [
+      "+[90-130]% Enhanced Defense",
+      "+[50-75] to Attack Rating",
+      "+5% Life stolen per Hit",
+      "+40 to Strength",
+      "+10 to Dexterity",
+      "Attack Damage increased by 5%",
+      "+[20-30]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Pit Ravager's Cetratus",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Shields_Pit_Ravagers_Cetratus.png?8fb0ab",
+    "properties": {
+      "Defense": "720-1352",
+      "Block": "60"
+    },
+    "stats": [
+      "+[300-420]% Enhanced Defense",
+      "+[3-6] to Physical Skills",
+      "+[1-3] to [Fatality]",
+      "+25% Chance to Open Wounds",
+      "+[30-45] to All Attributes",
+      "Attack Damage increased by [50-100]%",
+      "Physical Damage Taken Reduced by 10%",
+      "Magic Damage Taken Reduced by 8%",
+      "Socketed (2-5)"
+    ]
+  },
+  {
+    "name": "Demon's Mirror",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Shields_Demons_Mirror.png?119598",
+    "properties": {
+      "Defense": "1330-1861",
+      "Block": "75"
+    },
+    "stats": [
+      "+[250-365]% Enhanced Defense",
+      "+[2-5] to Physical Skills",
+      "+[5-10] to [Shield Slam]",
+      "+[10-50]% Increased Attack Speed",
+      "+[30-40] to Vitality",
+      "Attack Damage increased by [10-30]%",
+      "+100% Faster Hit Recovery",
+      "+[300-600] to Life (Based on Level)",
+      "+[20-40]% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "SUOMI FINLAND PERKELE",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Shields_SUOMI_FINLAND_PERKELE.png?cb3607",
+    "properties": {
+      "Defense": "1330-1861",
+      "Block": "60"
+    },
+    "stats": [
+      "+[250-365]% Enhanced Defense",
+      "+[3-4] to All Skills",
+      "+[40-50]% Faster Cast Rate",
+      "+[20-30] to Energy",
+      "+[20-30] to Vitality",
+      "+[30-40]% to All Resistances",
+      "Socketed (4-6)"
+    ]
+  },
+  {
+    "name": "Celestial's Authority",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 95,
+    "image": "https://herosiege.wiki.gg/images/Shields_Celestials_Authority.png?7d4756",
+    "properties": {
+      "Defense": "455-690",
+      "Block": "50"
+    },
+    "stats": [
+      "+[250-360]% Enhanced Defense",
+      "+1 to [Celestial Might]",
+      "Arcane Skill Damage increased by [30-50]%",
+      "-[50-60]% to Enemy Arcane Resistance",
+      "+[20-40]% to All Resistances",
+      "+75% to Arcane Resistance",
+      "+10% to Maximum Arcane Resist",
+      "Socketed (4)"
+    ]
+  },
+  {
+    "name": "Ancient Aegis",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 95,
+    "image": "https://herosiege.wiki.gg/images/Shields_Ancient_Aegis.png?7afd54",
+    "properties": {
+      "Defense": "432-623",
+      "Block": "35"
+    },
+    "stats": [
+      "+[260-345]% Enhanced Defense",
+      "+[1-3] to All Skills",
+      "+[30-40] to Energy",
+      "+20 to Vitality",
+      "Magic Skill Damage increased by [15-35]%",
+      "+50% Faster Hit Recovery",
+      "+[40-60]% to All Resistances",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Shield of the Abyss",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Shields_Shield_of_the_Abyss.png?98945b",
+    "properties": {
+      "Defense": "408-560",
+      "Block": "60"
+    },
+    "stats": [
+      "+[240-300]% Enhanced Defense",
+      "+[3-5] to Cold Skills",
+      "+1337 to Cold Skill Damage",
+      "Cold Skill Damage increased by [15-40]%",
+      "-[8-20]% to Enemy Cold Resistance",
+      "+75% to Cold Resistance",
+      "+[3-5]% to Maximum Cold Resist",
+      "Cannot be Frozen",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Defender's Justice",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Shields_Defenders_Justice.png?6ca6e0",
+    "properties": {
+      "Defense": "408-704",
+      "Block": "60"
+    },
+    "stats": [
+      "20% Chance after Blocking [Counter] Level 73",
+      "+[240-340]% Enhanced Defense",
+      "+[3-4] to All Skills",
+      "+[15-25] to Vitality",
+      "+35 to All Attributes",
+      "Damage Taken Reduced by 250",
+      "+125 to Mana (Based on Level)",
+      "+275 to Life (Based on Level)",
+      "+[45-75]% to All Resistances",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Tombstone",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Shields_Tombstone.png?8d41f1",
+    "properties": {
+      "Defense": "1710-2363",
+      "Block": "80"
+    },
+    "stats": [
+      "+[350-425]% Enhanced Defense",
+      "+30 to Vitality",
+      "+[40-50] to Armor",
+      "+666 to Life",
+      "+[50-80]% Faster Hit Recovery",
+      "Life Increased by [4-10]%",
+      "+[125-175]% of Damage Returned to the Attacker",
+      "+15% of Damage Taken goes to Mana",
+      "Physical Damage Taken Reduced by [8-15]%",
+      "+[5-30]% to All Resistances",
+      "Socketed (0-4)"
+    ]
+  },
+  {
+    "name": "Gabriel's Unholy Oath",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Shields_Gabriels_Unholy_Oath.png?cbf546",
+    "properties": {
+      "Defense": "2640-3413",
+      "Block": "75"
+    },
+    "stats": [
+      "+[450-550]% Enhanced Defense",
+      "+[1-2] to Summon Skills",
+      "+[2-3] to All Skills",
+      "+1 to [Summon Heretic]",
+      "+1 to Summon Amount",
+      "Summon Damage Increased by [20-40]%",
+      "+[20-40] to Energy",
+      "+25 to Intelligence",
+      "+500 to Life (Based on Level)",
+      "+[30-40]% to All Resistances",
+      "Unbreakable",
+      "Socketed (4-6)"
+    ]
+  },
+  {
+    "name": "St. Hallgar's Bloodforged Aegis",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Shields_St._Hallgars_Bloodforged_Aegis.png?89a913",
+    "properties": {
+      "Defense": "836-1056",
+      "Block": "75"
+    },
+    "stats": [
+      "6% Chance after Blocking [Holy Shield] Level 20",
+      "+[280-340]% Enhanced Defense",
+      "+3 to All Skills",
+      "Cooldown Recovery Increased by [5-10]%",
+      "+50 to Vitality",
+      "+40% Faster Hit Recovery",
+      "Life Increased by [4-8]%",
+      "+[15-20]% of Damage Taken goes to Life",
+      "Physical Damage Taken Reduced by [10-15]%",
+      "Magic Damage Taken Reduced by [10-15]%",
+      "+50% to All Resistances",
+      "Socketed (3-6)"
+    ]
+  },
+  {
+    "name": "St. Tomi's Vibrant Aura",
+    "category": "Armor",
+    "type": "Shield",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Shields_St._Tomis_Vibrant_Aura.png?4e0eb8",
+    "properties": {
+      "Defense": "836-1056",
+      "Block": "50"
+    },
+    "stats": [
+      "+[280-340]% Enhanced Defense",
+      "+5 to All Skills",
+      "+[45-60] to All Attributes",
+      "Damage Taken Reduced by 25",
+      "+750% of Damage Returned to the Attacker",
+      "+75% to All Resistances",
+      "[Angels Vibrance] Level [1-4]",
+      "Socketed (4-6)"
+    ]
+  }
+]

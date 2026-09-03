@@ -1,0 +1,713 @@
+[
+  {
+    "name": "Signet of Bifröst",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 1,
+    "image": "https://herosiege.wiki.gg/images/Rings_Signet_of_Bifr%C3%B6st.png?a1a68c",
+    "properties": {},
+    "stats": [
+      "Cold Skill Damage increased by [25-35]%",
+      "Cannot be Frozen",
+      "Herobound",
+      "Socketed (1)"
+    ]
+  },
+  {
+    "name": "Apex Striker's Ring",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 8,
+    "image": "https://herosiege.wiki.gg/images/Rings_Apex_Strikers_Ring.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "+[20-40] to Attack Rating",
+      "+100 to Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "Swiftsoul Band",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 11,
+    "image": "https://herosiege.wiki.gg/images/Rings_Swiftsoul_Band.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "+[10-15]% Faster Cast Rate",
+      "Magic Skill Damage increased by [3-5]%",
+      "Replenish Life 15%"
+    ]
+  },
+  {
+    "name": "Soul Funneling Loop",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 14,
+    "image": "https://herosiege.wiki.gg/images/Rings_Soul_Funneling_Loop.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "+[2-4]% Life stolen per Hit",
+      "+[2-4]% Mana stolen per Hit",
+      "+5 to All Attributes"
+    ]
+  },
+  {
+    "name": "Colossus Circle of Vitality",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 20,
+    "image": "https://herosiege.wiki.gg/images/Rings_Colossus_Circle_of_Vitality.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "+[10-25] to Vitality",
+      "Physical Damage Taken Reduced by [2-4]%",
+      "Magic Damage Taken Reduced by [2-4]%"
+    ]
+  },
+  {
+    "name": "Viper's Seal of Corrosion",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 22,
+    "image": "https://herosiege.wiki.gg/images/Rings_Vipers_Seal_of_Corrosion.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "Poison Skill Damage increased by [10-15]%",
+      "+25% to Arcane Resistance",
+      "+[25-40]% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Ring of the Cowraven",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 24,
+    "image": "https://herosiege.wiki.gg/images/Rings_Ring_of_the_Cowraven.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "+[10-20]% Enhanced Damage",
+      "+8% Increased Critical Strike Chance",
+      "+[2-3]% Life stolen per Hit",
+      "+[6-15]% Increased Critical Strike Damage"
+    ]
+  },
+  {
+    "name": "Astrope's Signed of Blessing",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 29,
+    "image": "https://herosiege.wiki.gg/images/Rings_Astropes_Signed_of_Blessing.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "+12% Increased Attack Speed",
+      "+[25-60] to Additive Lightning Damage",
+      "Lightning Skill Damage increased by [5-10]%",
+      "+25% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Satanic Eye",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 33,
+    "image": "https://herosiege.wiki.gg/images/Rings_Satanic_Eye.png?d8bd2c",
+    "properties": {},
+    "stats": [
+      "+7 to All Attributes",
+      "Magic Damage Taken Reduced by 7%",
+      "+[10-30]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Circle of Nature",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 34,
+    "image": "https://herosiege.wiki.gg/images/Rings_Circle_of_Nature.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "+[7-77] to Additive Lightning Damage",
+      "+[35-45] to Additive Poison Damage",
+      "+[25-50] to Additive Fire Damage",
+      "+40 to Additive Cold Damage"
+    ]
+  },
+  {
+    "name": "Demon Eye Ring",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 36,
+    "image": "https://herosiege.wiki.gg/images/Rings_Demon_Eye_Ring.png?2136d4",
+    "properties": {},
+    "stats": [
+      "6% Chance when Striking [Revved Up] Level 6",
+      "+[80-120] to Additive Physical Damage",
+      "+20 to Strength"
+    ]
+  },
+  {
+    "name": "Ra's Band",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Rings_Ras_Band.png?f7245d",
+    "properties": {},
+    "stats": [
+      "+15 to Vitality",
+      "+[35-50]% to Fire Resistance",
+      "+[10-20]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Merlock's Halo",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 38,
+    "image": "https://herosiege.wiki.gg/images/Rings_Merlocks_Halo.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "+[15-20] to Intelligence",
+      "+[45-60] to Life",
+      "+75 to Mana"
+    ]
+  },
+  {
+    "name": "Ring of Tallus",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 44,
+    "image": "https://herosiege.wiki.gg/images/Rings_Ring_of_Tallus.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "Replenish Mana [5-15]%",
+      "Life Increased by [3-5]%"
+    ]
+  },
+  {
+    "name": "Mark of Ferocity",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Rings_Mark_of_Ferocity.png?31d9d1",
+    "properties": {},
+    "stats": [
+      "Poison Skill Damage increased by [13-20]%",
+      "+[35-65] to Mana",
+      "+[35-65]% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "The Absence of Constraint",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Rings_The_Absence_of_Constraint.png?1d1a52",
+    "properties": {},
+    "stats": [
+      "+[10-25]% Faster Cast Rate",
+      "Arcane Skill Damage increased by [10-18]%",
+      "+[10-15]% of Damage Taken goes to Mana"
+    ]
+  },
+  {
+    "name": "Onyx Slayer's Band",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Rings_Onyx_Slayers_Band.png?bc3ece",
+    "properties": {},
+    "stats": [
+      "+[10-15]% Chance for a Deadly Blow",
+      "+[25-40]% Faster Hit Recovery",
+      "+[45-70]% of Damage Returned to the Attacker"
+    ]
+  },
+  {
+    "name": "Sanguine Bloodstone",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Rings_Sanguine_Bloodstone.png?166b80",
+    "properties": {},
+    "stats": [
+      "+[4-8]% Life stolen per Hit",
+      "Replenish Life [15-25]%",
+      "+[135-165] to Life"
+    ]
+  },
+  {
+    "name": "Templar's Faith",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Rings_Templars_Faith.png?bfbeb0",
+    "properties": {},
+    "stats": [
+      "8% Chance when Struck [Odin's Fury] Level 20",
+      "+[20-30]% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by 5%"
+    ]
+  },
+  {
+    "name": "Archer's Story",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Rings_Archers_Story.png?ad9d5e",
+    "properties": {},
+    "stats": [
+      "+[85-110] to Attack Rating",
+      "+[15-25] to Dexterity",
+      "+[10-20]% Faster Hit Recovery"
+    ]
+  },
+  {
+    "name": "Khodo's Wedding Band",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Rings_Khodos_Wedding_Band.png?568dfc",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "+[15-30]% Increased Movement Speed",
+      "+[6-12]% Life stolen per Hit",
+      "+215 to Life (Based on Level)"
+    ]
+  },
+  {
+    "name": "Dragonsteel Ring",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Rings_Dragonsteel_Ring.png?7f6db8",
+    "properties": {},
+    "stats": [
+      "+[35-45] to Armor",
+      "+15 to All Attributes",
+      "Physical Damage Taken Reduced by [5-10]%",
+      "Magic Damage Taken Reduced by [5-10]%",
+      "Cannot be Frozen"
+    ]
+  },
+  {
+    "name": "Tectonic Frequency",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Rings_Tectonic_Frequency.png?6df973",
+    "properties": {},
+    "stats": [
+      "Lightning Skill Damage increased by [18-30]%",
+      "-[10-20]% to Enemy Lightning Resistance",
+      "+[10-20]% Lightning Damage Absorbed",
+      "+[45-70]% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Molten Ring",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Rings_Molten_Ring.png?a0248c",
+    "properties": {},
+    "stats": [
+      "+[240-275] to Additive Fire Damage",
+      "+[30-45] to Life",
+      "Life Increased by [3-5]%",
+      "+[15-25]% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Elven Grace",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Rings_Elven_Grace.png?955c3e",
+    "properties": {},
+    "stats": [
+      "+[0-1] to All Skills",
+      "+10% Increased Critical Strike Chance",
+      "+[8-15]% Increased Attack Rating",
+      "+[15-20]% Increased Critical Strike Damage"
+    ]
+  },
+  {
+    "name": "Iron Ring of Prometheus",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Rings_Iron_Ring_of_Prometheus.png?773250",
+    "properties": {},
+    "stats": [
+      "+20% Faster Cast Rate",
+      "Ailment Damage increased by [8-15]%",
+      "+[25-35] to Energy",
+      "Magic Skill Damage increased by [12-20]%",
+      "+[1-35]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Lunar Prophet's Band",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Rings_Lunar_Prophets_Band.png?24207d",
+    "properties": {},
+    "stats": [
+      "+1 to Cold Skills",
+      "Cold Skill Damage increased by [5-10]%",
+      "Mana Increased by [2-4]%",
+      "+[15-25]% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Solar Prophet's Signet",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Rings_Solar_Prophets_Signet.png?1b96f8",
+    "properties": {},
+    "stats": [
+      "+1 to Fire Skills",
+      "Fire Skill Damage increased by [5-10]%",
+      "Mana Increased by [2-4]%",
+      "+[15-25]% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Azazel's Despair",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 1,
+    "image": "https://herosiege.wiki.gg/images/Rings_Azazels_Despair.png?afd42c",
+    "properties": {},
+    "stats": [
+      "+[1-3] to All Skills",
+      "Socketed (1)"
+    ]
+  },
+  {
+    "name": "Soulforged Ring",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 1,
+    "image": "https://herosiege.wiki.gg/images/Rings_Soulforged_Ring.png?73c059",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "+8% Faster Cast Rate",
+      "+8% Increased Attack Speed",
+      "+15 to All Attributes",
+      "Life Increased by 8%",
+      "Mana Increased by 8%",
+      "+8% to All Resistances",
+      "+4% Increased Experience Gain",
+      "Herobound"
+    ]
+  },
+  {
+    "name": "Emblem of the Daemon",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Rings_Emblem_of_the_Daemon.png?5e1866",
+    "properties": {},
+    "stats": [
+      "4% Chance when Striking [Armageddon] Level 86",
+      "1% Chance when Attacking [Demon Form] Level 15",
+      "+2 to All Skills",
+      "+[3-8]% Increased Critical Strike Chance",
+      "+[4-8]% Mana stolen per Hit",
+      "Extra Damage to Burning Monsters [10-30]%"
+    ]
+  },
+  {
+    "name": "Giant's Band of Strength",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Rings_Giants_Band_of_Strength.png?e46e35",
+    "properties": {},
+    "stats": [
+      "+[1-3] to All Skills",
+      "+[4-12]% Increased Critical Strike Chance",
+      "+[35-50] to Strength",
+      "+5 to Attack Rating (Based on Level)"
+    ]
+  },
+  {
+    "name": "Stone of Premonition",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Rings_Stone_of_Premonition.png?439787",
+    "properties": {},
+    "stats": [
+      "+[1-2] to All Skills",
+      "Replenish Mana 15%",
+      "+[550-575] to Mana",
+      "Mana Increased by 25%"
+    ]
+  },
+  {
+    "name": "Sung Lee's Unleashed Rage",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Rings_Sung_Lees_Unleashed_Rage.png?2f72ca",
+    "properties": {},
+    "stats": [
+      "+[1-2] to Physical Skills",
+      "+[40-60]% Increased Attack Speed",
+      "+[5-10]% Chance for a Crushing Blow",
+      "+[515-650] to Additive Physical Damage",
+      "+[20-25] to Strength"
+    ]
+  },
+  {
+    "name": "Mana Bender's Will",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Rings_Mana_Benders_Will.png?365e3b",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Mana Bender]",
+      "+[8-15] Mana per second",
+      "+[20-50] to Energy",
+      "Replenish Mana [45-75]%",
+      "Life Increased by [5-10]%"
+    ]
+  },
+  {
+    "name": "Quickening Zephyr",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Rings_Quickening_Zephyr.png?4161ec",
+    "properties": {},
+    "stats": [
+      "+[1-3] to All Skills",
+      "+30% Increased Movement Speed",
+      "+[40-50]% Increased Attack Speed",
+      "+[25-35] to Dexterity"
+    ]
+  },
+  {
+    "name": "Destroyers End",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Rings_Destroyers_End.png?c107d9",
+    "properties": {},
+    "stats": [
+      "+[50-125]% Enhanced Damage",
+      "+2 to All Skills",
+      "+[10-15]% Increased Critical Strike Chance",
+      "+35 to Strength"
+    ]
+  },
+  {
+    "name": "Rakhul's Ritual Band",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Rings_Rakhuls_Ritual_Band.png?f8b479",
+    "properties": {},
+    "stats": [
+      "Mirrors your other ring"
+    ]
+  },
+  {
+    "name": "Signet of Corruption",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Rings_Signet_of_Corruption.png?ca29a4",
+    "properties": {},
+    "stats": [
+      "+[3-5] to Poison Skills",
+      "Poison Skill Damage increased by [25-40]%",
+      "-[15-25]% to Enemy Poison Resistance",
+      "+[5-10]% Poison Damage Absorbed"
+    ]
+  },
+  {
+    "name": "Arcanis",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Rings_Arcanis.png?9b893b",
+    "properties": {},
+    "stats": [
+      "+[3-5] to Arcane Skills",
+      "Arcane Skill Damage increased by [25-40]%",
+      "-[15-25]% to Enemy Arcane Resistance",
+      "+[5-10]% Arcane Damage Absorbed"
+    ]
+  },
+  {
+    "name": "Hellfire Halo",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Rings_Hellfire_Halo.png?835040",
+    "properties": {},
+    "stats": [
+      "+[3-5] to Fire Skills",
+      "Fire Skill Damage increased by [25-40]%",
+      "-[15-25]% to Enemy Fire Resistance",
+      "+[5-10]% Fire Damage Absorbed"
+    ]
+  },
+  {
+    "name": "Signet of Harbringer",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Rings_Signet_of_Harbringer.png?6447a1",
+    "properties": {},
+    "stats": [
+      "+[3-5] to Cold Skills",
+      "Cold Skill Damage increased by [25-40]%",
+      "-[15-25]% to Enemy Cold Resistance",
+      "+[5-10]% Cold Damage Absorbed"
+    ]
+  },
+  {
+    "name": "Stormloop",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Rings_Stormloop.png?bd8e27",
+    "properties": {},
+    "stats": [
+      "+[3-5] to Lightning Skills",
+      "Lightning Skill Damage increased by [25-40]%",
+      "-[15-25]% to Enemy Lightning Resistance",
+      "+[5-10]% Lightning Damage Absorbed"
+    ]
+  },
+  {
+    "name": "St. Aaron's Eternal Rage",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Rings_St._Aarons_Eternal_Rage.png?23a047",
+    "properties": {},
+    "stats": [
+      "+3 to All Skills",
+      "-[15-20]% to All Enemy Resistances",
+      "Magic Skill Damage increased by [40-50]%",
+      "Replenish Mana 30%",
+      "+[30-50]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Fury of Tarethiel",
+    "category": "Jewellery",
+    "type": "Rings",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Rings_Fury_of_Tarethiel.png?c4524e",
+    "properties": {},
+    "stats": [
+      "+[25-50]% Enhanced Damage",
+      "+[2-3] to All Skills",
+      "+[3-5] to Physical Skills",
+      "+[15-25]% Chance for a Crushing Blow",
+      "+[750-1000] to Attack Rating"
+    ]
+  }
+]

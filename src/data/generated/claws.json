@@ -1,0 +1,195 @@
+[
+  {
+    "name": "Elemental Claws",
+    "category": "Weapons",
+    "type": "Claws",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 8,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Claw_Elemental_Claws.png?3a770d",
+    "properties": {
+      "Damage": "15-36",
+      "APS": "1.85",
+      "DPS": "28-67"
+    },
+    "stats": [
+      "+[110-200]% Enhanced Damage",
+      "+[6-12] to Additive Arcane Damage",
+      "+[6-12] to Additive Lightning Damage",
+      "+[6-12] to Additive Fire Damage",
+      "+[6-12] to Additive Cold Damage",
+      "Magic Skill Damage increased by [8-15]%",
+      "+3 Life After each Kill",
+      "+3 Mana After each Kill",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Talons of Wisdom",
+    "category": "Weapons",
+    "type": "Claws",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 24,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Claw_Talons_of_Wisdom.png?ac73fd",
+    "properties": {
+      "Damage": "39-56",
+      "APS": "1.25",
+      "DPS": "48-70"
+    },
+    "stats": [
+      "+[140-180]% Enhanced Damage",
+      "+35% Faster Cast Rate",
+      "+[8-15] to Energy",
+      "+[5-10] to All Attributes",
+      "Replenish Mana [15-25]%",
+      "+[125-130] to Mana"
+    ]
+  },
+  {
+    "name": "Spirit Walker's Guide",
+    "category": "Weapons",
+    "type": "Claws",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Claw_Spirit_Walkers_Guide.png?7fd87c",
+    "properties": {
+      "Damage": "68-90",
+      "APS": "1.25",
+      "DPS": "84-113"
+    },
+    "stats": [
+      "+[180-220]% Enhanced Damage",
+      "+1 to All Skills",
+      "+20% Faster Cast Rate",
+      "Arcane Skill Damage increased by [12-25]%",
+      "Replenish Mana 10%",
+      "+35 to Mana"
+    ]
+  },
+  {
+    "name": "Hemorrhage",
+    "category": "Weapons",
+    "type": "Claws",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Claw_Hemorrhage.png?abb55f",
+    "properties": {
+      "Damage": "126-166",
+      "APS": "2.4",
+      "DPS": "301-398"
+    },
+    "stats": [
+      "15% Chance when Striking [Rupture] Level 33",
+      "+[280-360]% Enhanced Damage",
+      "+50% Increased Attack Speed",
+      "+35% Chance for a Crushing Blow",
+      "+15 to Strength",
+      "+15 to Dexterity",
+      "+14 Life After each Kill",
+      "+125% of Damage Returned to the Attacker",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Yoshi's Throat-Cutters",
+    "category": "Weapons",
+    "type": "Claws",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 72,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Claw_Yoshis_Throat-Cutters.png?5beb6d",
+    "properties": {
+      "Damage": "344-418",
+      "APS": "1.65",
+      "DPS": "567-690"
+    },
+    "stats": [
+      "+[420-480]% Enhanced Damage",
+      "+[2-3] to All Skills",
+      "+[3-5] to Physical Skills",
+      "+[15-20] to [Omnislash]",
+      "+35% Increased Attack Rating",
+      "+6% Life stolen per Hit",
+      "+45 to Strength",
+      "+45 to Dexterity",
+      "+75% Faster Hit Recovery",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Molten Paw",
+    "category": "Weapons",
+    "type": "Claws",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 86,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Claw_Molten_Paw.png?164341",
+    "properties": {
+      "Damage": "231-281",
+      "APS": "1.5",
+      "DPS": "346-422"
+    },
+    "stats": [
+      "+[380-420]% Enhanced Damage",
+      "+[15-30] to [Fire Enchant]",
+      "+35% Increased Movement Speed",
+      "+600 to Attack Rating",
+      "+8% Mana stolen per Hit",
+      "+30 to Energy",
+      "+5000 to Additive Fire Damage",
+      "Fire Skill Damage increased by [20-25]%",
+      "+8 Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Earth Shaper's Talons",
+    "category": "Weapons",
+    "type": "Claws",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 49,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Claw_Earth_Shapers_Talons.png?7b18f3",
+    "properties": {
+      "Damage": "48-54",
+      "APS": "1.25",
+      "DPS": "60-68"
+    },
+    "stats": [
+      "12% Chance when Casting [Earth Bind] Level 27",
+      "+[2-4] to Arcane Skills",
+      "Arcane Skill Damage increased by [25-40]%",
+      "Replenish Mana 25%",
+      "+560 to Mana",
+      "+25% to All Resistances"
+    ]
+  },
+  {
+    "name": "Storm Fury",
+    "category": "Weapons",
+    "type": "Claws",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Claw_Storm_Fury.png?33ecfa",
+    "properties": {
+      "Damage": "490-656",
+      "APS": "2.44-2.62",
+      "DPS": "1196-1719"
+    },
+    "stats": [
+      "+[775-925]% Enhanced Damage",
+      "+2 to All Skills",
+      "+[4-5] to Lightning Skills",
+      "+[40-50]% Increased Attack Speed",
+      "+50 to Energy",
+      "+12500 to Lightning Skill Damage",
+      "Lightning Skill Damage increased by [45-52]%",
+      "Mana Increased by 10%",
+      "+[20-25] to [Storm Totem]",
+      "Socketed (3)"
+    ]
+  }
+]

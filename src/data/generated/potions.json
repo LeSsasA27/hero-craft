@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Sarcasters Coffee Mug",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 1,
+    "image": "https://herosiege.wiki.gg/images/Potions_Sarcasters_Coffee_Mug.png?f4a40e",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Caffeinated]",
+      "Kahtellaa syssymmällä.."
+    ]
+  },
+  {
+    "name": "Empty Bottle of Vodka",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Empty_Bottle_of_Vodka.png?fc9d96",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Drunken Infused Wisdom]",
+      "Gain additional All Skills for its duration."
+    ]
+  },
+  {
+    "name": "Power of Void",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Power_of_Void.png?3bf07f",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Chaos Unleashed]",
+      "Unleash Comets when casting any spell."
+    ]
+  },
+  {
+    "name": "Praetorian Blood",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Praetorian_Blood.png?b802a3",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Vampirism]",
+      "Gain increased Life Steal."
+    ]
+  },
+  {
+    "name": "Witches Potion",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Witches_Potion.png?586947",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Conjured Replenishment]",
+      "Gain full Life & Mana and Increased Life & Mana Replenish."
+    ]
+  },
+  {
+    "name": "Radbull",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Radbull.png?646931",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Hyper Activity]",
+      "Gain Increased Attack Speed and Movement Speed."
+    ]
+  },
+  {
+    "name": "Maggot Eye Elixir",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Maggot_Eye_Elixir.png?3f849a",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Absolute Power]",
+      "Increases your Attack Speed and Attack Rating."
+    ]
+  },
+  {
+    "name": "Bottle of Sake",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Bottle_of_Sake.png?99e52c",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Drunken Kung Fu]",
+      "Increases your Attack Damage and Critical Strike Damage."
+    ]
+  },
+  {
+    "name": "Protein Shake",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Protein_Shake.png?1a9d1f",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Flexing]",
+      "Buffs your Strength and Vitality."
+    ]
+  },
+  {
+    "name": "Blood of Spartan",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Blood_of_Spartan.png?b822fa",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Spartan Defense]",
+      "Enhances your Defense and Damage Return."
+    ]
+  },
+  {
+    "name": "Caffeinated Coffee Container",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Caffeinated_Coffee_Container.png?7665dc",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [The Fragrance of Dark Coffee]",
+      "Deal Increased Damage to Burning targets."
+    ]
+  },
+  {
+    "name": "Elixir of Unworldly Cognition",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Elixir_of_Unworldly_Cognition.png?ceca97",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Untamed Knowledge]",
+      "Increases your Experience gained."
+    ]
+  },
+  {
+    "name": "Wizard Potion",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Wizard_Potion.png?b2cebd",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Rapidcaster]",
+      "Enhances your Cast Rate."
+    ]
+  },
+  {
+    "name": "Prismatic Potion",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Prismatic_Potion.png?17ff42",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Prismatic Skin]",
+      "Increases All Resistances."
+    ]
+  },
+  {
+    "name": "Surströmming",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Surstr%C3%B6mming.png?66a573",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Taste of Heaven]",
+      "Gain Increased Life Replenish and Mana Replenish."
+    ]
+  },
+  {
+    "name": "Elixir of Death",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Elixir_of_Death.png?86a47d",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Berserkers Rage]",
+      "Enhances all Damage dealt."
+    ]
+  },
+  {
+    "name": "Bottle of Radogate",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Bottle_of_Radogate.png?456972",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Fleet Footwork]",
+      "Gain Increased Movement Speed and Phasing."
+    ]
+  },
+  {
+    "name": "Ghostly Potion",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Potions_Ghostly_Potion.png?5338aa",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Parallel Dimension]",
+      "Enhances Magic Skill Damage."
+    ]
+  },
+  {
+    "name": "Dark Vial of Corrosion",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Potions_Dark_Vial_of_Corrosion.png?ac4940",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Corrosion of Darkness]",
+      "Consists of an ancient mystic plague infused in darkness..."
+    ]
+  },
+  {
+    "name": "Gold Inlaid Mysterious Potion",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Potions_Gold_Inlaid_Mysterious_Potion.png?e57133",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Endless Wealth]",
+      "Gain Increased Magic Find and Gold from monster kills."
+    ]
+  },
+  {
+    "name": "Sung Lee's Flask of Carnage",
+    "category": "Special Items",
+    "type": "Potions",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Potions_Sung_Lees_Flask_of_Carnage.png?54d80f",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Momentary Insanity]",
+      "All Attacks now cause enemies to bleed."
+    ]
+  }
+]

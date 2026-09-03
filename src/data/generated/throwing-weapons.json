@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Crystal Infused Javelin",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Satanics",
+    "tier": "D",
+    "level": 11,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Crystal_Infused_Javelin.png?16912e",
+    "properties": {
+      "Damage": "25-54",
+      "APS": "1.66-1.88",
+      "DPS": "42-101"
+    },
+    "stats": [
+      "+[210-345]% Enhanced Damage",
+      "+1 to All Skills",
+      "+[15-30]% Increased Attack Speed",
+      "+[60-80] to Attack Rating",
+      "+6% Life stolen per Hit",
+      "+5 to All Attributes",
+      "+15% to All Resistances"
+    ]
+  },
+  {
+    "name": "Imperial Glaive",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Satanics",
+    "tier": "C",
+    "level": 26,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Imperial_Glaive.png?34abb8",
+    "properties": {
+      "Damage": "47-90",
+      "APS": "2.14-2.47",
+      "DPS": "100-223"
+    },
+    "stats": [
+      "+[210-350]% Enhanced Damage",
+      "+1 to All Skills",
+      "+[30-50]% Increased Attack Speed",
+      "+175 to Attack Rating",
+      "+[30-40]% of target Defense ignored",
+      "+[160-180] to Additive Fire Damage",
+      "+[20-30]% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Wargod's Wrath",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Satanics",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Wargods_Wrath.png?63732a",
+    "properties": {
+      "Damage": "154-195",
+      "APS": "1.5",
+      "DPS": "231-292"
+    },
+    "stats": [
+      "+[280-340]% Enhanced Damage",
+      "+[7-15]% Increased Attack Rating",
+      "+430 to Attack Rating",
+      "+[30-40] to Strength",
+      "+125 to Life (Based on Level)",
+      "+100% Enhanced Damage (Based on Level)",
+      "+300 to Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "Mimir's Corrupted Axe",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Satanics",
+    "tier": "A",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Mimirs_Corrupted_Axe.png?e23519",
+    "properties": {
+      "Damage": "260-385",
+      "APS": "1.25",
+      "DPS": "324-481"
+    },
+    "stats": [
+      "20% Chance when Striking [Berserk] Level 12",
+      "+[380-520]% Enhanced Damage",
+      "+30% Chance for a Crushing Blow",
+      "+[275-300] to Attack Rating",
+      "+[840-980] to Additive Physical Damage",
+      "+10% Life stolen per Hit",
+      "+[340-400] to Additive Arcane Damage"
+    ]
+  },
+  {
+    "name": "Wakayka's Tomahawk",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Satanics",
+    "tier": "A",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Wakaykas_Tomahawk.png?d9b42e",
+    "properties": {
+      "Damage": "167-245",
+      "APS": "2.02-2.43",
+      "DPS": "337-595"
+    },
+    "stats": [
+      "+[420-580]% Enhanced Damage",
+      "+[50-80]% Increased Attack Speed",
+      "+50% Chance for a Deadly Blow",
+      "+75% of target Defense ignored",
+      "+25% Chance to Open Wounds",
+      "Attack Damage increased by [50-75]%",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Deep Sea Glaive",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Satanics",
+    "tier": "S",
+    "level": 76,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Deep_Sea_Glaive.png?430c48",
+    "properties": {
+      "Damage": "252-368",
+      "APS": "2.34-2.52",
+      "DPS": "590-926"
+    },
+    "stats": [
+      "5% Chance when Striking [Anchor Swing] Level 40",
+      "+[425-580]% Enhanced Damage",
+      "+[30-40]% Increased Attack Speed",
+      "+[260-360] to Attack Rating",
+      "+25 to All Attributes",
+      "+[575-600] to Additive Cold Damage",
+      "+40% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Valkyrie's Thunder Javelin",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Satanic Sets",
+    "tier": "S",
+    "level": 86,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Valkyries_Thunder_Javelin.png?7c47e9",
+    "properties": {
+      "Damage": "279-341",
+      "APS": "2.14-2.47",
+      "DPS": "596-841"
+    },
+    "stats": [
+      "+[480-530]% Enhanced Damage",
+      "+[2-4] to All Skills",
+      "+[3-6] to [Storm Dash]",
+      "+[3-6] to [Thunder Goddesses Chosen]",
+      "Attack Range Increased by [10-20]%",
+      "+[30-50]% Increased Attack Speed",
+      "+[1255-1400] to Additive Lightning Damage",
+      "Lightning Skill Damage increased by [20-35]%",
+      "-[10-20]% to Enemy Lightning Resistance",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Serpent's Tooth",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Heroics",
+    "tier": "SS",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Serpents_Tooth.png?b8b8eb",
+    "properties": {
+      "Damage": "323-476",
+      "APS": "1.86-2.48",
+      "DPS": "600-1179"
+    },
+    "stats": [
+      "+[420-560]% Enhanced Damage",
+      "+[2-4] to Poison Skills",
+      "+20% Increased Movement Speed",
+      "+[20-45]% Faster Cast Rate",
+      "+[20-60]% Increased Attack Speed",
+      "+[375-400] to Attack Rating",
+      "Extra Damage to Burning Monsters [10-30]%",
+      "+[1180-1625] to Additive Poison Damage",
+      "Poison Skill Damage increased by [18-45]%",
+      "-10% to Enemy Poison Resistance",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Sidewinder",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Heroics",
+    "tier": "SS",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Sidewinder.png?eac89d",
+    "properties": {
+      "Damage": "468-759",
+      "APS": "2.4-2.96",
+      "DPS": "1124-2246"
+    },
+    "stats": [
+      "15% Chance when Striking [Asteroid] Level 64",
+      "20% Chance when Attacking [Rebound] Level 59",
+      "+[550-825]% Enhanced Damage",
+      "+3 to All Skills",
+      "+[2-5] to Physical Skills",
+      "+[30-60]% Increased Attack Speed",
+      "Skill Movement Diminish Decreased by 25%",
+      "+45% Chance for a Deadly Blow",
+      "+[10-20]% Chance for a Crushing Blow",
+      "+30% Increased Attack Rating",
+      "+10% Life stolen per Hit",
+      "Attack Damage increased by [15-40]%",
+      "Magic Skill Damage increased by [20-30]%",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Scarred Battle Darts",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Heroics",
+    "tier": "SS",
+    "level": 93,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Scarred_Battle_Darts.png?b67423",
+    "properties": {
+      "Damage": "428-522",
+      "APS": "2.4-2.59",
+      "DPS": "1027-1352"
+    },
+    "stats": [
+      "8% Chance when Attacking [Caustic Spearhead] Level 53",
+      "+[590-625]% Enhanced Damage",
+      "+2 to All Skills",
+      "+[2-5] to Physical Skills",
+      "+[30-40]% Increased Attack Speed",
+      "+[15-25]% Increased Critical Strike Chance",
+      "+[10-20]% Chance for a Crushing Blow",
+      "+8% Increased Attack Rating",
+      "+[5-8]% Life stolen per Hit",
+      "+[30-60]% Increased Critical Strike Damage",
+      "+[20-30]% of target Defense ignored",
+      "Socketed (1)"
+    ]
+  },
+  {
+    "name": "Sowyer's Javelin of Devastation",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Heroics",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Sowyers_Javelin_of_Devastation.png?f488a9",
+    "properties": {
+      "Damage": "578-800",
+      "APS": "2.09-2.38",
+      "DPS": "1207-1903"
+    },
+    "stats": [
+      "+[725-875]% Enhanced Damage",
+      "+[2-3] to All Skills",
+      "+[3-5] to Lightning Skills",
+      "+[20-30]% Increased Movement Speed",
+      "+[50-70]% Increased Attack Speed",
+      "Extra Damage to Monsters Inflicted with Stasis [20-30]%",
+      "+35 to All Attributes",
+      "Lightning Skill Damage increased by [30-60]%",
+      "-[15-25]% to Enemy Lightning Resistance",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Ukko's Revenge",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Heroics",
+    "tier": "SS",
+    "level": 99,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_Ukkos_Revenge.png?d21b23",
+    "properties": {
+      "Damage": "447-594",
+      "APS": "2.31",
+      "DPS": "1032-1373"
+    },
+    "stats": [
+      "15% Chance when Striking [Lightning Fury] Level 64",
+      "+[620-725]% Enhanced Damage",
+      "+[2-5] to Lightning Skills",
+      "+30% Increased Movement Speed",
+      "+25% Increased Attack Speed",
+      "+[5-10]% Life stolen per Hit",
+      "+[30-40] to Strength",
+      "+[1250-1500] to Additive Lightning Damage",
+      "+[45-60]% to Lightning Resistance",
+      "+5% to Maximum Lightning Resist",
+      "Piercing Attack",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "St. Neri's Rainbow Lance",
+    "category": "Weapons",
+    "type": "Throwing Weapons",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Throwing_Weapon_St._Neris_Rainbow_Lance.png?5bf346",
+    "properties": {
+      "Damage": "702-779",
+      "APS": "1.75",
+      "DPS": "1229-1364"
+    },
+    "stats": [
+      "15% Chance when Striking [Thunder Fury] Level 118",
+      "+[800-850]% Enhanced Damage",
+      "+3 to All Skills",
+      "Attack Range Increased by [15-30]%",
+      "+30% Increased Attack Rating",
+      "+[6-15]% Mana stolen per Hit",
+      "+2 to Projectile Speed",
+      "Magic Skill Damage increased by [50-60]%",
+      "+1 to Strength (Based on Level)",
+      "+1.25 to Dexterity (Based on Level)"
+    ]
+  }
+]

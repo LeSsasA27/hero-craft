@@ -1,0 +1,1156 @@
+[
+  {
+    "name": "Lifeward Gauntlets",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 11,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Lifeward_Gauntlets.png?b2f67e",
+    "properties": {
+      "Defense": "4-7"
+    },
+    "stats": [
+      "+[30-40]% Enhanced Defense",
+      "+[2-10] to All Attributes",
+      "+15% to All Resistances"
+    ]
+  },
+  {
+    "name": "Venomburned Gauntlets",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 14,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Venomburned_Gauntlets.png?a362b2",
+    "properties": {
+      "Defense": "4-7"
+    },
+    "stats": [
+      "+[25-30]% Enhanced Defense",
+      "Poison Skill Damage increased by [5-15]%",
+      "Fire Skill Damage increased by [5-15]%",
+      "+8% Fire Damage Absorbed",
+      "+8% Poison Damage Absorbed",
+      "+15% to All Resistances",
+      "Poison Length Reduced by 50%"
+    ]
+  },
+  {
+    "name": "Rapidcaster Mitts",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 15,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Rapidcaster_Mitts.png?1224ee",
+    "properties": {
+      "Defense": "4-7"
+    },
+    "stats": [
+      "+[10-25]% Enhanced Defense",
+      "+[8-20]% Faster Cast Rate",
+      "+[8-20]% Increased Attack Speed",
+      "Magic Skill Damage increased by [5-10]%"
+    ]
+  },
+  {
+    "name": "Sorcerer's Surge Grips",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 22,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Sorcerers_Surge_Grips.png?b4f454",
+    "properties": {
+      "Defense": "7-11"
+    },
+    "stats": [
+      "+[25-35]% Enhanced Defense",
+      "+1 to All Skills",
+      "Cooldown Recovery Increased by 15%",
+      "+[2-12] to Intelligence",
+      "Replenish Mana [20-30]%"
+    ]
+  },
+  {
+    "name": "Shinobi's Deadwraps",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 26,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Shinobis_Deadwraps.png?ba25df",
+    "properties": {
+      "Defense": "6-10"
+    },
+    "stats": [
+      "+[15-20]% Enhanced Defense",
+      "+[3-7]% Increased Critical Strike Chance",
+      "+20% Chance for a Deadly Blow",
+      "+[40-60] to Attack Rating"
+    ]
+  },
+  {
+    "name": "Throat Cutters",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 26,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Throat_Cutters.png?e2a030",
+    "properties": {
+      "Defense": "7-12"
+    },
+    "stats": [
+      "+[30-40]% Enhanced Defense",
+      "+[10-20]% Increased Attack Speed",
+      "+[5-10]% Chance for a Crushing Blow",
+      "Attack Damage increased by [10-25]%"
+    ]
+  },
+  {
+    "name": "Imbued Mage Gloves",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 26,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Imbued_Mage_Gloves.png?ea27a3",
+    "properties": {
+      "Defense": "7-12"
+    },
+    "stats": [
+      "+[30-40]% Enhanced Defense",
+      "+[12-25]% Faster Cast Rate",
+      "+[7-15] to Energy",
+      "Replenish Mana [15-35]%",
+      "+[25-35]% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Vigorous Lifegrips",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 30,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Vigorous_Lifegrips.png?b98f2c",
+    "properties": {
+      "Defense": "6-10"
+    },
+    "stats": [
+      "+[15-20]% Enhanced Defense",
+      "+[15-25]% Increased Movement Speed",
+      "+[75-125] to Life",
+      "+[75-125] to Mana"
+    ]
+  },
+  {
+    "name": "Titan's Staticguards",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 34,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Titans_Staticguards.png?216f73",
+    "properties": {
+      "Defense": "12-24"
+    },
+    "stats": [
+      "+[40-50]% Enhanced Defense",
+      "+15% Increased Attack Speed",
+      "+[750-1850] to Additive Lightning Damage",
+      "Lightning Skill Damage increased by [5-30]%",
+      "+5% Lightning Damage Absorbed",
+      "+[40-50]% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Shadow's Grasp",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Shadows_Grasp.png?c4ebc3",
+    "properties": {
+      "Defense": "11-24"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "Cooldown Recovery Increased by 20%",
+      "Arcane Skill Damage increased by [8-20]%",
+      "+30 to Energy (Based on Level)",
+      "+[30-50]% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Warmaster's Tribal Paws",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Warmasters_Tribal_Paws.png?7bad02",
+    "properties": {
+      "Defense": "12-25"
+    },
+    "stats": [
+      "+[40-55]% Enhanced Defense",
+      "+8% Increased Critical Strike Chance",
+      "+[3-5]% Life stolen per Hit",
+      "+[15-25]% Increased Critical Strike Damage",
+      "+[8-14] Life After each Kill"
+    ]
+  },
+  {
+    "name": "Thorned Wristguards",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Thorned_Wristguards.png?42b75d",
+    "properties": {
+      "Defense": "12-24"
+    },
+    "stats": [
+      "+[40-50]% Enhanced Defense",
+      "+[10-20] to Vitality",
+      "Replenish Life 40%",
+      "+[30-50]% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by 5%"
+    ]
+  },
+  {
+    "name": "Conjurer Mitts",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Conjurer_Mitts.png?8b95bd",
+    "properties": {
+      "Defense": "11-24"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[15-85] to Life",
+      "+[15-85] to Mana",
+      "+[5-15]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Demonweaver's Heralds",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 44,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Demonweavers_Heralds.png?5b80fe",
+    "properties": {
+      "Defense": "10-21"
+    },
+    "stats": [
+      "+[20-30]% Enhanced Defense",
+      "+[3-5] to [Bone Storm]",
+      "+3 to [Single Out]",
+      "Cooldown Recovery Increased by 15%",
+      "+10 to Intelligence"
+    ]
+  },
+  {
+    "name": "Siege Breakers",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Siege_Breakers.png?4d4ed6",
+    "properties": {
+      "Defense": "36-54"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+[15-25]% of target Defense ignored",
+      "+30% Defense vs Missiles",
+      "+50% Enhanced Damage (Based on Level)",
+      "+[20-25]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Plated Crimson Defenders",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Plated_Crimson_Defenders.png?ac167f",
+    "properties": {
+      "Defense": "27-42"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+5 to Vitality",
+      "Replenish Life [5-8]%",
+      "+[5-8] Life After each Kill",
+      "+[25-35]% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by [10-20]%"
+    ]
+  },
+  {
+    "name": "Scuttle Crab Gauntlets",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Scuttle_Crab_Gauntlets.png?8b019f",
+    "properties": {
+      "Defense": "26-40"
+    },
+    "stats": [
+      "+[40-65]% Enhanced Defense",
+      "+[20-30] to Vitality",
+      "+40% Defense vs Missiles",
+      "Physical Damage Taken Reduced by [7-15]%",
+      "Magic Damage Taken Reduced by [7-15]%",
+      "Half Freeze Duration"
+    ]
+  },
+  {
+    "name": "Razor Knuckles",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Razor_Knuckles.png?ae1f22",
+    "properties": {
+      "Defense": "50-84"
+    },
+    "stats": [
+      "+[90-120]% Enhanced Defense",
+      "+[20-30]% Increased Attack Speed",
+      "+[7-10]% Life stolen per Hit",
+      "+20% Chance to Open Wounds",
+      "+[40-75] to Strength",
+      "+[15-30] Life After each Kill"
+    ]
+  },
+  {
+    "name": "Wisdom's Hold",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Wisdoms_Hold.png?4b9f4c",
+    "properties": {
+      "Defense": "29-46"
+    },
+    "stats": [
+      "+[10-20]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[15-25]% Faster Cast Rate",
+      "+10 to Intelligence",
+      "Replenish Mana 10%",
+      "+[35-50] to Mana"
+    ]
+  },
+  {
+    "name": "Battle Caster's Gauntlets",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Battle_Casters_Gauntlets.png?541536",
+    "properties": {
+      "Defense": "34-61"
+    },
+    "stats": [
+      "+[30-60]% Enhanced Defense",
+      "+[20-30]% Faster Cast Rate",
+      "Magic Skill Damage increased by [15-25]%",
+      "Explosion area of effect increased by [10-20]%",
+      "+[30-45]% Defense vs Missiles",
+      "+20 to Energy (Based on Level)"
+    ]
+  },
+  {
+    "name": "Uabel's Gloves",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Uabels_Gloves.png?f75e78",
+    "properties": {
+      "Defense": "11-24"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "+10% Faster Cast Rate",
+      "+[5-10] to Energy",
+      "+8% of Damage Taken goes to Mana",
+      "+[10-30]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Hands of Flame",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Hands_of_Flame.png?1db75c",
+    "properties": {
+      "Defense": "24-34"
+    },
+    "stats": [
+      "+[30-40]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[15-25]% Faster Cast Rate",
+      "Fire Skill Damage increased by [10-20]%"
+    ]
+  },
+  {
+    "name": "Gloves of Wilderness",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Gloves_of_Wilderness.png?cc1481",
+    "properties": {
+      "Defense": "24-34"
+    },
+    "stats": [
+      "+[30-40]% Enhanced Defense",
+      "+15 to Energy",
+      "Lightning Skill Damage increased by [10-20]%",
+      "Fire Skill Damage increased by [10-20]%",
+      "+125 to Mana"
+    ]
+  },
+  {
+    "name": "Devil's Grasp",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Devils_Grasp.png?575d12",
+    "properties": {
+      "Defense": "24-34"
+    },
+    "stats": [
+      "+[30-40]% Enhanced Defense",
+      "+[10-15] to Intelligence",
+      "Arcane Skill Damage increased by [10-20]%",
+      "+[7-15]% of Damage Taken goes to Mana",
+      "+35% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Lancers Gauntlets",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Lancers_Gauntlets.png?4cd74b",
+    "properties": {
+      "Defense": "29-44"
+    },
+    "stats": [
+      "+[60-80]% Enhanced Defense",
+      "+[2-4] to [Spiked Shields]",
+      "+[15-20] to Armor",
+      "+[35-50]% of Damage Returned to the Attacker",
+      "+15% to All Resistances"
+    ]
+  },
+  {
+    "name": "Battle Worn Gauntlets",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Battle_Worn_Gauntlets.png?35540b",
+    "properties": {
+      "Defense": "27-44"
+    },
+    "stats": [
+      "+[50-80]% Enhanced Defense",
+      "+[20-40]% Increased Attack Speed",
+      "+[320-475] to Additive Physical Damage",
+      "+[5-8]% Mana stolen per Hit"
+    ]
+  },
+  {
+    "name": "Dante's Mitts",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Dantes_Mitts.png?55c5e0",
+    "properties": {
+      "Defense": "26-39"
+    },
+    "stats": [
+      "+[40-60]% Enhanced Defense",
+      "+10% Chance for a Deadly Blow",
+      "+15 to Strength",
+      "Attack Damage increased by [7-15]%",
+      "+[5-10] Life After each Kill"
+    ]
+  },
+  {
+    "name": "Doctor's Grasp",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Doctors_Grasp.png?ef71f3",
+    "properties": {
+      "Defense": "24-35"
+    },
+    "stats": [
+      "+[30-45]% Enhanced Defense",
+      "+15 to Energy",
+      "Poison Skill Damage increased by [15-25]%",
+      "+[7-15] Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Marksman's Hunting Gloves",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Marksmans_Hunting_Gloves.png?3d9a32",
+    "properties": {
+      "Defense": "27-42"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+[15-30]% Increased Attack Speed",
+      "+125 to Attack Rating",
+      "+5% Mana stolen per Hit"
+    ]
+  },
+  {
+    "name": "Nomad's Sand Mitts",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Nomads_Sand_Mitts.png?876576",
+    "properties": {
+      "Defense": "27-42"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+[15-20]% Increased Attack Rating",
+      "+7% Life stolen per Hit",
+      "+10 to Strength"
+    ]
+  },
+  {
+    "name": "Thor's Battle Gloves",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Thors_Battle_Gloves.png?e27a1f",
+    "properties": {
+      "Defense": "27-42"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+[1-3] to [Holy Aura]",
+      "+[10-20]% Faster Cast Rate",
+      "+125 to Mana"
+    ]
+  },
+  {
+    "name": "Sand Manipulator's Authority",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Sand_Manipulators_Authority.png?2ae8a7",
+    "properties": {
+      "Defense": "24-34"
+    },
+    "stats": [
+      "+[30-40]% Enhanced Defense",
+      "+[1-3] to [Dissipation]",
+      "+10 to Intelligence",
+      "-[5-15]% to Enemy Arcane Resistance",
+      "Replenish Mana 25%"
+    ]
+  },
+  {
+    "name": "Einar's Padded Gauntlets",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Einars_Padded_Gauntlets.png?dcb61f",
+    "properties": {
+      "Defense": "50-84"
+    },
+    "stats": [
+      "+[90-120]% Enhanced Defense",
+      "Extra Damage to Deep Frozen Monsters [8-20]%",
+      "+[715-775] to Additive Cold Damage",
+      "+40% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Anubis' Mighty Hands",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Anubis_Mighty_Hands.png?971a36",
+    "properties": {
+      "Defense": "46-76"
+    },
+    "stats": [
+      "+[75-100]% Enhanced Defense",
+      "+1 to All Skills",
+      "+15 to All Attributes",
+      "Replenish Life [15-25]%"
+    ]
+  },
+  {
+    "name": "Zealot's Deathbringers",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Zealots_Deathbringers.png?643d34",
+    "properties": {
+      "Defense": "42-69"
+    },
+    "stats": [
+      "+[60-80]% Enhanced Defense",
+      "+1 to Arcane Skills",
+      "+[20-30]% Faster Cast Rate",
+      "Arcane Skill Damage increased by [15-25]%",
+      "Replenish Mana 15%"
+    ]
+  },
+  {
+    "name": "Bone Conjurer's Grips",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Bone_Conjurers_Grips.png?1855d6",
+    "properties": {
+      "Defense": "39-69"
+    },
+    "stats": [
+      "+[50-80]% Enhanced Defense",
+      "+15 to Energy",
+      "+[15-25] to Intelligence",
+      "Arcane Skill Damage increased by [10-25]%"
+    ]
+  },
+  {
+    "name": "Lumberjack's Safety Gloves",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Lumberjacks_Safety_Gloves.png?6e6e9e",
+    "properties": {
+      "Defense": "37-65"
+    },
+    "stats": [
+      "+[40-70]% Enhanced Defense",
+      "+[2-4] to [Revved Up]",
+      "+15 to Strength",
+      "+[15-25] to Dexterity",
+      "Attack Damage increased by [7-15]%"
+    ]
+  },
+  {
+    "name": "Blood-letter's Plated Gauntlet",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Blood-letters_Plated_Gauntlet.png?396e95",
+    "properties": {
+      "Defense": "37-65"
+    },
+    "stats": [
+      "+[40-70]% Enhanced Defense",
+      "+[7-12]% Life stolen per Hit",
+      "+8 to Vitality",
+      "+10 Life After each Kill"
+    ]
+  },
+  {
+    "name": "Venom's Talons",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Venoms_Talons.png?52d5a6",
+    "properties": {
+      "Defense": "34-57"
+    },
+    "stats": [
+      "+[30-50]% Enhanced Defense",
+      "+[2-4] to [Poison Breath]",
+      "+8 to Energy",
+      "Poison Skill Damage increased by [10-25]%",
+      "+40% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Lost Master's Gauntlets",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Lost_Masters_Gauntlets.png?c32ac6",
+    "properties": {
+      "Defense": "45-76"
+    },
+    "stats": [
+      "+[70-100]% Enhanced Defense",
+      "+[4-8]% Life stolen per Hit",
+      "+15 to Strength",
+      "Attack Damage increased by [15-25]%",
+      "Physical Damage Taken Reduced by 5%"
+    ]
+  },
+  {
+    "name": "Champion's Fighting Gloves",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Champions_Fighting_Gloves.png?8a396f",
+    "properties": {
+      "Defense": "47-84"
+    },
+    "stats": [
+      "+[80-120]% Enhanced Defense",
+      "+20% Chance for a Crushing Blow",
+      "+220 to Attack Rating",
+      "+[10-15] to Vitality",
+      "+35 to Strength (Based on Level)"
+    ]
+  },
+  {
+    "name": "Mevius' Mighty Gauntlets",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Mevius_Mighty_Gauntlets.png?3dcc7f",
+    "properties": {
+      "Defense": "39-67"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+3 to Random Skill Element",
+      "+[10-20]% Faster Cast Rate",
+      "Life Increased by [4-10]%",
+      "Mana Increased by [4-10]%",
+      "All Damage Taken Reduced by 3%"
+    ]
+  },
+  {
+    "name": "Death's Grasp",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Deaths_Grasp.png?65d7e3",
+    "properties": {
+      "Defense": "39-73"
+    },
+    "stats": [
+      "5% Chance when Striking [Life Tap] Level 10",
+      "+[50-90]% Enhanced Defense",
+      "+[20-30]% Increased Attack Speed",
+      "Attack Damage increased by [10-20]%"
+    ]
+  },
+  {
+    "name": "Rimskin Assassins",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 69,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Rimskin_Assassins.png?f59ae6",
+    "properties": {
+      "Defense": "120-194"
+    },
+    "stats": [
+      "+[100-120]% Enhanced Defense",
+      "+[2-3] to Physical Skills",
+      "+[1-3] to [Rimskin Assassin]",
+      "+[20-30]% Increased Attack Speed",
+      "+25% Chance to Open Wounds",
+      "Extra Damage to Bleeding Monsters [30-50]%",
+      "+30 to All Attributes"
+    ]
+  },
+  {
+    "name": "Midas' Hands",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Midas_Hands.png?f3ee76",
+    "properties": {
+      "Defense": "47-80"
+    },
+    "stats": [
+      "+[80-110]% Enhanced Defense",
+      "+40% Magic Find (Based on Level)",
+      "+15% to All Resistances",
+      "+20% Extra Gold Dropped From Kills",
+      "+[4-10]% Increased Experience Gain"
+    ]
+  },
+  {
+    "name": "Brawler's Fighting Mitts",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Brawlers_Fighting_Mitts.png?77551a",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+[1-5] to [Face Breakers]",
+      "+50% Increased Attack Speed",
+      "+[40-50] to Strength",
+      "+150 to Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "Ali's Boxing Gloves",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Alis_Boxing_Gloves.png?896789",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+1 to All Skills",
+      "[Cornered] Level [1-5]",
+      "+30% Increased Movement Speed",
+      "+[25-50]% Increased Attack Speed",
+      "Extra Damage to Stunned Monsters [25-50]%"
+    ]
+  },
+  {
+    "name": "Fighter Magi's Grips",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Fighter_Magis_Grips.png?35fb98",
+    "properties": {
+      "Defense": "102-177"
+    },
+    "stats": [
+      "+[120-160]% Enhanced Defense",
+      "+[1-3] to All Skills",
+      "+[475-650] to Attack Rating",
+      "+[20-30] to Dexterity",
+      "+[8-15] to All Attributes",
+      "Magic Skill Damage increased by [25-40]%"
+    ]
+  },
+  {
+    "name": "Grasp of the Phoenix",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Grasp_of_the_Phoenix.png?dfddf1",
+    "properties": {
+      "Defense": "81-136"
+    },
+    "stats": [
+      "+[75-100]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[2-5] to Fire Skills",
+      "+[20-40]% Faster Cast Rate",
+      "+8 Mana per second",
+      "Extra Damage to Burning Monsters [10-30]%",
+      "Fire Skill Damage increased by [20-35]%",
+      "+[10-15]% Fire Damage Absorbed"
+    ]
+  },
+  {
+    "name": "Arcanum Asphyxiators",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Arcanum_Asphyxiators.png?6ab4bf",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+[2-4] to Arcane Skills",
+      "+[20-30]% Faster Cast Rate",
+      "Explosion Damage increased by [15-25]%",
+      "Arcane Skill Damage increased by [20-35]%",
+      "Explosion area of effect increased by [20-40]%",
+      "[Ominous Aura] Level [12-20]"
+    ]
+  },
+  {
+    "name": "Necrocaller's Grips",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Necrocallers_Grips.png?c1e713",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+[2-6] to Summon Skills",
+      "+20% Increased Summon Attack Speed",
+      "Summon Damage Increased by [15-40]%",
+      "+[20-30] to Energy",
+      "+[10-20] to All Attributes",
+      "Mana Increased by 10%"
+    ]
+  },
+  {
+    "name": "Manahungerers",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Manahungerers.png?3fa030",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+3 to Cold Skills",
+      "+[15-25] to Energy",
+      "Magic Skill Damage increased by [5-20]%",
+      "Mana Increased by [40-50]%",
+      "Unholy Stat"
+    ]
+  },
+  {
+    "name": "Rakhul's Stone Hands",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Rakhuls_Stone_Hands.png?a283f6",
+    "properties": {
+      "Defense": "127-204"
+    },
+    "stats": [
+      "+[175-200]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[12-20] to Dexterity",
+      "+[12-20] to Vitality",
+      "+[15-25] to Armor",
+      "+150% Defense vs Missiles",
+      "+[1-4]% to Maximum All Resists"
+    ]
+  },
+  {
+    "name": "Frostbitten Necrosis",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Frostbitten_Necrosis.png?f3870e",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+2 to All Skills",
+      "+[2-5] to Cold Skills",
+      "+[10-20] to [Absolute Zero]",
+      "+[20-35]% Faster Cast Rate",
+      "Extra Damage to Deep Frozen Monsters [15-25]%",
+      "Cold Skill Damage increased by [20-40]%",
+      "Mana Increased by [10-15]%"
+    ]
+  },
+  {
+    "name": "Shadow Occultist's Wraps",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Shadow_Occultists_Wraps.png?969cc1",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+2 to All Skills",
+      "+[1-5] to [Shadow Weave]",
+      "+[5-8] Mana per second",
+      "+15 to Intelligence",
+      "-[5-15]% to All Enemy Resistances"
+    ]
+  },
+  {
+    "name": "Spellweavers",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Spellweavers.png?70c4ed",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+30% Faster Cast Rate",
+      "+[20-30] to Energy",
+      "Explosion area of effect increased by [10-20]%",
+      "Replenish Mana 15%",
+      "+20% of Damage Taken goes to Mana",
+      "+[20-30]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Plague Bringer's Touch",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Plague_Bringers_Touch.png?380a26",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+2 to All Skills",
+      "+[2-5] to Poison Skills",
+      "+[10-20] to [Cursed Ground]",
+      "+[20-35]% Faster Cast Rate",
+      "Extra Damage to Poisoned Monsters [15-25]%",
+      "Poison Skill Damage increased by [20-40]%",
+      "Mana Increased by [10-15]%"
+    ]
+  },
+  {
+    "name": "Tectonic Grips",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Tectonic_Grips.png?7f49be",
+    "properties": {
+      "Defense": "26-38"
+    },
+    "stats": [
+      "+2 to All Skills",
+      "+[2-4] to Lightning Skills",
+      "+[8-16] to [Thunder Goddesses Chosen]",
+      "+[20-35]% Faster Cast Rate",
+      "Stasis Damage increased by [15-25]%",
+      "Lightning Skill Damage increased by [15-35]%",
+      "-[5-20]% to Enemy Lightning Resistance",
+      "Replenish Mana 75%"
+    ]
+  },
+  {
+    "name": "Demonfire Accelerators",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_Demonfire_Accelerators.png?feef96",
+    "properties": {
+      "Defense": "81-136"
+    },
+    "stats": [
+      "+[75-100]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[15-30]% Increased Attack Speed",
+      "+[6-12] Mana per second",
+      "+[1-3] to Projectile Speed",
+      "+[10-20] to All Attributes",
+      "Unholy Stat"
+    ]
+  },
+  {
+    "name": "St. Ahto's Diamond Hands",
+    "category": "Armor",
+    "type": "Gloves",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Gloves_St._Ahtos_Diamond_Hands.png?459669",
+    "properties": {
+      "Defense": "256-368"
+    },
+    "stats": [
+      "+[125-150]% Enhanced Damage",
+      "+[330-440]% Enhanced Defense",
+      "+[2-4] to All Skills",
+      "+[40-50]% of Physical Damage taken as Arcane",
+      "Magic Skill Damage increased by [35-50]%",
+      "+35% to Arcane Resistance",
+      "+5% to Maximum Arcane Resist",
+      "[Oasis Aura] Level [15-25]"
+    ]
+  }
+]

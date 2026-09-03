@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Crystal Infused Pistol",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 10,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Crystal_Infused_Pistol.png?bc57ac",
+    "properties": {
+      "Damage": "26-49",
+      "APS": "1.5",
+      "DPS": "39-73"
+    },
+    "stats": [
+      "+[220-340]% Enhanced Damage",
+      "+20% Increased Attack Speed",
+      "+20% Chance for a Deadly Blow",
+      "+65 to Attack Rating",
+      "+[3-6]% Mana stolen per Hit",
+      "+40% of target Defense ignored",
+      "+[15-25] to Additive Arcane Damage"
+    ]
+  },
+  {
+    "name": "Warbringer",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 28,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Warbringer.png?58c755",
+    "properties": {
+      "Damage": "72-114",
+      "APS": "2.12-2.4",
+      "DPS": "153-274"
+    },
+    "stats": [
+      "25% Chance when Attacking [Trigger Finger] Level 8",
+      "+[350-470]% Enhanced Damage",
+      "+[15-30]% Increased Attack Speed",
+      "+[10-20]% Increased Critical Strike Chance",
+      "+35% Chance for a Crushing Blow",
+      "+90 to Attack Rating",
+      "+[4-8]% Life stolen per Hit",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Marine's Buddy",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 34,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Marines_Buddy.png?87547a",
+    "properties": {
+      "Damage": "198-252",
+      "APS": "1.72-1.95",
+      "DPS": "340-492"
+    },
+    "stats": [
+      "+[370-425]% Enhanced Damage",
+      "+[15-30]% Increased Attack Speed",
+      "+[10-20]% Increased Critical Strike Chance",
+      "+25% Chance for a Deadly Blow",
+      "+10% Increased Attack Rating",
+      "+[15-25]% Increased Critical Strike Damage",
+      "+20 to Strength",
+      "+15 to Dexterity",
+      "+[6-10] Mana After each Kill",
+      "Socketed (0-4)"
+    ]
+  },
+  {
+    "name": "Chills of War",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 36,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Chills_of_War.png?b61067",
+    "properties": {
+      "Damage": "108-161",
+      "APS": "2.1-2.27",
+      "DPS": "227-366"
+    },
+    "stats": [
+      "+[350-475]% Enhanced Damage",
+      "+[20-30]% Increased Attack Speed",
+      "+[4-8]% Mana stolen per Hit",
+      "Slows target by 15%",
+      "+10 to Strength",
+      "+10 to Dexterity",
+      "+[45-70] to Additive Cold Damage",
+      "+[8-12] Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Jack",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 38,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Jack.png?8aee3c",
+    "properties": {
+      "Damage": "108-161",
+      "APS": "2.27-2.62",
+      "DPS": "246-422"
+    },
+    "stats": [
+      "+[350-475]% Enhanced Damage",
+      "+[30-50]% Increased Attack Speed",
+      "+10% Chance for a Deadly Blow",
+      "+[4-8]% Life stolen per Hit",
+      "Slows target by 15%",
+      "+15 to Strength",
+      "+15 to Dexterity",
+      "+[8-12] Life After each Kill"
+    ]
+  },
+  {
+    "name": "Fred",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Fred.png?2606e8",
+    "properties": {
+      "Damage": "108-161",
+      "APS": "2.27-2.62",
+      "DPS": "246-422"
+    },
+    "stats": [
+      "+[350-475]% Enhanced Damage",
+      "+[30-50]% Increased Attack Speed",
+      "+20% Chance for a Deadly Blow",
+      "+[4-8]% Life stolen per Hit",
+      "Slows target by 15%",
+      "+15 to Strength",
+      "+15 to Dexterity",
+      "+[8-12] Life After each Kill"
+    ]
+  },
+  {
+    "name": "Vampire Hunter",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 60,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Vampire_Hunter.png?8f6a25",
+    "properties": {
+      "Damage": "230-341",
+      "APS": "1.65-1.79",
+      "DPS": "379-611"
+    },
+    "stats": [
+      "+[310-450]% Enhanced Damage",
+      "Attack Range Increased by [15-30]%",
+      "+[10-20]% Increased Attack Speed",
+      "+175 to Attack Rating",
+      "+[50-75] to Additive Physical Damage",
+      "+[4-8]% Life stolen per Hit",
+      "+50% of target Defense ignored",
+      "+15% Chance to Open Wounds",
+      "+10 Life After each Kill",
+      "+75 to Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "RT XQC-4910",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 77,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_RT_XQC-4910.png?2c4214",
+    "properties": {
+      "Damage": "430-496",
+      "APS": "1",
+      "DPS": "430-496"
+    },
+    "stats": [
+      "+[480-520]% Enhanced Damage",
+      "+2 to All Skills",
+      "Attack Range Increased by [15-30]%",
+      "+50% Chance for a Crushing Blow",
+      "+250 to Attack Rating",
+      "+[80-100] to Additive Physical Damage",
+      "+[5-7]% Life stolen per Hit",
+      "+25% of target Defense ignored",
+      "Slows target by 30%",
+      "Socketed (5)"
+    ]
+  },
+  {
+    "name": "Flamecannon",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Flamecannon.png?73e59e",
+    "properties": {
+      "Damage": "407-480",
+      "APS": "2.77-3.23",
+      "DPS": "1128-1551"
+    },
+    "stats": [
+      "50% Chance when Striking [Fireball] Level [60-70]",
+      "+[450-500]% Enhanced Damage",
+      "+[50-75]% Increased Attack Speed",
+      "+[500-600] to Attack Rating",
+      "Fire Skill Damage increased by 50%",
+      "-35% to Enemy Fire Resistance",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "F4-Tactical Rifle",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 90,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_F4-Tactical_Rifle.png?230dca",
+    "properties": {
+      "Damage": "504-576",
+      "APS": "2.22-2.59",
+      "DPS": "1118-1492"
+    },
+    "stats": [
+      "+[580-620]% Enhanced Damage",
+      "+2 to All Skills",
+      "+[20-40]% Increased Attack Speed",
+      "+20% Increased Critical Strike Chance",
+      "+15% Chance for a Deadly Blow",
+      "+350 to Attack Rating",
+      "+[80-100] to Additive Physical Damage",
+      "+[4-6]% Life stolen per Hit",
+      "+[20-40]% Increased Critical Strike Damage",
+      "+25% of target Defense ignored",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Steve's Bang",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Steves_Bang.png?1f8609",
+    "properties": {
+      "Damage": "238-359",
+      "APS": "2.1-2.62",
+      "DPS": "499-941"
+    },
+    "stats": [
+      "18% Chance when Attacking [Steves Itchy Sack] Level 59",
+      "+[440-590]% Enhanced Damage",
+      "+[20-50]% Increased Attack Speed",
+      "+[110-140] to Attack Rating",
+      "+10 to All Attributes",
+      "+[35-50] to Additive Lightning Damage",
+      "+[35-50] to Additive Fire Damage",
+      "+[35-50] to Additive Cold Damage",
+      "+10 Mana After each Kill",
+      "+15% to All Resistances",
+      "+[20-30]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Demon",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Demon.png?316b7a",
+    "properties": {
+      "Damage": "234-354",
+      "APS": "2.18",
+      "DPS": "509-771"
+    },
+    "stats": [
+      "+[430-580]% Enhanced Damage",
+      "+25% Increased Attack Speed",
+      "+15% Chance for a Crushing Blow",
+      "+3% Increased Attack Rating",
+      "+[825-880] to Additive Physical Damage",
+      "+35% of target Defense ignored",
+      "+25 to Dexterity",
+      "+8 Life After each Kill",
+      "+5 Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Angel",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Angel.png?9302e5",
+    "properties": {
+      "Damage": "234-354",
+      "APS": "2.18",
+      "DPS": "509-771"
+    },
+    "stats": [
+      "+[430-580]% Enhanced Damage",
+      "+25% Increased Attack Speed",
+      "+15% Chance for a Crushing Blow",
+      "+3% Increased Attack Rating",
+      "+[825-880] to Additive Physical Damage",
+      "+35% of target Defense ignored",
+      "+25 to Dexterity",
+      "+8 Life After each Kill",
+      "+5 Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Dreadnought",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_Dreadnought.png?de2487",
+    "properties": {
+      "Damage": "572-663",
+      "APS": "1",
+      "DPS": "572-663"
+    },
+    "stats": [
+      "+[580-620]% Enhanced Damage",
+      "Attack Range Increased by [10-20]%",
+      "+[3-6]% Increased Attack Rating",
+      "+385 to Attack Rating",
+      "Socketed (1)"
+    ]
+  },
+  {
+    "name": "AK-47",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_AK-47.png?b02514",
+    "properties": {
+      "Damage": "430-496",
+      "APS": "2.27-3.42",
+      "DPS": "975-1697"
+    },
+    "stats": [
+      "8% Chance when Attacking [Rapid Fire] Level 31",
+      "+[480-520]% Enhanced Damage",
+      "+[4-6] to All Skills",
+      "Attack Range Increased by [10-20]%",
+      "+[20-80]% Increased Attack Speed",
+      "+[12-20]% Increased Critical Strike Chance",
+      "+1850 to Attack Rating",
+      "+15% Mana stolen per Hit",
+      "+[30-55]% Increased Critical Strike Damage",
+      "+50 to Dexterity",
+      "Socketed (3-6)"
+    ]
+  },
+  {
+    "name": "St. Brooks Elementium Pistol",
+    "category": "Weapons",
+    "type": "Guns",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Gun_St._Brooks_Elementium_Pistol.png?53abac",
+    "properties": {
+      "Damage": "630-703",
+      "APS": "1.85",
+      "DPS": "1166-1301"
+    },
+    "stats": [
+      "7% Chance when Striking [Blizzard] Level 112",
+      "12% Chance when Attacking [Tornado] Level 119",
+      "+[800-850]% Enhanced Damage",
+      "+3 to All Skills",
+      "+1250 to Attack Rating",
+      "-15% to All Enemy Resistances",
+      "Magic Skill Damage increased by [40-45]%",
+      "Socketed (4)"
+    ]
+  }
+]

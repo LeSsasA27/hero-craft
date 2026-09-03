@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Book of Revelations",
+    "category": "Weapons",
+    "type": "Books",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 16,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Book_Book_of_Revelations.png?39ed7f",
+    "properties": {
+      "Damage": "7-10",
+      "APS": "1.75",
+      "DPS": "13-18"
+    },
+    "stats": [
+      "+[10-20]% Faster Cast Rate",
+      "+[2-5] Mana per second",
+      "+2 to All Attributes",
+      "Magic Skill Damage increased by [5-10]%",
+      "+25 to Life",
+      "+25 to Mana",
+      "+5 Mana After each Kill",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Satan's Unholy Bible",
+    "category": "Weapons",
+    "type": "Books",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 27,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Book_Satans_Unholy_Bible.png?ac4a9e",
+    "properties": {
+      "Damage": "15-19",
+      "APS": "1.75",
+      "DPS": "27-34"
+    },
+    "stats": [
+      "+40% Faster Cast Rate",
+      "Magic Skill Damage increased by [20-30]%",
+      "Replenish Mana 25%",
+      "Life Increased by value1%",
+      "Physical Damage Taken Reduced by value1%",
+      "-50% to All Resistances",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "God's Benevolence",
+    "category": "Weapons",
+    "type": "Books",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 41,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Book_Gods_Benevolence.png?6f1b33",
+    "properties": {
+      "Damage": "24-28",
+      "APS": "1.75",
+      "DPS": "42-49"
+    },
+    "stats": [
+      "10% Chance when Struck [Flash Heal] Level 30",
+      "Magic Skill Damage increased by 10%",
+      "+20% Faster Hit Recovery",
+      "Physical Damage Taken Reduced by 15%",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Sands of Time",
+    "category": "Weapons",
+    "type": "Books",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 61,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Book_Sands_of_Time.png?a77a0f",
+    "properties": {
+      "Damage": "30-35",
+      "APS": "1.75",
+      "DPS": "53-62"
+    },
+    "stats": [
+      "5% Chance when Casting [Sands of Time] Level 14",
+      "+2 to All Skills",
+      "+20% Faster Cast Rate",
+      "+8 to Energy",
+      "Arcane Skill Damage increased by [5-10]%",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Book of Cold Death",
+    "category": "Weapons",
+    "type": "Books",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Book_Book_of_Cold_Death.png?54ba1a",
+    "properties": {
+      "Damage": "42-48",
+      "APS": "1.75",
+      "DPS": "74-84"
+    },
+    "stats": [
+      "+[3-4] to Cold Skills",
+      "+[5-8] to [Icicles]",
+      "+30% Faster Cast Rate",
+      "+[6-10] Mana per second",
+      "Cold Skill Damage increased by [40-50]%",
+      "-[10-20]% to Enemy Cold Resistance",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Damien's Head",
+    "category": "Weapons",
+    "type": "Books",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 60,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Book_Damiens_Head.png?4c61b2",
+    "properties": {
+      "Damage": "30-35",
+      "APS": "1.75",
+      "DPS": "53-62"
+    },
+    "stats": [
+      "+1 to All Skills",
+      "+30% Faster Cast Rate",
+      "+[8-15] Mana per second",
+      "+5 to All Attributes",
+      "+8 Mana After each Kill",
+      "+10% of Damage Taken goes to Mana",
+      "+[5-15]% to All Resistances",
+      "Socketed (1-2)"
+    ]
+  },
+  {
+    "name": "Solar Prophet's Tablet",
+    "category": "Weapons",
+    "type": "Books",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Book_Solar_Prophets_Tablet.png?111e91",
+    "properties": {
+      "Damage": "30-35",
+      "APS": "1.75",
+      "DPS": "53-62"
+    },
+    "stats": [
+      "10% Chance when Casting [Solar Flare] Level 17",
+      "+[1-2] to Fire Skills",
+      "+12% Faster Cast Rate",
+      "Potion Cooldown Recovery Increased by [5-10]%",
+      "+[4-8] Mana per second",
+      "Fire Skill Damage increased by 12%"
+    ]
+  },
+  {
+    "name": "Zealot's Book of Prophecy",
+    "category": "Weapons",
+    "type": "Books",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Book_Zealots_Book_of_Prophecy.png?57c6fb",
+    "properties": {
+      "Damage": "31-36",
+      "APS": "1.75",
+      "DPS": "55-63"
+    },
+    "stats": [
+      "+[2-4] to [Satans Mark]",
+      "Cooldown Recovery Increased by [5-10]%",
+      "Arcane Skill Damage increased by [10-15]%",
+      "Replenish Mana 15%",
+      "+35 to Mana"
+    ]
+  }
+]

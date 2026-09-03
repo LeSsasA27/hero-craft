@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Apocalypto",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 29,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Apocalypto.png?99d6c6",
+    "properties": {
+      "Damage": "16-27",
+      "APS": "1.35",
+      "DPS": "22-37"
+    },
+    "stats": [
+      "+[10-20] to [Armageddon]",
+      "+15 to All Attributes",
+      "Fire Skill Damage increased by [20-40]%",
+      "Replenish Mana 30%",
+      "+50% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Ancient Sun Beacon",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 36,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Ancient_Sun_Beacon.png?1192b7",
+    "properties": {
+      "Damage": "28-38",
+      "APS": "1.5",
+      "DPS": "42-57"
+    },
+    "stats": [
+      "35% Chance when Casting [Fireball] Level 28",
+      "+[750-1500] to Fire Skill Damage",
+      "Fire Skill Damage increased by [25-40]%",
+      "-15% to Enemy Fire Resistance",
+      "Replenish Mana 50%",
+      "+35 to Energy (Based on Level)",
+      "+75 to Intelligence (Based on Level)"
+    ]
+  },
+  {
+    "name": "Staff of Nether Flame",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Staff_of_Nether_Flame.png?54ffa3",
+    "properties": {
+      "Damage": "28-38",
+      "APS": "1.5",
+      "DPS": "42-57"
+    },
+    "stats": [
+      "[Ominous Aura] Level [8-16]",
+      "+[5-50]% Faster Cast Rate",
+      "+15 to Vitality",
+      "+25 to All Attributes",
+      "Poison Skill Damage increased by [35-50]%",
+      "Fire Skill Damage increased by [35-50]%",
+      "+40 Mana After each Kill"
+    ]
+  },
+  {
+    "name": "The Iris",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 42,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_The_Iris.png?7827bf",
+    "properties": {
+      "Damage": "28-61",
+      "APS": "2.02-2.43",
+      "DPS": "57-148"
+    },
+    "stats": [
+      "+[75-125]% Enhanced Damage",
+      "+[2-3] to Arcane Skills",
+      "+[15-25]% Faster Cast Rate",
+      "+[50-80]% Increased Attack Speed",
+      "+[5-10] Mana per second",
+      "+[8-15] to Energy",
+      "+15 to Intelligence",
+      "Arcane Skill Damage increased by [20-40]%"
+    ]
+  },
+  {
+    "name": "Archangel Staff",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Archangel_Staff.png?aa9ecd",
+    "properties": {
+      "Damage": "40-47",
+      "APS": "1.25",
+      "DPS": "50-59"
+    },
+    "stats": [
+      "8% Chance when Casting [Master Poisoner] Level 19",
+      "+[1-2] to All Skills",
+      "+[3-6] to [Flash Heal]",
+      "+[3-6] to [Divine Healing]",
+      "+[3-8] to [Benediction]",
+      "Cooldown Recovery Increased by [20-30]%",
+      "+[8-12] Mana per second",
+      "+15 to Energy",
+      "Arcane Skill Damage increased by [20-40]%"
+    ]
+  },
+  {
+    "name": "Raise of the Dead",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 55,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Raise_of_the_Dead.png?3d87bc",
+    "properties": {
+      "Damage": "40-47",
+      "APS": "1.25",
+      "DPS": "50-59"
+    },
+    "stats": [
+      "+[1-2] to Summon Skills",
+      "+[3-6] to [Raise Skeleton]",
+      "+[3-6] to [Raise Skeleton Mage]",
+      "+[3-6] to [Summon Mastery]",
+      "+[10-25]% Increased Summon Attack Speed",
+      "Summon Damage Increased by [5-20]%",
+      "Summon Life Increased by [5-10]%"
+    ]
+  },
+  {
+    "name": "Flame of the Phoenix",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Flame_of_the_Phoenix.png?d9e511",
+    "properties": {
+      "Damage": "40-47",
+      "APS": "1.25",
+      "DPS": "50-59"
+    },
+    "stats": [
+      "7% Chance when Casting [Blazing Trail] Level 16",
+      "+[2-3] to All Skills",
+      "+[2-3] to Fire Skills",
+      "+[8-15] to [Phoenix Flight]",
+      "+[30-45]% Increased Movement Speed",
+      "+[25-40] to Energy",
+      "Fire Skill Damage increased by [25-40]%",
+      "-[8-15]% to Enemy Fire Resistance",
+      "+[8-15] Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Thorn of Helheim",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 1,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Thorn_of_Helheim.png?758d4a",
+    "properties": {
+      "Damage": "50-58",
+      "APS": "1.25",
+      "DPS": "63-73"
+    },
+    "stats": [
+      "35% Chance when Casting [Odins Demise] Level 73",
+      "+[3-5] to All Skills",
+      "+[25-40]% Faster Cast Rate",
+      "+1 to Projectile Speed",
+      "Magic Skill Damage increased by [25-40]%",
+      "+[8-15] Mana After each Kill",
+      "Mana Increased by 10%"
+    ]
+  },
+  {
+    "name": "Spell Eater",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 99,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Spell_Eater.png?570c9d",
+    "properties": {
+      "Damage": "48-52",
+      "APS": "1.75",
+      "DPS": "84-91"
+    },
+    "stats": [
+      "+4 to All Skills",
+      "+[4-8] to Arcane Skills",
+      "+[10-15] to [Mana Devour]",
+      "+[20-40]% Faster Cast Rate",
+      "+[10-15] Mana per second",
+      "+[1220-1400] to Arcane Skill Damage",
+      "Arcane Skill Damage increased by [25-45]%",
+      "-[20-35]% to Enemy Arcane Resistance",
+      "+[20-40]% to Arcane Resistance",
+      "+[20-40]% to Lightning Resistance",
+      "Socketed (2-3)"
+    ]
+  },
+  {
+    "name": "Necrobutcher's Curse",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Necrobutchers_Curse.png?648343",
+    "properties": {
+      "Damage": "40-47",
+      "APS": "1.25",
+      "DPS": "50-59"
+    },
+    "stats": [
+      "+[3-5] to Summon Skills",
+      "+[2-4] to All Skills",
+      "+[5-10] to [Raise Skeleton]",
+      "+[5-10] to [Raise Skeleton Mage]",
+      "+[5-10] to [Summon Mastery]",
+      "+[1-2] to Summon Amount",
+      "+[20-35]% Increased Summon Attack Speed",
+      "Summon Damage Increased by [15-40]%",
+      "Summon Life Increased by [15-25]%"
+    ]
+  },
+  {
+    "name": "Crow's Whisper",
+    "category": "Weapons",
+    "type": "Staves",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Staff_Crows_Whisper.png?f9f11e",
+    "properties": {
+      "Damage": "48-52",
+      "APS": "1.14",
+      "DPS": "55-60"
+    },
+    "stats": [
+      "10% Chance when Casting [Despair] Level 1",
+      "+[5-8] to All Skills",
+      "+10 to Lightning Skills",
+      "Replenish Mana 150%",
+      "Unbreakable",
+      "Socketed (6)"
+    ]
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "name": "War God's Lance",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 13,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_War_Gods_Lance.png?57cf90",
+    "properties": {
+      "Damage": "N/A",
+      "APS": "1.74-2.02",
+      "DPS": "N/A"
+    },
+    "stats": [
+      "+[120-180]% Enhanced Damage",
+      "+[20-40]% Increased Attack Speed",
+      "+15% Chance for a Crushing Blow",
+      "+60 to Attack Rating",
+      "+3 to All Attributes",
+      "+50 to Damage (Based on Level)",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Poseidon's Might",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 22,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Poseidons_Might.png?af160a",
+    "properties": {
+      "Damage": "65-88",
+      "APS": "2.25-2.44",
+      "DPS": "147-215"
+    },
+    "stats": [
+      "+[150-175]% Enhanced Damage",
+      "+10% Increased Movement Speed",
+      "+[20-30]% Increased Attack Speed",
+      "+[5-10]% Increased Critical Strike Chance",
+      "+180 to Attack Rating",
+      "+[10-20]% Increased Critical Strike Damage",
+      "+15 to Strength",
+      "+[50-75] to Additive Cold Damage",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Golden God's Gladius",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 26,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Golden_Gods_Gladius.png?a8bb5c",
+    "properties": {
+      "Damage": "44-62",
+      "APS": "1.6",
+      "DPS": "70-100"
+    },
+    "stats": [
+      "8% Chance after each Kill [Flash Heal] Level 12",
+      "+[190-210]% Enhanced Damage",
+      "+5% Life stolen per Hit",
+      "+[5-8] to Vitality",
+      "Replenish Life [10-15]%",
+      "+[15-20] to Life",
+      "+15% Defense vs Missiles",
+      "+[8-12] Mana After each Kill",
+      "+20 to Life (Based on Level)",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Vanguard's Lance",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 44,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Vanguards_Lance.png?a47be2",
+    "properties": {
+      "Damage": "63-82",
+      "APS": "2.2",
+      "DPS": "138-179"
+    },
+    "stats": [
+      "+[160-190]% Enhanced Damage",
+      "+20% Chance for a Deadly Blow",
+      "+275 to Attack Rating",
+      "+[3-8]% Life stolen per Hit",
+      "+10 to Strength",
+      "+15 to Dexterity",
+      "+[320-430] to Additive Cold Damage",
+      "Attack Damage increased by [5-10]%",
+      "+[6-12] Mana After each Kill",
+      "+75 to Attack Rating (Based on Level)",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Crusader Halberd",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 45,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Crusader_Halberd.png?8b5b5a",
+    "properties": {
+      "Damage": "160-197",
+      "APS": "1.6",
+      "DPS": "256-315"
+    },
+    "stats": [
+      "+[280-310]% Enhanced Damage",
+      "+[1-2] to All Skills",
+      "+[20-30]% Increased Movement Speed",
+      "+235 to Attack Rating",
+      "Replenish Life [10-15]%",
+      "Physical Damage Taken Reduced by 10%",
+      "+25 to Life (Based on Level)",
+      "+50 to Damage (Based on Level)",
+      "+[20-30]% to All Resistances",
+      "[Fanaticism Aura] Level [8-12]",
+      "Socketed (0-4)"
+    ]
+  },
+  {
+    "name": "Jousting Lance",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Jousting_Lance.png?726fd9",
+    "properties": {
+      "Damage": "100-123",
+      "APS": "1",
+      "DPS": "100-123"
+    },
+    "stats": [
+      "12% Chance when Struck [Combat Orders] Level 10",
+      "+[210-240]% Enhanced Damage",
+      "+[3-6] to [Damage Reflect]",
+      "+20% Chance for a Crushing Blow",
+      "+20 to Vitality",
+      "+[20-25]% Faster Hit Recovery",
+      "+[70-90]% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by [5-10]%",
+      "+15% to All Resistances"
+    ]
+  },
+  {
+    "name": "Odin's Battle Spear",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Odins_Battle_Spear.png?445c50",
+    "properties": {
+      "Damage": "213-273",
+      "APS": "2.12-2.24",
+      "DPS": "452-612"
+    },
+    "stats": [
+      "8% Chance when Striking [Vengeance] Level 14",
+      "+[280-340]% Enhanced Damage",
+      "+[25-32]% Increased Attack Speed",
+      "+[245-300] to Attack Rating",
+      "+[7-10]% Life stolen per Hit",
+      "+[850-975] to Additive Arcane Damage",
+      "+15% of Damage Taken goes to Mana",
+      "+200 to Damage (Based on Level)",
+      "+25% to All Resistances",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Lancer's Glory",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Lancers_Glory.png?67362d",
+    "properties": {
+      "Damage": "194-250",
+      "APS": "2.08-2.56",
+      "DPS": "402-640"
+    },
+    "stats": [
+      "+[360-400]% Enhanced Damage",
+      "+40% Increased Movement Speed",
+      "+[30-60]% Increased Attack Speed",
+      "+825 to Attack Rating",
+      "+40% of target Defense ignored",
+      "+20% Chance to Open Wounds",
+      "+40 to Strength",
+      "Attack Damage increased by [25-40]%"
+    ]
+  },
+  {
+    "name": "Champion's Flag Lance",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 63,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Champions_Flag_Lance.png?ddc261",
+    "properties": {
+      "Damage": "230-346",
+      "APS": "1.14",
+      "DPS": "262-394"
+    },
+    "stats": [
+      "+[410-540]% Enhanced Damage",
+      "+[1-3] to All Skills",
+      "+[4-8] to [Honed Defenses]",
+      "+30% Increased Movement Speed",
+      "+15 to Vitality",
+      "+30 to Armor",
+      "-[15-30]% to Enemy Arcane Resistance",
+      "+[50-75]% Faster Hit Recovery",
+      "+125% Defense vs Missiles",
+      "+[75-125]% of Damage Returned to the Attacker",
+      "+525 to Life (Based on Level)"
+    ]
+  },
+  {
+    "name": "Death's Scythe",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 66,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Deaths_Scythe.png?52c58b",
+    "properties": {
+      "Damage": "396-468",
+      "APS": "1.89-2.43",
+      "DPS": "749-1138"
+    },
+    "stats": [
+      "+[450-500]% Enhanced Damage",
+      "+[20-30]% Increased Movement Speed",
+      "+[40-80]% Increased Attack Speed",
+      "+[1225-1350] to Attack Rating",
+      "+25 to Vitality",
+      "+[2275-3000] to Additive Cold Damage"
+    ]
+  },
+  {
+    "name": "Dark Knight's Lance",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Dark_Knights_Lance.png?a53ceb",
+    "properties": {
+      "Damage": "312-363",
+      "APS": "1.79-2.7",
+      "DPS": "559-981"
+    },
+    "stats": [
+      "10% Chance when Striking [Lance Thrust] Level 25",
+      "+[420-450]% Enhanced Damage",
+      "+[20-80]% Increased Attack Speed",
+      "+20% Chance for a Crushing Blow",
+      "+5% Increased Attack Rating",
+      "+[1240-1460] to Additive Physical Damage",
+      "+35% of target Defense ignored",
+      "+[10-15] to Strength",
+      "+20% to All Resistances"
+    ]
+  },
+  {
+    "name": "Brimskull Trident",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Brimskull_Trident.png?d52e8e",
+    "properties": {
+      "Damage": "634-780",
+      "APS": "1.81-2.47",
+      "DPS": "1147-1927"
+    },
+    "stats": [
+      "25% Chance when Striking [Bone Spear] Level 78",
+      "+[620-680]% Enhanced Damage",
+      "+[10-50]% Increased Attack Speed",
+      "+[2000-3250] to Additive Physical Damage",
+      "+35 to Strength",
+      "Attacks can hit multiple enemies",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Shadow Carver",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_Shadow_Carver.png?e2fa85",
+    "properties": {
+      "Damage": "594-735",
+      "APS": "1.79",
+      "DPS": "1064-1316"
+    },
+    "stats": [
+      "20% Chance when Striking [Slice of Shadows] Level 29",
+      "8% Chance when Attacking [Reaping Throw] Level 3",
+      "+[575-635]% Enhanced Damage",
+      "+[1-3] to [Reaper's Culling]",
+      "+50% Increased Attack Speed",
+      "+[10-15]% Life stolen per Hit",
+      "+25% Chance to Open Wounds",
+      "+[40-60] to Strength",
+      "+20 to Vitality",
+      "+[2150-2375] to Additive Arcane Damage",
+      "-15% to All Enemy Resistances",
+      "+12 Life After each Kill",
+      "Unbreakable",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "St. Draxis' Pigstick",
+    "category": "Weapons",
+    "type": "Polearms",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Polearm_St._Draxis_Pigstick.png?a7fb4c",
+    "properties": {
+      "Damage": "660-902",
+      "APS": "3.05-3.23",
+      "DPS": "2013-2914"
+    },
+    "stats": [
+      "18% Chance when Attacking [Lance Thrust] Level 98",
+      "+[725-925]% Enhanced Damage",
+      "+4 to All Skills",
+      "+[65-75]% Increased Attack Speed",
+      "+[30-50]% Chance for a Deadly Blow",
+      "+35% Increased Attack Rating",
+      "+55 to Vitality",
+      "+55 to Armor",
+      "+[1000-1250]% of Damage Returned to the Attacker",
+      "Attacks can hit multiple enemies",
+      "Socketed (5)"
+    ]
+  }
+]

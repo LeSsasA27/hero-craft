@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Spellshard",
+    "category": "Weapons",
+    "type": "Spellblades",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 56,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Spellblade_Spellshard.png?39a059",
+    "properties": {
+      "Damage": "32-36",
+      "APS": "2.1-2.44",
+      "DPS": "68-88"
+    },
+    "stats": [
+      "+[20-30]% Faster Cast Rate",
+      "+[20-40]% Increased Attack Speed",
+      "+[480-490] to Attack Rating",
+      "+[8-16] Mana per second",
+      "+[550-670] to Arcane Skill Damage",
+      "+[10-15]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Wormclaw",
+    "category": "Weapons",
+    "type": "Spellblades",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 63,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Spellblade_Wormclaw.png?c1e4cd",
+    "properties": {
+      "Damage": "32-36",
+      "APS": "1.75",
+      "DPS": "56-63"
+    },
+    "stats": [
+      "+[80-90] to Attack Rating",
+      "+[3-8]% Life stolen per Hit",
+      "+[550-670] to Additive Poison Damage",
+      "Poison Skill Damage increased by 20%",
+      "-[50-60]% to Enemy Poison Resistance"
+    ]
+  },
+  {
+    "name": "Dragon's Breath",
+    "category": "Weapons",
+    "type": "Spellblades",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Spellblade_Dragons_Breath.png?b950ad",
+    "properties": {
+      "Damage": "48-54",
+      "APS": "2.25",
+      "DPS": "108-122"
+    },
+    "stats": [
+      "15% Chance when Striking [Breath of Fire] Level 59",
+      "+50% Increased Attack Speed",
+      "+640 to Attack Rating",
+      "+[4-8]% Mana stolen per Hit",
+      "+[640-760] to Fire Skill Damage",
+      "Fire Skill Damage increased by [15-35]%",
+      "+[30-40]% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Hypothermia",
+    "category": "Weapons",
+    "type": "Spellblades",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Spellblade_Hypothermia.png?d0a6ea",
+    "properties": {
+      "Damage": "348-448",
+      "APS": "1.9",
+      "DPS": "660-852"
+    },
+    "stats": [
+      "8% Chance when Striking [Torrent] Level 68",
+      "5% Chance when Casting [Frozen Hide] Level 72",
+      "+[520-600]% Enhanced Damage",
+      "+[3-6] to Cold Skills",
+      "+[30-40]% Faster Cast Rate",
+      "+[8-12] Mana per second",
+      "+[3000-3400] to Additive Cold Damage",
+      "+[45-60] to Cold Skill Damage",
+      "+75% to Cold Resistance",
+      "Cannot be Frozen"
+    ]
+  }
+]

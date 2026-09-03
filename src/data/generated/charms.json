@@ -1,0 +1,1039 @@
+[
+  {
+    "name": "Crow's Feather",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 1,
+    "image": "https://herosiege.wiki.gg/images/Charms_Crows_Feather.png?533d4e",
+    "properties": {},
+    "stats": [
+      "+15% Increased Movement Speed",
+      "+5 to All Attributes",
+      "+5% to All Resistances"
+    ]
+  },
+  {
+    "name": "Viking's Glyphed Rune",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 60,
+    "image": "https://herosiege.wiki.gg/images/Charms_Vikings_Glyphed_Rune.png?d85b66",
+    "properties": {},
+    "stats": [
+      "+[25-50]% Enhanced Damage",
+      "Attack Damage increased by [15-35]%",
+      "Physical Damage Taken Reduced by value1%"
+    ]
+  },
+  {
+    "name": "Beetle of Life",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 60,
+    "image": "https://herosiege.wiki.gg/images/Charms_Beetle_of_Life.png?f2b484",
+    "properties": {},
+    "stats": [
+      "+[10-15] to Vitality",
+      "Replenish Life 8%",
+      "+[45-70] to Life",
+      "+[5-10] Life After each Kill",
+      "Life Increased by [5-10]%"
+    ]
+  },
+  {
+    "name": "Aztec Coin",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 61,
+    "image": "https://herosiege.wiki.gg/images/Charms_Aztec_Coin.png?c87d74",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Light Radius",
+      "+[30-50]% to Poison Resistance",
+      "+[3-5]% to Maximum Poison Resist",
+      "+[5-10]% Extra Gold Dropped From Kills",
+      "Poison Length Reduced by 25%"
+    ]
+  },
+  {
+    "name": "Raider's Torch",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 61,
+    "image": "https://herosiege.wiki.gg/images/Charms_Raiders_Torch.png?cc59e9",
+    "properties": {},
+    "stats": [
+      "+[10-25]% Increased Attack Speed",
+      "Attack Damage increased by [8-20]%",
+      "+[3-5] to Light Radius"
+    ]
+  },
+  {
+    "name": "Satan's Chalice",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Charms_Satans_Chalice.png?181a85",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Fire Skills",
+      "+[5-15] to All Attributes",
+      "+[15-45]% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Moonshard",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 63,
+    "image": "https://herosiege.wiki.gg/images/Charms_Moonshard.png?ba6bcb",
+    "properties": {},
+    "stats": [
+      "-[15-35]% to Enemy Arcane Resistance",
+      "-75% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Adventurer's Quiver",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Charms_Adventurers_Quiver.png?a1ea6c",
+    "properties": {},
+    "stats": [
+      "Attack Range Increased by [10-20]%",
+      "+[15-30]% Increased Attack Speed"
+    ]
+  },
+  {
+    "name": "Eye of Skadi",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Charms_Eye_of_Skadi.png?14fd9f",
+    "properties": {},
+    "stats": [
+      "-[15-35]% to Enemy Cold Resistance",
+      "-75% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Wind Token",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Charms_Wind_Token.png?95f16c",
+    "properties": {},
+    "stats": [
+      "-[15-35]% to Enemy Lightning Resistance",
+      "-75% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Apple of Evolution",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Charms_Apple_of_Evolution.png?19f767",
+    "properties": {},
+    "stats": [
+      "-[15-35]% to Enemy Poison Resistance",
+      "-75% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Witches Claw",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Charms_Witches_Claw.png?232ddd",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "+[3-6]% Mana stolen per Hit",
+      "+[13-20] Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Solar Charm",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 67,
+    "image": "https://herosiege.wiki.gg/images/Charms_Solar_Charm.png?bc79c9",
+    "properties": {},
+    "stats": [
+      "-[15-35]% to Enemy Fire Resistance",
+      "-75% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Bag of Unknown Riches",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Charms_Bag_of_Unknown_Riches.png?1da100",
+    "properties": {},
+    "stats": [
+      "+[8-15]% Extra Gold Dropped From Kills",
+      "+[25-40]% Increased Magic Find",
+      "+[1-5]% Increased Experience Gain",
+      "+[1-5]% Decreased Merchant Prices"
+    ]
+  },
+  {
+    "name": "Annihilator",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 72,
+    "image": "https://herosiege.wiki.gg/images/Charms_Annihilator.png?cd5a61",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "+[20-35] to All Attributes",
+      "+[25-40]% to All Resistances",
+      "+[5-10]% Increased Experience Gain"
+    ]
+  },
+  {
+    "name": "Spine Trophy",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Charms_Spine_Trophy.png?a1419c",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Physical Skills",
+      "+8% Chance for a Deadly Blow",
+      "+[4-8]% Increased Attack Rating",
+      "+[8-15] to Dexterity"
+    ]
+  },
+  {
+    "name": "Jack's Pumpkin Spice",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 75,
+    "image": "https://herosiege.wiki.gg/images/Charms_Jacks_Pumpkin_Spice.png?d9f80c",
+    "properties": {},
+    "stats": [
+      "+[15-30] to Vitality",
+      "Explosion area of effect increased by [5-10]%",
+      "+[10-20] Life After each Kill"
+    ]
+  },
+  {
+    "name": "Mark of the Black Knight",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 77,
+    "image": "https://herosiege.wiki.gg/images/Charms_Mark_of_the_Black_Knight.png?7943ce",
+    "properties": {},
+    "stats": [
+      "+[8-20]% Chance for a Deadly Blow",
+      "+[8-15]% Chance for a Crushing Blow",
+      "+[4-8]% Life stolen per Hit"
+    ]
+  },
+  {
+    "name": "Cold Giant's Charm",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 77,
+    "image": "https://herosiege.wiki.gg/images/Charms_Cold_Giants_Charm.png?2eaf96",
+    "properties": {},
+    "stats": [
+      "Cold Skill Damage increased by [7-20]%",
+      "-[3-10]% to Enemy Cold Resistance"
+    ]
+  },
+  {
+    "name": "Hardened Steel Defender",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 81,
+    "image": "https://herosiege.wiki.gg/images/Charms_Hardened_Steel_Defender.png?d4d863",
+    "properties": {},
+    "stats": [
+      "+[25-40] to Armor",
+      "Life Increased by [10-15]%"
+    ]
+  },
+  {
+    "name": "Shrunken Head",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 83,
+    "image": "https://herosiege.wiki.gg/images/Charms_Shrunken_Head.png?2af2cd",
+    "properties": {},
+    "stats": [
+      "+[7-20] to Poison Skill Damage",
+      "-[3-10]% to Enemy Poison Resistance"
+    ]
+  },
+  {
+    "name": "Anubis' Ankh Charm",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Charms_Anubis_Ankh_Charm.png?9083b2",
+    "properties": {},
+    "stats": [
+      "Replenish Life [15-35]%",
+      "+[330-380] to Life",
+      "Life Increased by [7-15]%"
+    ]
+  },
+  {
+    "name": "Plague Shot",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Charms_Plague_Shot.png?7c14a3",
+    "properties": {},
+    "stats": [
+      "+[4-12] to [Booster Shot]"
+    ]
+  },
+  {
+    "name": "Sassy's Dislocated Foot",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Sassys_Dislocated_Foot.png?87fbb8",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "+[3-5] to Poison Skills",
+      "+[6-20] to [Poison Nova]",
+      "-20% Increased Movement Speed",
+      "-[5-10]% to Enemy Poison Resistance",
+      "Poison Length Reduced by 50%"
+    ]
+  },
+  {
+    "name": "Hello its me, Steve!",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 56,
+    "image": "https://herosiege.wiki.gg/images/Charms_Hello_its_me%2C_Steve%21.png?18d7ea",
+    "properties": {},
+    "stats": [
+      "+[12-25] to All Attributes"
+    ]
+  },
+  {
+    "name": "Barrel of Explosives",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "SS",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Charms_Barrel_of_Explosives.png?111fad",
+    "properties": {},
+    "stats": [
+      "Explosion Damage increased by [15-40]%"
+    ]
+  },
+  {
+    "name": "The Detonator",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "SS",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Charms_The_Detonator.png?79797d",
+    "properties": {},
+    "stats": [
+      "+[3-8] to Explosion Skills"
+    ]
+  },
+  {
+    "name": "Death Lord's Zombie Head",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Charms_Death_Lords_Zombie_Head.png?1bf5bd",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Heart of Agony",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Charms_Heart_of_Agony.png?847f69",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Redneck's Keychain",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Charms_Rednecks_Keychain.png?975fd6",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Aztec Devil",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Charms_Aztec_Devil.png?9e59e1",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Damien's Cage",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Charms_Damiens_Cage.png?3e3ffe",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Arcane Skills",
+      "+[10-35] to Intelligence",
+      "+[20-45]% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Marksman's Quiver",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 66,
+    "image": "https://herosiege.wiki.gg/images/Charms_Marksmans_Quiver.png?e6e3b7",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Doctor's Mask in a Jar",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 67,
+    "image": "https://herosiege.wiki.gg/images/Charms_Doctors_Mask_in_a_Jar.png?e8aa77",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Pirate Captain's Flag",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Charms_Pirate_Captains_Flag.png?311d15",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Sacred Owl",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Charms_Sacred_Owl.png?ef3774",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Flaming Coin",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 69,
+    "image": "https://herosiege.wiki.gg/images/Charms_Flaming_Coin.png?37343f",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Plunderer's Gunpowder Bag",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 72,
+    "image": "https://herosiege.wiki.gg/images/Charms_Plunderers_Gunpowder_Bag.png?23c49e",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Champion's Signet",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 73,
+    "image": "https://herosiege.wiki.gg/images/Charms_Champions_Signet.png?1a3622",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Bone Conjurer's Trophy",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Charms_Bone_Conjurers_Trophy.png?21c39e",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Zealot's Beads of Destruction",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 76,
+    "image": "https://herosiege.wiki.gg/images/Charms_Zealots_Beads_of_Destruction.png?203eb3",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Sheep King's Wool",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 77,
+    "image": "https://herosiege.wiki.gg/images/Charms_Sheep_Kings_Wool.png?e38e60",
+    "properties": {},
+    "stats": [
+      "+[8-15] to All Attributes",
+      "Magic Skill Damage increased by [5-10]%"
+    ]
+  },
+  {
+    "name": "Engineer's Mini Drone",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Charms_Engineers_Mini_Drone.png?407518",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Random Skill"
+    ]
+  },
+  {
+    "name": "Abomination's Eye",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "SS",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Charms_Abominations_Eye.png?c9f44d",
+    "properties": {},
+    "stats": [
+      "+[15-30]% to Summon Resistances",
+      "+[5-10]% Reduced damage taken by Summons"
+    ]
+  },
+  {
+    "name": "Abomination's Brain",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "SS",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Charms_Abominations_Brain.png?f6a456",
+    "properties": {},
+    "stats": [
+      "+[10-20]% Increased Summon Attack Speed",
+      "+[10-25]% Increased Summon Movement Speed"
+    ]
+  },
+  {
+    "name": "Canopic Jar of Blood",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Charms_Canopic_Jar_of_Blood.png?322aa7",
+    "properties": {},
+    "stats": [
+      "Replenish Life [8-15]%",
+      "Life Increased by [3-6]%"
+    ]
+  },
+  {
+    "name": "Traveler's Map Journal",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 89,
+    "image": "https://herosiege.wiki.gg/images/Charms_Travelers_Map_Journal.png?b9d5bb",
+    "properties": {},
+    "stats": [
+      "+[10-20]% Increased Movement Speed",
+      "+[4-8] to All Attributes",
+      "+[5-10]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Sundial of Ancient Worlds",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 91,
+    "image": "https://herosiege.wiki.gg/images/Charms_Sundial_of_Ancient_Worlds.png?7b6e10",
+    "properties": {},
+    "stats": [
+      "+[5-10] to Intelligence",
+      "+[10-18] Mana After each Kill",
+      "Mana Increased by [4-8]%"
+    ]
+  },
+  {
+    "name": "Gurag's Heart Charm",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 91,
+    "image": "https://herosiege.wiki.gg/images/Charms_Gurags_Heart_Charm.png?4496cf",
+    "properties": {},
+    "stats": [
+      "+[5-8]% Increased Attack Rating",
+      "+[60-80] to Additive Physical Damage",
+      "+[15-20] to Strength"
+    ]
+  },
+  {
+    "name": "Tal's Deathskull",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Charms_Tals_Deathskull.png?e819c8",
+    "properties": {},
+    "stats": [
+      "Replenish Life [6-12]%",
+      "Replenish Mana [6-12]%",
+      "+[35-50] to Life",
+      "+[35-50] to Mana"
+    ]
+  },
+  {
+    "name": "Abomination's Heart",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Satanic Set",
+    "tier": "SS",
+    "level": 95,
+    "image": "https://herosiege.wiki.gg/images/Charms_Abominations_Heart.png?42e9e1",
+    "properties": {},
+    "stats": [
+      "+[1-3] to Summon Skills",
+      "Summon Life Increased by [4-12]%"
+    ]
+  },
+  {
+    "name": "Tablet of Awakening",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 75,
+    "image": "https://herosiege.wiki.gg/images/Charms_Tablet_of_Awakening.png?2b5404",
+    "properties": {},
+    "stats": [
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Tarethiel's Ancient Wisdom",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Charms_Tarethiels_Ancient_Wisdom.png?d57417",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "+15% Faster Cast Rate",
+      "Cooldown Recovery Increased by [15-30]%"
+    ]
+  },
+  {
+    "name": "Loaded Dice",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 99,
+    "image": "https://herosiege.wiki.gg/images/Charms_Loaded_Dice.png?af6020",
+    "properties": {},
+    "stats": [
+      "+[1-2] to All Skills",
+      "+[2-6] to [Random Class Skill]"
+    ]
+  },
+  {
+    "name": "Torch of Shadows",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Torch_of_Shadows.png?9dd6b0",
+    "properties": {},
+    "stats": [
+      "5% Chance when Striking [Shadowflames] Level 1",
+      "+[1-3] to All Skills",
+      "+[20-30] to All Attributes",
+      "+8 to Light Radius",
+      "+[10-20]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Torstein's Anvil",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Torsteins_Anvil.png?77437e",
+    "properties": {},
+    "stats": [
+      "+1 to All Skills",
+      "+1 to [The Shop is Open]",
+      "+[5-10] to All Attributes",
+      "+[5-10]% to All Resistances",
+      "+[8-15]% Extra Gold Dropped From Kills"
+    ]
+  },
+  {
+    "name": "Eye of Rakhul",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Eye_of_Rakhul.png?bb2f2a",
+    "properties": {},
+    "stats": [
+      "+[3-8] to [Combat Orders]",
+      "+[12-20] to Vitality",
+      "+20 to Armor",
+      "+60% Defense vs Missiles",
+      "+4 to Light Radius"
+    ]
+  },
+  {
+    "name": "Chaos Gemstone",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Chaos_Gemstone.png?748643",
+    "properties": {},
+    "stats": [
+      "+[1-2] to All Skills",
+      "Unholy Stat",
+      "Unholy Stat",
+      "Unholy Stat"
+    ]
+  },
+  {
+    "name": "Gas Canister",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Gas_Canister.png?32fd86",
+    "properties": {},
+    "stats": [
+      "8% Chance when Casting [Fuel the Flames!!] Level 3",
+      "+[2-5] to Fire Skills",
+      "+[5-10] to [Oil Spill]"
+    ]
+  },
+  {
+    "name": "Fulgurite",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Fulgurite.png?2d6933",
+    "properties": {},
+    "stats": [
+      "+[1-2] to All Skills",
+      "+[1-15] to All Attributes",
+      "Magic Skill Damage increased by [5-35]%",
+      "+[3-20]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Lilith's Wrath",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Liliths_Wrath.png?c601de",
+    "properties": {},
+    "stats": [
+      "8% Chance when Struck [Agony of Souls] Level 1",
+      "Extra Damage to Burning Monsters [5-10]%",
+      "Fire Skill Damage increased by [15-40]%",
+      "Explosion area of effect increased by [5-15]%"
+    ]
+  },
+  {
+    "name": "Finger of Despair",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Finger_of_Despair.png?47b191",
+    "properties": {},
+    "stats": [
+      "+3 to All Skills",
+      "Unholy Stat",
+      "Unholy Stat",
+      "Unholy Stat",
+      "+[25-50] to All Attributes",
+      "-50% to All Resistances",
+      "-10% to Maximum All Resists",
+      "Unbreakable"
+    ]
+  },
+  {
+    "name": "Sobek's Fall",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Sobeks_Fall.png?568093",
+    "properties": {},
+    "stats": [
+      "5% Chance when Casting [Shade of Sobek] Level 1",
+      "+3 to Arcane Skills",
+      "Summon Damage Increased by [50-75]%",
+      "+8 to Light Radius",
+      "Poison Length Reduced by 50%",
+      "Unbreakable"
+    ]
+  },
+  {
+    "name": "Arcane Pumpkin",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Charms_Arcane_Pumpkin.png?bb480e",
+    "properties": {},
+    "stats": [
+      "+[4-6] to Arcane Skills",
+      "+1337 to Additive Arcane Damage",
+      "+1337 to Arcane Skill Damage",
+      "Arcane Skill Damage increased by [15-25]%",
+      "+[40-50]% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Fire Melon",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Charms_Fire_Melon.png?333877",
+    "properties": {},
+    "stats": [
+      "+[4-6] to Fire Skills",
+      "+1337 to Additive Fire Damage",
+      "+1337 to Fire Skill Damage",
+      "Fire Skill Damage increased by [15-25]%",
+      "+[40-50]% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Earth Melon",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Charms_Earth_Melon.png?4d5cfc",
+    "properties": {},
+    "stats": [
+      "+[4-6] to Physical Skills",
+      "+2750 to Additive Physical Damage",
+      "Attack Damage increased by [20-30]%",
+      "+[10-20]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Water Melon",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Charms_Water_Melon.png?22b551",
+    "properties": {},
+    "stats": [
+      "+[4-6] to Cold Skills",
+      "+1337 to Additive Cold Damage",
+      "+1337 to Cold Skill Damage",
+      "Cold Skill Damage increased by [15-25]%",
+      "+[15-20]% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Air Melon",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Charms_Air_Melon.png?65c855",
+    "properties": {},
+    "stats": [
+      "+[4-6] to Lightning Skills",
+      "+1337 to Additive Lightning Damage",
+      "+1337 to Lightning Skill Damage",
+      "Lightning Skill Damage increased by [15-25]%",
+      "+[40-50]% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Rotten Pumpkin",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Charms_Rotten_Pumpkin.png?c452de",
+    "properties": {},
+    "stats": [
+      "+[4-6] to Poison Skills",
+      "+1337 to Additive Poison Damage",
+      "+1337 to Poison Skill Damage",
+      "Poison Skill Damage increased by [15-25]%",
+      "+[40-50]% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Reverse Card",
+    "category": "Special Items",
+    "type": "Charms",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Charms_Reverse_Card.png?6186c0",
+    "properties": {},
+    "stats": [
+      "+[1-5] to [Throw Card]",
+      "+1 to Projectile Speed",
+      "+15 to All Attributes",
+      "Piercing Attack"
+    ]
+  }
+]

@@ -1,0 +1,2451 @@
+[
+  {
+    "name": "Barbed Shield",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Barbed_Shield.png?700de3",
+    "properties": {
+      "Value Level 1": "+10% of Damage Returned to the Attacker",
+      "Value Level 5": "+60% of Damage Returned to the Attacker",
+      "Value Level 10": "+200% of Damage Returned to the Attacker"
+    },
+    "stats": []
+  },
+  {
+    "name": "Bonsai Tree",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Bonsai_Tree.png/30px-Relics_Bonsai_Tree.png?a82b2a",
+    "properties": {
+      "Value Level 1": "+2 to Vitality +2% Increased Magic Find",
+      "Value Level 5": "+10 to Vitality +10% Increased Magic Find",
+      "Value Level 10": "+20 to Vitality +20% Increased Magic Find"
+    },
+    "stats": []
+  },
+  {
+    "name": "Bracer of Life",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Bracer_of_Life.png?b0eae6",
+    "properties": {
+      "Value Level 1": "Replenish Life 5%",
+      "Value Level 5": "Replenish Life 25%",
+      "Value Level 10": "Replenish Life 50%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Butterfly Knife",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Butterfly_Knife.png/30px-Relics_Butterfly_Knife.png?775b8e",
+    "properties": {
+      "Value Level 1": "+2% Increased Attack Speed +2% Increased Critical Strike Damage",
+      "Value Level 5": "+10% Increased Attack Speed +10% Increased Critical Strike Damage",
+      "Value Level 10": "+20% Increased Attack Speed +20% Increased Critical Strike Damage"
+    },
+    "stats": []
+  },
+  {
+    "name": "Cake",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Cake.png/30px-Relics_Cake.png?da74d1",
+    "properties": {
+      "Value Level 1": "Life Increased by 2%",
+      "Value Level 5": "Life Increased by 10%",
+      "Value Level 10": "Life Increased by 20%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Charmed Blood",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Charmed_Blood.png?828f6d",
+    "properties": {
+      "Value Level 1": "+1% Life stolen per Hit",
+      "Value Level 5": "+5% Life stolen per Hit",
+      "Value Level 10": "+10% Life stolen per Hit"
+    },
+    "stats": []
+  },
+  {
+    "name": "Cheese Burger",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Cheese_Burger.png/30px-Relics_Cheese_Burger.png?24bf6b",
+    "properties": {
+      "Value Level 1": "Replenish Life 5% +25 to Life",
+      "Value Level 5": "Replenish Life 25% +245 to Life",
+      "Value Level 10": "Replenish Life 50% +580 to Life"
+    },
+    "stats": []
+  },
+  {
+    "name": "Commander's Sword",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Commander%27s_Sword.png/23px-Relics_Commander%27s_Sword.png?de7460",
+    "properties": {
+      "Value Level 1": "-2% Increased Movement Speed Attack Damage increased by 10%",
+      "Value Level 5": "-10% Increased Movement Speed Attack Damage increased by 50%",
+      "Value Level 10": "-20% Increased Movement Speed Attack Damage increased by 100%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Cookies & Milk",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Cookies_%26_Milk.png?c7a6ea",
+    "properties": {
+      "Value Level 1": "Replenish Life 3% Replenish Mana 3%",
+      "Value Level 5": "Replenish Life 15% Replenish Mana 15%",
+      "Value Level 10": "Replenish Life 30% Replenish Mana 30%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Damned Buckler",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Damned_Buckler.png?a5538f",
+    "properties": {
+      "Value Level 1": "+5 to Armor +2% Faster Hit Recovery",
+      "Value Level 5": "+16 to Armor +10% Faster Hit Recovery",
+      "Value Level 10": "+32 to Armor +20% Faster Hit Recovery"
+    },
+    "stats": []
+  },
+  {
+    "name": "Dirge",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Dirge.png/30px-Relics_Dirge.png?b5e90e",
+    "properties": {
+      "Value Level 1": "+12 to Attack Rating +8 to Additive Physical Damage",
+      "Value Level 5": "+110 to Attack Rating +128 to Additive Physical Damage",
+      "Value Level 10": "+475 to Attack Rating +1896 to Additive Physical Damage"
+    },
+    "stats": []
+  },
+  {
+    "name": "Doom Flute",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Doom_Flute.png/30px-Relics_Doom_Flute.png?c6b333",
+    "properties": {
+      "Value Level 1": "+4 to Strength +4 to Dexterity",
+      "Value Level 5": "+12 to Strength +12 to Dexterity",
+      "Value Level 10": "+22 to Strength +22 to Dexterity"
+    },
+    "stats": []
+  },
+  {
+    "name": "Fortune Card",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Fortune_Card.png?64d912",
+    "properties": {
+      "Value Level 1": "+3% Extra Gold Dropped From Kills +3% Increased Magic Find",
+      "Value Level 5": "+15% Extra Gold Dropped From Kills +15% Increased Magic Find",
+      "Value Level 10": "+30% Extra Gold Dropped From Kills +30% Increased Magic Find"
+    },
+    "stats": []
+  },
+  {
+    "name": "Half Eaten Mochi",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Half_Eaten_Mochi.png?4d1790",
+    "properties": {
+      "Value Level 1": "+3 Life After each Kill +3 Mana After each Kill",
+      "Value Level 5": "+11 Life After each Kill +11 Mana After each Kill",
+      "Value Level 10": "+21 Life After each Kill +21 Mana After each Kill"
+    },
+    "stats": []
+  },
+  {
+    "name": "Hand of Midas",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Hand_of_Midas.png?27d727",
+    "properties": {
+      "Value Level 1": "+4% Extra Gold Dropped From Kills",
+      "Value Level 5": "+20% Extra Gold Dropped From Kills",
+      "Value Level 10": "+40% Extra Gold Dropped From Kills"
+    },
+    "stats": []
+  },
+  {
+    "name": "Hand Scythe",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Hand_Scythe.png/23px-Relics_Hand_Scythe.png?df2365",
+    "properties": {
+      "Value Level 1": "+3% Increased Attack Speed +2% Increased Attack Rating",
+      "Value Level 5": "+15% Increased Attack Speed +10% Increased Attack Rating",
+      "Value Level 10": "+30% Increased Attack Speed +20% Increased Attack Rating"
+    },
+    "stats": []
+  },
+  {
+    "name": "Hellscream Axe",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Hellscream_Axe.png/28px-Relics_Hellscream_Axe.png?d5d277",
+    "properties": {
+      "Value Level 1": "+8 to Additive Physical Damage +8 to Additive Fire Damage",
+      "Value Level 5": "+128 to Additive Physical Damage +128 to Additive Fire Damage",
+      "Value Level 10": "+1696 to Additive Physical Damage +1696 to Additive Fire Damage"
+    },
+    "stats": []
+  },
+  {
+    "name": "Horned Mask",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Horned_Mask.png?3cd061",
+    "properties": {
+      "Value Level 1": "+2% of Damage Returned to the Attacker Physical Damage Taken Reduced by 1%",
+      "Value Level 5": "+10% of Damage Returned to the Attacker Physical Damage Taken Reduced by 5%",
+      "Value Level 10": "+20% of Damage Returned to the Attacker Physical Damage Taken Reduced by 10%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Jefre's Subscription",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Jefre%27s_Subscription.png/29px-Relics_Jefre%27s_Subscription.png?b2e3d8",
+    "properties": {
+      "Value Level 1": "+1 to Light Radius +3% Increased Magic Find",
+      "Value Level 5": "+5 to Light Radius +15% Increased Magic Find",
+      "Value Level 10": "+10 to Light Radius +30% Increased Magic Find"
+    },
+    "stats": []
+  },
+  {
+    "name": "King's Crown",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_King%27s_Crown.png?8c2028",
+    "properties": {
+      "Value Level 1": "+3% Extra Gold Dropped from Kills",
+      "Value Level 5": "+18% Extra Gold Dropped from Kills",
+      "Value Level 10": "+35% Extra Gold Dropped from Kills"
+    },
+    "stats": []
+  },
+  {
+    "name": "Light Katana",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Light_Katana.png/30px-Relics_Light_Katana.png?3c9de1",
+    "properties": {
+      "Value Level 1": "+4% Increased Attack Speed",
+      "Value Level 5": "+20% Increased Attack Speed",
+      "Value Level 10": "+40% Increased Attack Speed"
+    },
+    "stats": []
+  },
+  {
+    "name": "Lost Wand",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Lost_Wand.png/30px-Relics_Lost_Wand.png?8b6148",
+    "properties": {
+      "Value Level 1": "+4% Faster Cast Rate +5 to Energy",
+      "Value Level 5": "+20% Faster Cast Rate +25 to Energy",
+      "Value Level 10": "+40% Faster Cast Rate +50 to Energy"
+    },
+    "stats": []
+  },
+  {
+    "name": "Magic Mushroom",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Magic_Mushroom.png?db5c6f",
+    "properties": {
+      "Value Level 1": "+3 to All Attributes",
+      "Value Level 5": "+15 to All Attributes",
+      "Value Level 10": "+30 to All Attributes"
+    },
+    "stats": []
+  },
+  {
+    "name": "Mayo's Old Sock",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Mayo%27s_Old_Sock.png/24px-Relics_Mayo%27s_Old_Sock.png?e90b2b",
+    "properties": {
+      "Value Level 1": "+2 to Vitality +10 to Life",
+      "Value Level 5": "+10 to Vitality +110 to Life",
+      "Value Level 10": "+20 to Vitality +600 to Life"
+    },
+    "stats": []
+  },
+  {
+    "name": "Monkey King Bar",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Monkey_King_Bar.png/30px-Relics_Monkey_King_Bar.png?bea469",
+    "properties": {
+      "Value Level 1": "+3% Increased Movement Speed Attack Damage increased by 2%",
+      "Value Level 5": "+15% Increased Movement Speed Attack Damage increased by 10%",
+      "Value Level 10": "+30% Increased Movement Speed Attack Damage increased by 20%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Newt Tail",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Newt_Tail.png/30px-Relics_Newt_Tail.png?ecd614",
+    "properties": {
+      "Value Level 1": "+3% Increased Movement Speed +2% Increased Magic Find",
+      "Value Level 5": "+15% Increased Movement Speed +10% Increased Magic Find",
+      "Value Level 10": "+30% Increased Movement Speed +20% Increased Magic Find"
+    },
+    "stats": []
+  },
+  {
+    "name": "Nunchucks",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Nunchucks.png/30px-Relics_Nunchucks.png?8115d6",
+    "properties": {
+      "Value Level 1": "+3% Increased Attack Speed +3% Increased Critical Strike Damage",
+      "Value Level 5": "+15% Increased Attack Speed +15% Increased Critical Strike Damage",
+      "Value Level 10": "+30% Increased Attack Speed +30% Increased Critical Strike Damage"
+    },
+    "stats": []
+  },
+  {
+    "name": "Odd Book of Spells",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Odd_Book_of_Spells.png/30px-Relics_Odd_Book_of_Spells.png?6d253d",
+    "properties": {
+      "Value Level 1": "Magic Skill Damage increased by 1%",
+      "Value Level 5": "Magic Skill Damage increased by 5%",
+      "Value Level 10": "Magic Skill Damage increased by 10%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Razer Blade",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Razer_Blade.png/30px-Relics_Razer_Blade.png?7f5a1d",
+    "properties": {
+      "Value Level 1": "+5% Increased Critical Strike Damage",
+      "Value Level 5": "+25% Increased Critical Strike Damage",
+      "Value Level 10": "+50% Increased Critical Strike Damage"
+    },
+    "stats": []
+  },
+  {
+    "name": "Rock Belt",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Rock_Belt.png/30px-Relics_Rock_Belt.png?be4696",
+    "properties": {
+      "Value Level 1": "+3% Increased Movement Speed +3 to Strength",
+      "Value Level 5": "+15% Increased Movement Speed +15 to Strength",
+      "Value Level 10": "+30% Increased Movement Speed +30 to Strength"
+    },
+    "stats": []
+  },
+  {
+    "name": "Sausage",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Sausage.png/24px-Relics_Sausage.png?cf1a68",
+    "properties": {
+      "Value Level 1": "Life Increased by 1% Mana Increased by 1%",
+      "Value Level 5": "Life Increased by 5% Mana Increased by 5%",
+      "Value Level 10": "Life Increased by 10% Mana Increased by 10%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Skull Axe",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Skull_Axe.png/24px-Relics_Skull_Axe.png?e6d363",
+    "properties": {
+      "Value Level 1": "+10 to Attack Rating +4 to Strength",
+      "Value Level 5": "+80 to Attack Rating +20 to Strength",
+      "Value Level 10": "+250 to Attack Rating +40 to Strength"
+    },
+    "stats": []
+  },
+  {
+    "name": "Spirit Skull",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Spirit_Skull.png?2e9296",
+    "properties": {
+      "Value Level 1": "+3 to Strength +3 to Vitality",
+      "Value Level 5": "+15 to Strength +15 to Vitality",
+      "Value Level 10": "+30 to Strength +30 to Vitality"
+    },
+    "stats": []
+  },
+  {
+    "name": "Steam Sale",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Steam_Sale.png/30px-Relics_Steam_Sale.png?75bea0",
+    "properties": {
+      "Value Level 1": "+1% Decreased Merchant Prices",
+      "Value Level 5": "+5% Decreased Merchant Prices",
+      "Value Level 10": "+10% Decreased Merchant Prices"
+    },
+    "stats": []
+  },
+  {
+    "name": "Stigmata",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Stigmata.png/21px-Relics_Stigmata.png?30e27e",
+    "properties": {
+      "Value Level 1": "Mana Costs decreased by 3% Replenish Mana 1%",
+      "Value Level 5": "Mana Costs decreased by 15% Replenish Mana 5%",
+      "Value Level 10": "Mana Costs decreased by 30% Replenish Mana 10%"
+    },
+    "stats": []
+  },
+  {
+    "name": "The Amputation Kit",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_The_Amputation_Kit.png/24px-Relics_The_Amputation_Kit.png?790d6e",
+    "properties": {
+      "Value Level 1": "+5% Increased Movement Speed",
+      "Value Level 5": "+25% Increased Movement Speed",
+      "Value Level 10": "+50% Increased Movement Speed"
+    },
+    "stats": []
+  },
+  {
+    "name": "The Holy Bible",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_The_Holy_Bible.png/30px-Relics_The_Holy_Bible.png?53d2d5",
+    "properties": {
+      "Value Level 1": "+1 to All Attributes",
+      "Value Level 5": "+1 to All Skills +5 to All Attributes",
+      "Value Level 10": "+2 to All Skills +10 to All Attributes"
+    },
+    "stats": []
+  },
+  {
+    "name": "The Spoon",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_The_Spoon.png/25px-Relics_The_Spoon.png?6759da",
+    "properties": {
+      "Value Level 1": "Replenish Mana 3% +5 to Mana",
+      "Value Level 5": "Replenish Mana 15% +25 to Mana",
+      "Value Level 10": "Replenish Mana 30% +50 to Mana"
+    },
+    "stats": []
+  },
+  {
+    "name": "Token of Luck",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Token_of_Luck.png/21px-Relics_Token_of_Luck.png?65684e",
+    "properties": {
+      "Value Level 1": "+2% Increased Magic Find",
+      "Value Level 5": "+18% Increased Magic Find",
+      "Value Level 10": "+50% Increased Magic Find"
+    },
+    "stats": []
+  },
+  {
+    "name": "Triforce",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Triforce.png?a580e8",
+    "properties": {
+      "Value Level 1": "+3 to All Attributes +3% to All Resistances",
+      "Value Level 5": "+15 to All Attributes +15% to All Resistances",
+      "Value Level 10": "+30 to All Attributes +30% to All Resistances"
+    },
+    "stats": []
+  },
+  {
+    "name": "Twin Blade",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Twin_Blade.png/7px-Relics_Twin_Blade.png?eebc62",
+    "properties": {
+      "Value Level 1": "+1% Increased Critical Strike Chance +3% Increased Critical Strike Damage",
+      "Value Level 5": "+5% Increased Critical Strike Chance +15% Increased Critical Strike Damage",
+      "Value Level 10": "+10% Increased Critical Strike Chance +30% Increased Critical Strike Damage"
+    },
+    "stats": []
+  },
+  {
+    "name": "Whip",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Passive",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Whip.png/30px-Relics_Whip.png?b3ed5d",
+    "properties": {
+      "Value Level 1": "+3% Increased Attack Speed +5 to Additive Physical Damage",
+      "Value Level 5": "+15% Increased Attack Speed +25 to Additive Physical Damage",
+      "Value Level 10": "+30% Increased Attack Speed +50 to Additive Physical Damage"
+    },
+    "stats": []
+  },
+  {
+    "name": "Lottery Ticket",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance after Each Kill",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Lottery_Ticket.png/24px-Relics_Lottery_Ticket.png?64d4f4",
+    "properties": {
+      "Ability Name": "Lucky Numbers",
+      "Chance Level 1": "2%",
+      "Value Level 1": "Gold Amount: 2",
+      "Chance Level 5": "2%",
+      "Value Level 5": "Gold Amount: 10",
+      "Chance Level 10": "2%",
+      "Value Level 10": "Gold Amount: 20"
+    },
+    "stats": []
+  },
+  {
+    "name": "Assassin's Shuriken",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Attacking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Assassin%27s_Shuriken.png?475155",
+    "properties": {
+      "Ability Name": "Shruken Strike",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Arcane Damage: 135",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Arcane Damage: 5242",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Arcane Damage: 48000"
+    },
+    "stats": []
+  },
+  {
+    "name": "Devil Skull",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Attacking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Devil_Skull.png/30px-Relics_Devil_Skull.png?2e2e04",
+    "properties": {
+      "Ability Name": "Burst of Rage",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Arcane Damage: 138 Projectiles: 9",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Arcane Damage: 5265 Projectiles: 23",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Arcane Damage: 48072 Projectiles: 57"
+    },
+    "stats": []
+  },
+  {
+    "name": "Razor Leaf",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Attacking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Razor_Leaf.png?2e5030",
+    "properties": {
+      "Ability Name": "Razor Leaves",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Arcane Damage: 138",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Witch Claw",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Attacking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Witch_Claw.png/23px-Relics_Witch_Claw.png?de13f6",
+    "properties": {
+      "Ability Name": "Hexing Strike",
+      "Chance Level 1": "3%",
+      "Value Level 1": "Hex Duration: 2s",
+      "Chance Level 5": "3%",
+      "Value Level 5": "Hex Duration: 3s",
+      "Chance Level 10": "3%",
+      "Value Level 10": "Hex Duration: 4.25s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Cactus",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Casting",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Cactus.png/14px-Relics_Cactus.png?530642",
+    "properties": {
+      "Ability Name": "Spiky Plant",
+      "Chance Level 1": "12%",
+      "Value Level 1": "Poison Damage: 138",
+      "Chance Level 5": "12%",
+      "Value Level 5": "Poison Damage: 5265",
+      "Chance Level 10": "12%",
+      "Value Level 10": "Poison Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "DaPlayer's Dislocated Head",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Casting",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_DaPlayer%27s_Dislocated_Head.png/27px-Relics_DaPlayer%27s_Dislocated_Head.png?cc5730",
+    "properties": {
+      "Ability Name": "Rotting Carcas",
+      "Chance Level 1": "12%",
+      "Value Level 1": "Fire Damage: 70 Projectiles: 4",
+      "Chance Level 5": "12%",
+      "Value Level 5": "Fire Damage: 933 Projectiles: 18",
+      "Chance Level 10": "12%",
+      "Value Level 10": "Fire Damage: 5772 Projectiles: 52"
+    },
+    "stats": []
+  },
+  {
+    "name": "Mana Dice",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Casting",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Mana_Dice.png?36437b",
+    "properties": {
+      "Ability Name": "Mana Recovery",
+      "Chance Level 1": "5%",
+      "Value Level 1": "Mana Replenish: 5%",
+      "Chance Level 5": "5%",
+      "Value Level 5": "Mana Replenish: 25%",
+      "Chance Level 10": "5%",
+      "Value Level 10": "Mana Replenish: 50%"
+    },
+    "stats": []
+  },
+  {
+    "name": "The Holy Grail",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Casting",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_The_Holy_Grail.png?f60c66",
+    "properties": {
+      "Ability Name": "Heavens Light",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Healing: 3% +1 to All Attributes",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Healing: 5% +5 to All Attributes",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Healing: 7.5% +10 to All Attributes"
+    },
+    "stats": []
+  },
+  {
+    "name": "Winner's Drug",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Casting",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Winner%27s_Drug.png/30px-Relics_Winner%27s_Drug.png?9af8c3",
+    "properties": {
+      "Ability Name": "Manastream",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Arcane Damage: 2% Healing 2%",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Arcane Damage: 10% Healing 10%",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Arcane Damage: 20% Healing 20%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Amazon's Spears",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Amazon%27s_Spears.png/30px-Relics_Amazon%27s_Spears.png?cf6ecf",
+    "properties": {
+      "Ability Name": "Poisonous Hit",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Poison Damage: 51",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Poison Damage: 623",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Poison Damage: 2175"
+    },
+    "stats": []
+  },
+  {
+    "name": "Basilisk's Tooth",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Basilisk%27s_Tooth.png/12px-Relics_Basilisk%27s_Tooth.png?ab8dff",
+    "properties": {
+      "Ability Name": "Stoned",
+      "Chance Level 1": "1%",
+      "Value Level 1": "Arcane Damage: 10%",
+      "Chance Level 5": "3%",
+      "Value Level 5": "Arcane Damage: 10%",
+      "Chance Level 10": "6%",
+      "Value Level 10": "Arcane Damage: 10%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Butcher's Knife",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Butcher%27s_Knife.png/28px-Relics_Butcher%27s_Knife.png?ccdf77",
+    "properties": {
+      "Ability Name": "Meat Bomb",
+      "Ability Description": "Throw a huge lump of Meat that explodes on impact dealing Arcane Damage and leaving corpses on the ground.",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Arcane Damage: 42",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Arcane Damage: 1274",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Arcane Damage: 11152"
+    },
+    "stats": []
+  },
+  {
+    "name": "Death's Scythe Relic",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Death%27s_Scythe_Relic.png/30px-Relics_Death%27s_Scythe_Relic.png?3b0566",
+    "properties": {
+      "Ability Name": "Reaping",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Arcane Damage: 138",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Fire & Ice",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Fire_%26_Ice.png?68db14",
+    "properties": {
+      "Ability Name": "Frostburn",
+      "Chance Level 1": "5%",
+      "Value Level 1": "Fire Damage: 138 Freeze Duration: 1.1s",
+      "Chance Level 5": "5%",
+      "Value Level 5": "Fire Damage: 5265 Freeze Duration: 2.5s",
+      "Chance Level 10": "5%",
+      "Value Level 10": "Fire Damage: 48072 Freeze Duration: 5.90s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Frozen Orb",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Frozen_Orb.png?3e76da",
+    "properties": {
+      "Ability Name": "Chilling Strike",
+      "Ability Description": "Perform a chilling AOE strike dealing extra damage and freezing enemies.",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Cold Damage: 138 Freeze Duration: 1.10s",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Cold Damage: 5265 Freeze Duration: 2.5s",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Cold Damage: 48072 Freeze Duration: 5.90s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Hungering Blade of Frost",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Hungering_Blade_of_Frost.png/9px-Relics_Hungering_Blade_of_Frost.png?6b343f",
+    "properties": {
+      "Ability Name": "Breath of Ice",
+      "Ability Description": "Breathe glacial air Freezing and dealing Cold Damage to enemies.",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Cold Damage: 14 Freeze Duration: 1.20s",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Cold Damage: 398 Freeze Duration: 4s",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Cold Damage: 3410 Freeze Duration: 10.80s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Odin's Sword",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Odin%27s_Sword.png/15px-Relics_Odin%27s_Sword.png?85cd5f",
+    "properties": {
+      "Ability Name": "Divine Scorch",
+      "Ability Description": "Perform a fiery attack setting enemies on fire.",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Fire Damage: 51",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Fire Damage: 623",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Fire Damage: 2175"
+    },
+    "stats": []
+  },
+  {
+    "name": "Ogre Club",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Ogre_Club.png/25px-Relics_Ogre_Club.png?32d41e",
+    "properties": {
+      "Ability Name": "Me Smash!",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Attack Damage: 20% Stun Duration: 1s",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Attack Damage: 100% Stun Duration: 2s",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Attack Damage: 200% Stun Duration: 3.25s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Razorwire",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Razorwire.png/30px-Relics_Razorwire.png?c55a03",
+    "properties": {
+      "Ability Name": "Rupture",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Bleeding Damage: 117.25% Attack Rating: 5% Area of Effect: 10%",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Bleeding Damage: 276.25% Attack Rating: 25% Area of Effect: 20%",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Bleeding Damage: 475% Attack Rating: 50% Area of Effect: 32.50%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Rice & Chopsticks",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Rice_%26_Chopsticks.png/24px-Relics_Rice_%26_Chopsticks.png?a7d262",
+    "properties": {
+      "Ability Name": "Disarming Strike",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Disarm Duration: 2.50s",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Disarm Duration: 9.50s",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Disarm Duration: 26.50s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Storm Dagger",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Striking",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Storm_Dagger.png/30px-Relics_Storm_Dagger.png?b112e1",
+    "properties": {
+      "Ability Name": "Lightning Strike",
+      "Ability Description": "Perform a charged attack striking enemies with thunder bolts.",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Lightning Damage: 138",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Lightning Damage: 5265",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Lightning Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Devil Horn",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Struck",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Devil_Horn.png/16px-Relics_Devil_Horn.png?eb23e5",
+    "properties": {
+      "Ability Name": "Satanic Replenishment",
+      "Ability Description": "Gain increased Life Replenish for a short period!",
+      "Chance Level 1": "10%",
+      "Value Level 1": "Life Replenish by 25%",
+      "Chance Level 5": "10%",
+      "Value Level 5": "Life Replenish by 125%",
+      "Chance Level 10": "10%",
+      "Value Level 10": "Life Replenish by 250%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Dragon Shield",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Struck",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Dragon_Shield.png?4c94b6",
+    "properties": {
+      "Ability Name": "Breath of Fire",
+      "Ability Description": "Breathe burning flames dealing Fire Damage Igniting enemies struck on fire.",
+      "Chance Level 1": "10%",
+      "Value Level 1": "Fire Damage: 15 Burning Damage: 32.50%",
+      "Chance Level 5": "10%",
+      "Value Level 5": "Fire Damage: 451 Burning Damage: 67.50%",
+      "Chance Level 10": "10%",
+      "Value Level 10": "Fire Damage: 3958 Burning Damage: 152.50%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Helm of Chaos",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Struck",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Helm_of_Chaos.png/30px-Relics_Helm_of_Chaos.png?93c053",
+    "properties": {
+      "Ability Name": "Odin's Fury",
+      "Ability Description": "Powerful warcry which deals Arcane Damage and Stuns enemies around you.",
+      "Chance Level 1": "5%",
+      "Value Level 1": "Arcane Damage: 28 Stun Duration: 1.1s",
+      "Chance Level 5": "5%",
+      "Value Level 5": "Arcane Damage: 803 Stun Duration: 2.5s",
+      "Chance Level 10": "5%",
+      "Value Level 10": "Arcane Damage: 6956 Stun Duration: 5.9s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Jungle Vial",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Struck",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Jungle_Vial.png?3483ac",
+    "properties": {
+      "Ability Name": "Envenom",
+      "Ability Description": "Strikes on you have a chance to unleash toxic fissures on all enemies around you dealing Poison Damage and Poisoning them.",
+      "Chance Level 1": "8%",
+      "Value Level 1": "Poison Damage: 46 Poisoned Damage: 34.50%",
+      "Chance Level 5": "8%",
+      "Value Level 5": "Poison Damage: 1413 Poisoned Damage: 90.50%",
+      "Chance Level 10": "8%",
+      "Value Level 10": "Poison Damage: 12385 Poisoned Damage: 226.50%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Zombie's Face",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Chance when Struck",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Zombie%27s_Face.png/20px-Relics_Zombie%27s_Face.png?26adea",
+    "properties": {
+      "Ability Name": "Disease",
+      "Chance Level 1": "10%",
+      "Value Level 1": "Poison Damage: 74 Slow Duration: 1.40s",
+      "Chance Level 5": "10%",
+      "Value Level 5": "Poison Damage: 1179 Slow Duration: 4.20s",
+      "Chance Level 10": "10%",
+      "Value Level 10": "Poison Damage: 8172 Slow Duration: 11s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Ancient Rock",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Follower",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Ancient_Rock.png?271ceb",
+    "properties": {
+      "Ability Name": "Ancient Rock",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "Honey Bee",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Follower",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Honey_Bee.png?48e382",
+    "properties": {
+      "Ability Name": "Honey Bee",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "Karp Head",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Follower",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Karp_Head.png/23px-Relics_Karp_Head.png?be96fa",
+    "properties": {
+      "Ability Name": "Karp Head",
+      "Value Level 1": "Cold Damage: 33",
+      "Value Level 5": "Cold Damage: 6301",
+      "Value Level 10": "Cold Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "Minisect",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Follower",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Minisect.png/30px-Relics_Minisect.png?299b72",
+    "properties": {
+      "Ability Name": "Minisect",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "Shrunken Head",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Follower",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Shrunken_Head.png/13px-Relics_Shrunken_Head.png?15c7ad",
+    "properties": {
+      "Ability Name": "Shrunken Head",
+      "Value Level 1": "Poison Damage: 33",
+      "Value Level 5": "Poison Damage: 6301",
+      "Value Level 10": "Poison Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "Skullbat",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Follower",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Skullbat.png/30px-Relics_Skullbat.png?967798",
+    "properties": {
+      "Ability Name": "Skull Bat",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "The Allmighty Fedora",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Follower",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_The_Allmighty_Fedora.png?1dab90",
+    "properties": {
+      "Ability Name": "The Almighty Fedora",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "The Eye",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Follower",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_The_Eye.png?bb125e",
+    "properties": {
+      "Ability Name": "The Eye",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "War Zeppelin",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Follower",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_War_Zeppelin.png/30px-Relics_War_Zeppelin.png?e92eb2",
+    "properties": {
+      "Ability Name": "War Zeppelin",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "1000 KG",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_1000_KG.png?3515e2",
+    "properties": {
+      "Ability Name": "Heavy Weight",
+      "Ability Description": "Cast to drop a 1000kg weight on target location dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "A Wizard's Hat",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_A_Wizard%27s_Hat.png/29px-Relics_A_Wizard%27s_Hat.png?87b82d",
+    "properties": {
+      "Ability Name": "Manalicious",
+      "Ability Description": "Cast to instantly restore some Mana.",
+      "Value Level 1": "Mana Restored: 10%",
+      "Value Level 5": "Mana Restored: 12%",
+      "Value Level 10": "Mana Restored: 14.50%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Aaron's Staff",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Aaron%27s_Staff.png/30px-Relics_Aaron%27s_Staff.png?b363b1",
+    "properties": {
+      "Ability Name": "Healing Touch",
+      "Ability Description": "Heals your self on cast.",
+      "Value Level 1": "Life Replenish: 16",
+      "Value Level 5": "Life Replenish: 198",
+      "Value Level 10": "Life Replenish: 689"
+    },
+    "stats": []
+  },
+  {
+    "name": "Angel Staff of Apocalypse",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Angel_Staff_of_Apocalypse.png/30px-Relics_Angel_Staff_of_Apocalypse.png?1c5cbb",
+    "properties": {
+      "Ability Name": "Arch Angels Fury",
+      "Ability Description": "Cast to unleash apocalypse on small AOE around you dealing Magic Damage.",
+      "Value Level 1": "Arcane Damage: 44",
+      "Value Level 5": "Arcane Damage: 1668",
+      "Value Level 10": "Arcane Damage: 15223"
+    },
+    "stats": []
+  },
+  {
+    "name": "Apple",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Apple.png?f720cf",
+    "properties": {
+      "Ability Name": "Apple Blast",
+      "Ability Description": "Throw an apple in to the air that explodes in to small projectiles around you that deal Magic Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Balalayka",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Balalayka.png/19px-Relics_Balalayka.png?e4d5cc",
+    "properties": {
+      "Ability Name": "Classic Tunes",
+      "Ability Description": "Cast to play incredible solo that explodes in small AOE (because its so good) and deals Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Blazing Boots",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Blazing_Boots.png/30px-Relics_Blazing_Boots.png?727b9e",
+    "properties": {
+      "Ability Name": "Blazing Trail",
+      "Ability Description": "Leave behind a trail of fire dealing Fire Damage to enemies.",
+      "Value Level 1": "Fire Damage: 4 Burning Damage: 33.75%",
+      "Value Level 5": "Fire Damage: 105 Burning Damage: 86.25%",
+      "Value Level 10": "Fire Damage: 890 Burning Damage: 213.75%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Bomb",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Bomb.png?61df4c",
+    "properties": {
+      "Ability Name": "Regular Bomb",
+      "Ability Description": "Cast to leave a bomb behind that explodes in an AOE dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Book of Belial",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Book_of_Belial.png/30px-Relics_Book_of_Belial.png?f1701f",
+    "properties": {
+      "Ability Name": "Satanic Chant",
+      "Ability Description": "When cast, temporarily boost your Damage.",
+      "Value Level 1": "Attack Damage: 5%",
+      "Value Level 5": "Attack Damage: 25%",
+      "Value Level 10": "Attack Damage: 50%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Book of Command",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Book_of_Command.png/30px-Relics_Book_of_Command.png?1f37a1",
+    "properties": {
+      "Ability Name": "Commanding Power",
+      "Ability Description": "Shuts down any nearby portals.."
+    },
+    "stats": []
+  },
+  {
+    "name": "Boomerang",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Boomerang.png/21px-Relics_Boomerang.png?287b84",
+    "properties": {
+      "Ability Name": "Australian Sport",
+      "Ability Description": "Cast to throw a boomerang in towards target location dealing Damage on hit.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Bouncy",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Bouncy.png/30px-Relics_Bouncy.png?696848",
+    "properties": {
+      "Ability Name": "Bouncing Spikeball",
+      "Ability Description": "Launch a bouncing spikeball towards target location dealing Damage on impact.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Candy Basket",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Candy_Basket.png/28px-Relics_Candy_Basket.png?aa6973",
+    "properties": {
+      "Ability Name": "Candy Basket",
+      "Ability Description": "Cast to summon a candy basket on target location that explodes after some time launching candy in air that deal Damage.",
+      "Value Level 1": "Arcane Damage: 16"
+    },
+    "stats": []
+  },
+  {
+    "name": "Candy Crusher",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Candy_Crusher.png/30px-Relics_Candy_Crusher.png?9559e8",
+    "properties": {
+      "Ability Name": "Candy Crush",
+      "Ability Description": "Cast to launch candy around you exploding and dealing Magic Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Casino Die",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Casino_Die.png?4021d3",
+    "properties": {
+      "Ability Name": "Lucky Dice",
+      "Ability Description": "Cast to drop a Casino Dice on target location exploding and dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Chicken Mask",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Chicken_Mask.png?ffe6a9",
+    "properties": {
+      "Ability Name": "All them Chickens",
+      "Ability Description": "Cast to equip a chicken mask on Death."
+    },
+    "stats": []
+  },
+  {
+    "name": "Cursed Book",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Cursed_Book.png/30px-Relics_Cursed_Book.png?1f37a1",
+    "properties": {
+      "Ability Name": "Dare to Read?",
+      "Ability Description": "Holds a curse against Anubis.. Use with caution."
+    },
+    "stats": []
+  },
+  {
+    "name": "Darts",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Darts.png/24px-Relics_Darts.png?acac5a",
+    "properties": {
+      "Ability Name": "Flying Darts",
+      "Ability Description": "Cast to throw darts in a circle around you dealing Damage on hit.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Delicious Pie",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Delicious_Pie.png?c30efd",
+    "properties": {
+      "Ability Name": "So Good",
+      "Ability Description": "Cast to summon a pie on the ground that explodes after some time dealing Damage.",
+      "Value Level 1": "Arcane Damage: 129 Life: 100",
+      "Value Level 5": "Arcane Damage: 4914 Life: 800",
+      "Value Level 10": "Arcane Damage: 44867 Life: 2500"
+    },
+    "stats": []
+  },
+  {
+    "name": "Dislocated Eye",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Dislocated_Eye.png?40514a",
+    "properties": {
+      "Ability Name": "Crippling Cold",
+      "Ability Description": "Cast to strike enemies around you with Crippling Cold freezing and dealing Cold Damage.",
+      "Value Level 1": "Cold Damage: 138 Freeze Duration: 2.20s",
+      "Value Level 5": "Cold Damage: 5265 Freeze Duration: 5s",
+      "Value Level 10": "Cold Damage: 48072 Freeze Duration: 11.80s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Doggo",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Doggo.png/28px-Relics_Doggo.png?ab7171",
+    "properties": {
+      "Ability Name": "To the MOON",
+      "Ability Description": "Cast on target location to summon a Doge rocket that flies off and collides with the moon which causes moon fragments to rain back down dealing Damage. Much Wow.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Double Scythe",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Double_Scythe.png/30px-Relics_Double_Scythe.png?67721b",
+    "properties": {
+      "Ability Name": "Flying Scythe",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Dragon's Head",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Dragon%27s_Head.png/30px-Relics_Dragon%27s_Head.png?260a88",
+    "properties": {
+      "Ability Name": "Molten Breath",
+      "Ability Description": "Cast to breath fire towards target location dealing Fire Damage.",
+      "Value Level 1": "Fire Damage: 138",
+      "Value Level 5": "Fire Damage: 5265",
+      "Value Level 10": "Fire Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "ES Energy",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_ES_Energy.png/30px-Relics_ES_Energy.png?952446",
+    "properties": {
+      "Ability Name": "Jonnen Valinta",
+      "Value Level 1": "Energy: 4%",
+      "Value Level 5": "Energy: 20%",
+      "Value Level 10": "Energy: 40%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Fish Net",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Fish_Net.png/19px-Relics_Fish_Net.png?409ab9",
+    "properties": {
+      "Ability Name": "Trap the Fish",
+      "Ability Description": "Cast to throw a net on the ground that catches fish."
+    },
+    "stats": []
+  },
+  {
+    "name": "Flail",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Flail.png/30px-Relics_Flail.png?7b89c9",
+    "properties": {
+      "Ability Name": "Flailstrike",
+      "Ability Description": "Cast to start spinning a flail dealing damage to enemies hit.",
+      "Value Level 1": "Arcane Damage: 2750"
+    },
+    "stats": []
+  },
+  {
+    "name": "Fly Swatter",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Fly_Swatter.png/30px-Relics_Fly_Swatter.png?f03f5c",
+    "properties": {
+      "Ability Name": "Memes",
+      "Ability Description": "Cast to read a random meme."
+    },
+    "stats": []
+  },
+  {
+    "name": "Head Extractor",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Head_Extractor.png/30px-Relics_Head_Extractor.png?11332f",
+    "properties": {
+      "Ability Name": "Extract Heads",
+      "Ability Description": "I argue that this talent does not exist."
+    },
+    "stats": []
+  },
+  {
+    "name": "Jar of Flies",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Jar_of_Flies.png/16px-Relics_Jar_of_Flies.png?2f7082",
+    "properties": {
+      "Ability Name": "Nasty Flies",
+      "Ability Description": "Cast to release a fly from the jar to your close proximity dealing damage on hit.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Keygen.exe",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Keygen.exe.png/28px-Relics_Keygen.exe.png?d9285c",
+    "properties": {
+      "Ability Name": "Bluescreen of Death",
+      "Ability Description": "Stun and deal damage to literally everything on the screen.",
+      "Value Level 1": "Arcane Damage: 138 Stun Duration: 2.20s",
+      "Value Level 5": "Arcane Damage: 5265 Stun Duration: 5s",
+      "Value Level 10": "Arcane Damage: 48072 Stun Duration: 11.80s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Large Beer",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Large_Beer.png/28px-Relics_Large_Beer.png?91d08a",
+    "properties": {
+      "Ability Name": "Nausea",
+      "Value Level 1": "Attack Damage: 10%",
+      "Value Level 5": "Attack Damage: 50%",
+      "Value Level 10": "Attack Damage: 100%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Light Cola",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Light_Cola.png/16px-Relics_Light_Cola.png?d1c2da",
+    "properties": {
+      "Ability Name": "Boost of Energy",
+      "Ability Description": "Cast to drink cola that increases your movement speed for short period.",
+      "Value Level 1": "Movement Speed: 20%",
+      "Value Level 5": "Movement Speed: 160%",
+      "Value Level 10": "Movement Speed: 500%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Lightning Ball",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Lightning_Ball.png/29px-Relics_Lightning_Ball.png?a64e65",
+    "properties": {
+      "Ability Name": "Ball Lightning",
+      "Ability Description": "Turn into a ball of lightning and dash towards the target location, exploding for Lightning Damage to nearby enemies upon landing. Causing damage with this skill grants you a burst of Movement Speed.",
+      "Value Level 1": "Lightning Damage: 20 Movement Speed: 12.50%",
+      "Value Level 5": "Lightning Damage: 602 Movement Speed: 47.50%",
+      "Value Level 10": "Lightning Damage: 5245 Movement Speed: 132.50%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Maryo's Pipe",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Maryo%27s_Pipe.png?3306eb",
+    "properties": {
+      "Ability Name": "Pipe Diver",
+      "Ability Description": "Cast to teleport a short distance to target location.",
+      "Value Level 1": "Cooldown Recovery: 9%",
+      "Value Level 5": "Cooldown Recovery: 45%",
+      "Value Level 10": "Cooldown Recovery: 90%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Meat Hook",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Meat_Hook.png/26px-Relics_Meat_Hook.png?fb7615",
+    "properties": {
+      "Ability Name": "Meat Hook",
+      "Ability Description": "Cast to hook and pull the nearest enemy closer to you stunning them and dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Metal Detector",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Metal_Detector.png/30px-Relics_Metal_Detector.png?731bc9",
+    "properties": {
+      "Ability Name": "Node Detection",
+      "Value Level 1": "Range: 1000",
+      "Value Level 5": "Range: 1800",
+      "Value Level 10": "Range: 2800"
+    },
+    "stats": []
+  },
+  {
+    "name": "Necromancer's Finger",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Necromancer%27s_Finger.png/30px-Relics_Necromancer%27s_Finger.png?a80d79",
+    "properties": {
+      "Ability Name": "Bone Spirit",
+      "Ability Description": "Spawn a Bone Spirit which seeks out the nearest enemy and explodes on impact, dealing AOE Arcane Damage and breaking enemy Arcane Resistance.",
+      "Value Level 1": "Arcane Damage: 100 Projectiles: 3.10 Arcane Break: 11%",
+      "Value Level 5": "Arcane Damage: 3109 Projectiles: 4.50 Arcane Break: 25%",
+      "Value Level 10": "Arcane Damage: 27246 Projectiles: 7.90 Arcane Break: 59%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Ninja Hook",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Ninja_Hook.png/26px-Relics_Ninja_Hook.png?8df8b3",
+    "properties": {
+      "Ability Name": "Ninja Hooks",
+      "Ability Description": "Cast to hook and pull 3 closest enemies towards you dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Orb of Chaos",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Orb_of_Chaos.png?4f5a01",
+    "properties": {
+      "Ability Name": "Calling of Chaos",
+      "Ability Description": "Cast to explode enemies around you in Chaos dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Orb of Fire",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Orb_of_Fire.png?c5da23",
+    "properties": {
+      "Ability Name": "Hydras Calling",
+      "Ability Description": "Cast to summon a fiery hydra that shoots fire at enemies dealing Fire Damage.",
+      "Value Level 1": "Fire Damage: 138 Duration: 5.50s",
+      "Value Level 5": "Fire Damage: 5265 Duration: 12.50s",
+      "Value Level 10": "Fire Damage: 48072 Duration: 29.50s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Orb of Ice",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Orb_of_Ice.png?120258",
+    "properties": {
+      "Ability Name": "Frost Orbs Calling",
+      "Ability Description": "Cast a Frozen Orb that shoots Ice Shards while moving towards target location dealing Cold Damage.",
+      "Value Level 1": "Cold Damage: 138",
+      "Value Level 5": "Cold Damage: 5265",
+      "Value Level 10": "Cold Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Orb of Poison",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Orb_of_Poison.png?94effe",
+    "properties": {
+      "Ability Name": "Toxic Novas Calling",
+      "Ability Description": "Cast a poison nova around you dealing Poison Damage and poisoning the enemies.",
+      "Value Level 1": "Poison Damage: 138",
+      "Value Level 5": "Poison Damage: 5265",
+      "Value Level 10": "Poison Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Pickled Brain",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Pickled_Brain.png/30px-Relics_Pickled_Brain.png?63d831",
+    "properties": {
+      "Ability Name": "Aldos Rotten Brain",
+      "Value Level 1": "Arcane Damage: 31 Life: 48",
+      "Value Level 5": "Arcane Damage: 5817 Life: 1056",
+      "Value Level 10": "Arcane Damage: 82234 Life: 4080"
+    },
+    "stats": []
+  },
+  {
+    "name": "Rainbow Gate",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Rainbow_Gate.png?198fd7",
+    "properties": {
+      "Ability Name": "Rainbow Drool",
+      "Ability Description": "Cast a rainbow beam forward that deals Magic Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Razer Headset",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Razer_Headset.png/29px-Relics_Razer_Headset.png?cc39d5",
+    "properties": {
+      "Ability Name": "Sonar Pulse",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Rocket Barrage",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Rocket_Barrage.png/30px-Relics_Rocket_Barrage.png?213717",
+    "properties": {
+      "Ability Name": "Barrage of Rockets",
+      "Ability Description": "Cast to launch 4 rockets towards nearest enemies dealing Damage on impact.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Rotten Apple",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Rotten_Apple.png/21px-Relics_Rotten_Apple.png?43aab0",
+    "properties": {
+      "Ability Name": "Mass Hex",
+      "Ability Description": "Cast to quickly poison all targets around you dealing Poison Damage.",
+      "Value Level 1": "Poison Damage: 49 Poisoned Damage: 30%",
+      "Value Level 5": "Poison Damage: 615 Poisoned Damage: 62%",
+      "Value Level 10": "Poison Damage: 2160 Poisoned Damage: 102%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Rubber Duck",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Rubber_Duck.png/30px-Relics_Rubber_Duck.png?ed39fc",
+    "properties": {
+      "Ability Name": "Duck Throw",
+      "Ability Description": "Throw a duck over your head that explodes in small AOE Magic Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Satan's Eye",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Satan%27s_Eye.png?210e08",
+    "properties": {
+      "Ability Name": "Burning Vision",
+      "Value Level 1": "Fire Damage: 138 Burning Damage: 60%",
+      "Value Level 5": "Fire Damage: 5265 Burning Damage: 200%",
+      "Value Level 10": "Fire Damage: 48072 Burning Damage: 540%"
+    },
+    "stats": []
+  },
+  {
+    "name": "Satan's Horn",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Satan%27s_Horn.png/28px-Relics_Satan%27s_Horn.png?e5bd2b",
+    "properties": {
+      "Ability Name": "Satanic Groundsmash",
+      "Ability Description": "Cast to raise spikes around target location dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Satan's Tooth",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Satan%27s_Tooth.png?4ac00d",
+    "properties": {
+      "Ability Name": "Molten Toothache",
+      "Ability Description": "Cast to set enemies around you in flames for a short period dealing Fire Damage.",
+      "Value Level 1": "Fire Damage: 138",
+      "Value Level 5": "Fire Damage: 5265",
+      "Value Level 10": "Fire Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Shade of Death",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Shade_of_Death.png/30px-Relics_Shade_of_Death.png?e3ea0a",
+    "properties": {
+      "Ability Name": "Shadow Strike",
+      "Ability Description": "Cast to strike enemies around you with power of Death stunning and dealing Magic Damage.",
+      "Value Level 1": "Arcane Damage: 138 Stun Duration: 2.20s",
+      "Value Level 5": "Arcane Damage: 5265 Stun Duration: 5s",
+      "Value Level 10": "Arcane Damage: 48072 Stun Duration: 11.80s"
+    },
+    "stats": []
+  },
+  {
+    "name": "Shattered Katana",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Shattered_Katana.png/27px-Relics_Shattered_Katana.png?d0ebf3",
+    "properties": {
+      "Ability Name": "Gust of Wind",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Shiv",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Shiv.png/12px-Relics_Shiv.png?6399db",
+    "properties": {
+      "Ability Name": "Flying Shivs",
+      "Ability Description": "Cast to throw 4 blades towards target location dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Shocker-3000",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Shocker-3000.png?423ee2",
+    "properties": {
+      "Ability Name": "Shocker 9000",
+      "Ability Description": "Cast to launch an electric charge towards target location shocking the enemy.",
+      "Value Level 1": "Arcane Damage: 250"
+    },
+    "stats": []
+  },
+  {
+    "name": "Snowball",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Snowball.png?6cb7b9",
+    "properties": {
+      "Ability Name": "Snowball Throw",
+      "Ability Description": "Cast to throw a snowball in target direction dealing Cold Damage.",
+      "Value Level 1": "Cold Damage: 16"
+    },
+    "stats": []
+  },
+  {
+    "name": "Soul Box",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Soul_Box.png?3c8848",
+    "properties": {
+      "Ability Name": "Open the Box",
+      "Ability Description": "Cast to drop a soul box on the ground for a short period."
+    },
+    "stats": []
+  },
+  {
+    "name": "Squishy the Suicidal Pig",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Squishy_the_Suicidal_Pig.png/22px-Relics_Squishy_the_Suicidal_Pig.png?fa3dc8",
+    "properties": {
+      "Ability Name": "Suicidal Pig",
+      "Ability Description": "Cast to summon Squishy the Suicidal Pig to run towards nearest enemy and drop a stone on itself dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Stickman Steve",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Stickman_Steve.png/15px-Relics_Stickman_Steve.png?59879c",
+    "properties": {
+      "Ability Name": "Call of Steve",
+      "Ability Description": "Cast to summon Stickman Steve to attack nearest enemies dealing Damage.",
+      "Value Level 1": "Arcane Damage: 138",
+      "Value Level 5": "Arcane Damage: 5265",
+      "Value Level 10": "Arcane Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Sucker-5000",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Sucker-5000.png/30px-Relics_Sucker-5000.png?755de4",
+    "properties": {
+      "Ability Name": "Sucking Power",
+      "Ability Description": "Cast to suck in enemies."
+    },
+    "stats": []
+  },
+  {
+    "name": "Sucker-5000-B",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Sucker-5000-B.png/30px-Relics_Sucker-5000-B.png?fff171",
+    "properties": {
+      "Ability Name": "Empowered Sucking Power",
+      "Ability Description": "Cast to suck in black holes."
+    },
+    "stats": []
+  },
+  {
+    "name": "Tequila!!!",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Tequila%21%21%21.png/14px-Relics_Tequila%21%21%21.png?892812",
+    "properties": {
+      "Ability Name": "Drunken Arson",
+      "Value Level 1": "Fire Damage: 138",
+      "Value Level 5": "Fire Damage: 5265",
+      "Value Level 10": "Fire Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "The Mighty Sushi",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_The_Mighty_Sushi.png?6c2e93",
+    "properties": {
+      "Ability Name": "Tasty Explosion",
+      "Value Level 1": "Fire Damage: 138",
+      "Value Level 5": "Fire Damage: 5265",
+      "Value Level 10": "Fire Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Thief's Glove",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Thief%27s_Glove.png?870a78",
+    "properties": {
+      "Ability Name": "Fiddling Glove",
+      "Ability Description": "Cast to launch a glove towards the nearest target stealing their wallet."
+    },
+    "stats": []
+  },
+  {
+    "name": "Vadjra",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Grants Ability",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Vadjra.png/30px-Relics_Vadjra.png?d3da63",
+    "properties": {
+      "Ability Name": "Stormy Javelin",
+      "Ability Description": "Cast to throw a storm javelin towards target location that casts chain lightning dealing Lightning Damage.",
+      "Value Level 1": "Lightning Damage: 138",
+      "Value Level 5": "Lightning Damage: 5265",
+      "Value Level 10": "Lightning Damage: 48072"
+    },
+    "stats": []
+  },
+  {
+    "name": "Demon Sheep",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Orbital",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Demon_Sheep.png/30px-Relics_Demon_Sheep.png?1e970e",
+    "properties": {
+      "Ability Name": "Demon Sheep",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "F.E.T.U.S",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Orbital",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_F.E.T.U.S.png?3b4409",
+    "properties": {
+      "Ability Name": "F.E.T.U.S",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "Guardian Angel",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Orbital",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/thumb/Relics_Guardian_Angel.png/30px-Relics_Guardian_Angel.png?3e0841",
+    "properties": {
+      "Ability Name": "Guardian Angel",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "Shredder",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Orbital",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Shredder.png?b20c61",
+    "properties": {
+      "Ability Name": "Shredder",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "Steve's Dirty Head",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Orbital",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Steve%27s_Dirty_Head.png?b43ec5",
+    "properties": {
+      "Ability Name": "Steves Dirty Head",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  },
+  {
+    "name": "Templar Shield",
+    "category": "Special Items",
+    "type": "Relics",
+    "rarity": "Orbital",
+    "tier": "",
+    "level": null,
+    "image": "https://herosiege.wiki.gg/images/Relics_Templar_Shield.png?3cc5e3",
+    "properties": {
+      "Ability Name": "Templar Shield",
+      "Value Level 1": "Arcane Damage: 33",
+      "Value Level 5": "Arcane Damage: 6301",
+      "Value Level 10": "Arcane Damage: 89087"
+    },
+    "stats": []
+  }
+]

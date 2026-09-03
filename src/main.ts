@@ -20,6 +20,7 @@ import { itemCard } from "./ui/itemCard.ts";
 import { itemTypesByCategory } from "./data/itemTypes.ts";
 import type { ItemCategory } from "./types.ts";
 import { filterItems } from "./logic/filterItems.ts";
+import { itemDetail } from "./ui/itemDetails.ts";
 
 function getElement<T extends Element>(selector: string): T {
     const element = document.querySelector<T>(selector)
@@ -289,8 +290,62 @@ const itemCount = getElement<HTMLElement>('#item-count')
 const itemCategoryFilter = getElement<HTMLSelectElement>('#item-category-filter')
 const itemTypeFilter = getElement<HTMLSelectElement>('#item-type-filter')
 const itemSearch = getElement<HTMLInputElement>('#item-search')
+const itemDetailPanel = getElement<HTMLElement>('#item-detail-panel')
+const itemDetailContent = getElement<HTMLElement>('#item-detail-content')
+const itemDetailClose = getElement<HTMLButtonElement>('#item-detail-close')
+
+function clearItemSelection() {
+    itemList
+        .querySelectorAll('.item-card')
+        .forEach(card => {
+            card.classList.remove('selected')
+        })
+}
+
+function resetItemDetailPanel() {
+    clearItemSelection()
+
+    itemDetailContent.innerHTML = ''
+    itemDetailPanel.classList.add('hidden')
+}
+
+itemList.addEventListener('click', event => {
+    const target = event.target as HTMLElement
+
+    const card = target.closest<HTMLElement>('[data-item]')
+
+    if (!card) {
+        return
+    }
+
+    const itemName = card.dataset.item
+
+    if (!itemName) {
+        return
+    }
+
+    const item = items.find(
+        item => item.name === itemName
+    )
+
+    if (!item) {
+        return
+    }
+
+    clearItemSelection()
+
+    card.classList.add('selected')
+
+    itemDetailContent.innerHTML = itemDetail(item)
+
+    itemDetailPanel.classList.remove('hidden')
+})
+
+itemDetailClose.addEventListener('click', resetItemDetailPanel)
 
 function renderItems() {
+    resetItemDetailPanel()
+
     const filteredItems = filterItems(
         items,
         itemSearch.value,

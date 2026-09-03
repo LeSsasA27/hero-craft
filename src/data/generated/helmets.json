@@ -1,0 +1,1647 @@
+[
+  {
+    "name": "Death Knight's Visage",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 12,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Death_Knights_Visage.png?9570f0",
+    "properties": {
+      "Defense": "6-11"
+    },
+    "stats": [
+      "+[10-15]% Enhanced Damage",
+      "+[20-35]% Enhanced Defense",
+      "+30 to Attack Rating",
+      "+15 to Life",
+      "+15 to Mana"
+    ]
+  },
+  {
+    "name": "Sentinel's Headguard",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 12,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Sentinels_Headguard.png?a99f69",
+    "properties": {
+      "Defense": "5-11"
+    },
+    "stats": [
+      "+[20-30]% Enhanced Defense",
+      "+5 to Vitality",
+      "Physical Damage Taken Reduced by [3-5]%",
+      "+[10-15]% to All Resistances",
+      "Socketed (0-1)"
+    ]
+  },
+  {
+    "name": "Surgical Mask",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 12,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Surgical_Mask.png?630bc9",
+    "properties": {
+      "Defense": "5-11"
+    },
+    "stats": [
+      "+[20-35]% Enhanced Defense",
+      "+[10-15]% Faster Cast Rate",
+      "Replenish Mana 10%",
+      "+35 to Mana",
+      "+12 Mana After each Kill",
+      "Socketed (1-2)"
+    ]
+  },
+  {
+    "name": "Aetherweaver's Veil",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 13,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Aetherweavers_Veil.png?6713d2",
+    "properties": {
+      "Defense": "5-9"
+    },
+    "stats": [
+      "+[5-10]% Enhanced Defense",
+      "+[5-10] to Intelligence",
+      "Magic Skill Damage increased by [3-5]%",
+      "+15 to Mana"
+    ]
+  },
+  {
+    "name": "Bloodthirster's Warhelm",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 25,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Bloodthirsters_Warhelm.png?bbaeeb",
+    "properties": {
+      "Defense": "16-32"
+    },
+    "stats": [
+      "+[30-60]% Enhanced Defense",
+      "+20% Chance for a Crushing Blow",
+      "+5% Life stolen per Hit",
+      "+[50-150] to Life",
+      "+12 Life After each Kill"
+    ]
+  },
+  {
+    "name": "Veil of Mystery",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 26,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Veil_of_Mystery.png?85e5c4",
+    "properties": {
+      "Defense": "21-45"
+    },
+    "stats": [
+      "+[75-125]% Enhanced Defense",
+      "+20% Faster Cast Rate",
+      "+15 to Energy",
+      "+10 to Vitality",
+      "+12 Life After each Kill",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Executioner's Headplate",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 28,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Executioners_Headplate.png?8abca5",
+    "properties": {
+      "Defense": "16-28"
+    },
+    "stats": [
+      "+[30-40]% Enhanced Defense",
+      "+2 to Physical Skills",
+      "+[15-30]% Increased Attack Speed",
+      "+[30-75] to Attack Rating"
+    ]
+  },
+  {
+    "name": "Sky Crusader Helm",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 29,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Sky_Crusader_Helm.png?292e70",
+    "properties": {
+      "Defense": "18-35"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "Cooldown Recovery Increased by 15%",
+      "+10 to Vitality",
+      "+10 to Armor",
+      "Physical Damage Taken Reduced by 10%",
+      "+[15-20]% to All Resistances",
+      "Half Freeze Duration"
+    ]
+  },
+  {
+    "name": "Mage's Starshroud",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 30,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Mages_Starshroud.png?45f23c",
+    "properties": {
+      "Defense": "15-28"
+    },
+    "stats": [
+      "+[20-40]% Enhanced Defense",
+      "+[0-1] to All Skills",
+      "+20 to Energy",
+      "+10 to Intelligence"
+    ]
+  },
+  {
+    "name": "Judge, Jury & Executioner",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 32,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Judge%2C_Jury_%26_Executioner.png?4e46be",
+    "properties": {
+      "Defense": "18-35"
+    },
+    "stats": [
+      "+[50-75]% Enhanced Defense",
+      "+115 to Attack Rating",
+      "+5% Life stolen per Hit",
+      "+[25-50]% of target Defense ignored",
+      "+5 to All Attributes",
+      "+25% to Fire Resistance",
+      "+25% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Reaver's Headplate",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 35,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Reavers_Headplate.png?6e1644",
+    "properties": {
+      "Defense": "34-54"
+    },
+    "stats": [
+      "+[30-40]% Enhanced Defense",
+      "+[1-7] to [Whirlwind]",
+      "+[5-15]% Increased Movement Speed",
+      "+[10-25] to Strength",
+      "Socketed (0-1)"
+    ]
+  },
+  {
+    "name": "Juda's Broken Halo",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Judas_Broken_Halo.png?95e33c",
+    "properties": {
+      "Defense": "34-54"
+    },
+    "stats": [
+      "20% Chance when Casting [Chain of Holy Lightning] Level 19",
+      "+[30-40]% Enhanced Defense",
+      "+[15-20]% Faster Cast Rate",
+      "+[5-10] to Energy",
+      "Replenish Mana 15%",
+      "+[1-2] to Light Radius",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Warlord's Fury",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Warlords_Fury.png?c9595f",
+    "properties": {
+      "Defense": "42-73"
+    },
+    "stats": [
+      "+[60-90]% Enhanced Defense",
+      "+10% Increased Movement Speed",
+      "+[15-25]% Increased Attack Speed",
+      "+[10-15]% Increased Attack Rating",
+      "+8% Life stolen per Hit",
+      "+20 to Strength",
+      "+8 Mana After each Kill"
+    ]
+  },
+  {
+    "name": "Ice King's Crown",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 40,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Ice_Kings_Crown.png?4f084a",
+    "properties": {
+      "Defense": "43-76"
+    },
+    "stats": [
+      "+[65-100]% Enhanced Defense",
+      "+[10-15]% Faster Cast Rate",
+      "+[145-175] to Cold Skill Damage",
+      "Cold Skill Damage increased by [8-15]%",
+      "+75 to Mana",
+      "+75% to Cold Resistance",
+      "Cannot be Frozen"
+    ]
+  },
+  {
+    "name": "Flame God's Helmet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 42,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Flame_Gods_Helmet.png?f038d5",
+    "properties": {
+      "Defense": "43-76"
+    },
+    "stats": [
+      "+[65-100]% Enhanced Defense",
+      "+[10-15]% Faster Cast Rate",
+      "+[135-185] to Fire Skill Damage",
+      "Fire Skill Damage increased by [7-15]%",
+      "+75 to Mana",
+      "+75% to Fire Resistance",
+      "+5% to Maximum Fire Resist"
+    ]
+  },
+  {
+    "name": "Helm of Dominator",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 43,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Helm_of_Dominator.png?d6343e",
+    "properties": {
+      "Defense": "69-116"
+    },
+    "stats": [
+      "+[115-155]% Enhanced Defense",
+      "+[15-20] to Armor",
+      "+[25-40]% Defense vs Missiles",
+      "Life Increased by [3-5]%",
+      "+50% Enhanced Defense (Based on Level)",
+      "+[15-20]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Underworld's Skullbreaker",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Underworlds_Skullbreaker.png?453a65",
+    "properties": {
+      "Defense": "93-141"
+    },
+    "stats": [
+      "+[120-160]% Enhanced Defense",
+      "+15% Chance for a Deadly Blow",
+      "+[5-10]% Chance for a Crushing Blow",
+      "+[40-70] to Attack Rating",
+      "+[3-8]% Life stolen per Hit",
+      "+20 to Strength",
+      "Socketed (1-2)"
+    ]
+  },
+  {
+    "name": "Guise of the Dead",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Guise_of_the_Dead.png?c6ebfe",
+    "properties": {
+      "Defense": "93-141"
+    },
+    "stats": [
+      "+[120-160]% Enhanced Defense",
+      "+[0-2] to Poison Skills",
+      "+[3-7]% Life stolen per Hit",
+      "+[3-7]% Mana stolen per Hit",
+      "+30% of target Defense ignored",
+      "Slows target by [10-20]%",
+      "+[20-30] to Strength",
+      "+[280-320] to Additive Poison Damage"
+    ]
+  },
+  {
+    "name": "Demon Warlord's Helm",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Demon_Warlords_Helm.png?5feabc",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[10-15]% Chance to Open Wounds",
+      "+25% Faster Hit Recovery",
+      "+85 to Life (Based on Level)",
+      "+185 to Damage (Based on Level)",
+      "+30% to All Resistances"
+    ]
+  },
+  {
+    "name": "Sand Traveler's Guise",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Sand_Travelers_Guise.png?734e38",
+    "properties": {
+      "Defense": "143-200"
+    },
+    "stats": [
+      "+[130-170]% Enhanced Defense",
+      "+[10-15]% Increased Movement Speed",
+      "+20% Increased Attack Speed",
+      "+20% Chance to Open Wounds",
+      "+[15-20] to Strength",
+      "+8 to Vitality"
+    ]
+  },
+  {
+    "name": "Ancient Avenger",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 61,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Ancient_Avenger.png?49322d",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+10% Increased Attack Speed",
+      "+15% Chance for a Crushing Blow",
+      "+5% Increased Attack Rating",
+      "+20 to Strength",
+      "+10 to Vitality",
+      "Physical Damage Taken Reduced by 5%"
+    ]
+  },
+  {
+    "name": "Assassin's Hood",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Assassins_Hood.png?93cb07",
+    "properties": {
+      "Defense": "108-176"
+    },
+    "stats": [
+      "+[80-120]% Enhanced Defense",
+      "+[2-3] to Physical Skills",
+      "Cooldown Recovery Increased by [10-30]%",
+      "+[4-8]% Increased Attack Rating",
+      "Attack Damage increased by [10-20]%",
+      "Physical Damage Taken Reduced by [4-8]%",
+      "+[5-15]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Knight Captain's Helmet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 76,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Knight_Captains_Helmet.png?373a22",
+    "properties": {
+      "Defense": "108-176"
+    },
+    "stats": [
+      "+[80-120]% Enhanced Defense",
+      "+[20-30]% Chance for a Deadly Blow",
+      "+[250-320] to Additive Physical Damage",
+      "+30 to Strength",
+      "+30 to Dexterity",
+      "Physical Damage Taken Reduced by [4-8]%",
+      "Magic Damage Taken Reduced by [4-8]%",
+      "Socketed (1-2)"
+    ]
+  },
+  {
+    "name": "Crown of the North",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 76,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Crown_of_the_North.png?3858a4",
+    "properties": {
+      "Defense": "135-220"
+    },
+    "stats": [
+      "+[125-175]% Enhanced Defense",
+      "+1 to All Skills",
+      "+[1-3] to Cold Skills",
+      "+25 to Energy",
+      "Cold Skill Damage increased by [15-25]%",
+      "Physical Damage Taken Reduced by [5-15]%",
+      "+[15-30]% to All Resistances",
+      "Cannot be Frozen"
+    ]
+  },
+  {
+    "name": "Crown of Midnight",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Crown_of_Midnight.png?345d11",
+    "properties": {
+      "Defense": "120-188"
+    },
+    "stats": [
+      "+[100-135]% Enhanced Defense",
+      "+3 to All Skills",
+      "Magic Skill Damage increased by [5-30]%",
+      "+[10-15]% of Damage Taken goes to Mana"
+    ]
+  },
+  {
+    "name": "The Grand Champion",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Helmets_The_Grand_Champion.png?dc8db7",
+    "properties": {
+      "Defense": "120-188"
+    },
+    "stats": [
+      "+[100-135]% Enhanced Defense",
+      "+[25-40]% Faster Hit Recovery",
+      "+[20-35]% Defense vs Missiles",
+      "+40 to Armor (Based on Level)",
+      "+40 to Vitality (Based on Level)",
+      "+[20-35]% to All Resistances"
+    ]
+  },
+  {
+    "name": "The Bucket",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Helmets_The_Bucket.png?f94d80",
+    "properties": {
+      "Defense": "153-216"
+    },
+    "stats": [
+      "+[155-170]% Enhanced Defense",
+      "+[230-250] to Life",
+      "+45% Magic Find (Based on Level)",
+      "+[15-30]% Increased Magic Find",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Witches Brimmed Hat",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 86,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Witches_Brimmed_Hat.png?e11868",
+    "properties": {
+      "Defense": "108-176"
+    },
+    "stats": [
+      "+[80-120]% Enhanced Defense",
+      "+[2-3] to All Skills",
+      "Arcane Skill Damage increased by [10-20]%",
+      "-[7-15]% to Enemy Arcane Resistance",
+      "+30% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "The Faceless Priest",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Helmets_The_Faceless_Priest.png?e743be",
+    "properties": {
+      "Defense": "120-188"
+    },
+    "stats": [
+      "+[100-135]% Enhanced Defense",
+      "+1 to All Skills",
+      "+[20-30]% Increased Attack Speed",
+      "+150 to Attack Rating",
+      "+[7-10]% Life stolen per Hit",
+      "+[45-65] to Life",
+      "Socketed (2-3)"
+    ]
+  },
+  {
+    "name": "Burning Gaze",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 87,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Burning_Gaze.png?bf9d22",
+    "properties": {
+      "Defense": "60-80"
+    },
+    "stats": [
+      "+[2-4] to Fire Skills",
+      "+30% Faster Cast Rate",
+      "Fire Skill Damage increased by [10-20]%",
+      "-[15-35]% to Enemy Fire Resistance"
+    ]
+  },
+  {
+    "name": "Tenebris' Grievance",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Tenebris_Grievance.png?f90e63",
+    "properties": {
+      "Defense": "120-188"
+    },
+    "stats": [
+      "+[100-135]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[15-30]% Increased Attack Speed",
+      "+[200-350] to Attack Rating",
+      "+[35-75] to Strength",
+      "+[10-15] to Vitality",
+      "+75 to Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "The Colossal Avenger",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 88,
+    "image": "https://herosiege.wiki.gg/images/Helmets_The_Colossal_Avenger.png?f9d590",
+    "properties": {
+      "Defense": "224-363"
+    },
+    "stats": [
+      "+[180-230]% Enhanced Defense",
+      "+[2-3] to All Skills",
+      "+20% Increased Attack Rating",
+      "+[4-8]% Life stolen per Hit",
+      "+[20-30] to Strength",
+      "+20 to Armor",
+      "+30% to All Resistances"
+    ]
+  },
+  {
+    "name": "Pit Lord's Vanquisher",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 90,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Pit_Lords_Vanquisher.png?f11ec6",
+    "properties": {
+      "Defense": "120-188"
+    },
+    "stats": [
+      "+[100-135]% Enhanced Defense",
+      "+[6-18]% Increased Critical Strike Chance",
+      "+[150-175] to Attack Rating",
+      "+[25-55]% Increased Critical Strike Damage",
+      "+[20-35] to Strength",
+      "+[10-15] to Vitality",
+      "+125 to Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "The Curator of Secrets",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 91,
+    "image": "https://herosiege.wiki.gg/images/Helmets_The_Curator_of_Secrets.png?a05d24",
+    "properties": {
+      "Defense": "120-188"
+    },
+    "stats": [
+      "+[100-135]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+40% Faster Cast Rate",
+      "Magic Skill Damage increased by [5-10]%",
+      "+[1-25]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Harlequinn's Crest",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Harlequinns_Crest.png?3f20aa",
+    "properties": {
+      "Defense": "80-145"
+    },
+    "stats": [
+      "+2 to All Skills",
+      "+[4-8] to All Attributes",
+      "Physical Damage Taken Reduced by 10%",
+      "Magic Damage Taken Reduced by 10%",
+      "+150 to Mana (Based on Level)",
+      "+[20-30]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Mask of the Beyond",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 95,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Mask_of_the_Beyond.png?cb9225",
+    "properties": {
+      "Defense": "225-328"
+    },
+    "stats": [
+      "+[100-135]% Enhanced Defense",
+      "+[5-10]% Chance for a Deadly Blow",
+      "+[5-10]% Life stolen per Hit",
+      "+[5-10]% Mana stolen per Hit",
+      "+[15-20] to Strength",
+      "+[15-20] to Dexterity",
+      "+[35-50] Life After each Kill",
+      "+175% Enhanced Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "Uabel's Helmet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "B",
+    "level": 34,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Uabels_Helmet.png?f00e02",
+    "properties": {
+      "Defense": "43-76"
+    },
+    "stats": [
+      "+[65-100]% Enhanced Defense",
+      "+1 to All Skills",
+      "Replenish Mana 15%",
+      "+100 to Life",
+      "+100 to Mana",
+      "+15 Mana After each Kill",
+      "+10% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Battle Worn Visor",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "B",
+    "level": 38,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Battle_Worn_Visor.png?57d4af",
+    "properties": {
+      "Defense": "60-99"
+    },
+    "stats": [
+      "+[55-85]% Enhanced Defense",
+      "+5% Life stolen per Hit",
+      "+10 to Strength",
+      "+15 Life After each Kill",
+      "+75% Enhanced Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "Flame Diviner's Refuge",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Flame_Diviners_Refuge.png?e6be57",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+1 to Fire Skills",
+      "+10 to Energy",
+      "+15 to Life",
+      "+30 to Mana",
+      "+40% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Shield Bearer's Crown",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Shield_Bearers_Crown.png?282790",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+1 to All Skills",
+      "+[1-4] to [Combat Orders]",
+      "+15 to Vitality",
+      "Replenish Life 10%",
+      "Life Increased by 2%"
+    ]
+  },
+  {
+    "name": "Reaper's Hood",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Reapers_Hood.png?df25d4",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[80-150] to Attack Rating",
+      "+[25-30] to Additive Physical Damage",
+      "+[2-4]% Mana stolen per Hit",
+      "+[5-10]% Chance to Open Wounds",
+      "Cannot be Frozen"
+    ]
+  },
+  {
+    "name": "Juggernaut's Siege Helm",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Juggernauts_Siege_Helm.png?66853d",
+    "properties": {
+      "Defense": "93-141"
+    },
+    "stats": [
+      "+[120-160]% Enhanced Defense",
+      "+[2-5] to [Flail Mastery]",
+      "+10 to Vitality",
+      "+40 to Life",
+      "+15 Life After each Kill"
+    ]
+  },
+  {
+    "name": "Lumberjack's Safety Helm",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Lumberjacks_Safety_Helm.png?c979ad",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+1 to Physical Skills",
+      "+15 to Strength",
+      "+10 to Armor",
+      "Replenish Life 15%",
+      "+15 to Life",
+      "+15% to All Resistances"
+    ]
+  },
+  {
+    "name": "Viking's Sacred Helmet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 54,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Vikings_Sacred_Helmet.png?b28076",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+1 to All Skills",
+      "+[2-5] to All Attributes",
+      "Replenish Life 15%"
+    ]
+  },
+  {
+    "name": "Nomad's Sand Bandana",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 55,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Nomads_Sand_Bandana.png?e95c00",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[10-15]% Increased Attack Rating",
+      "+[2-5] to All Attributes",
+      "Attack Damage increased by [3-8]%"
+    ]
+  },
+  {
+    "name": "Blood-letter's Crown",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 56,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Blood-letters_Crown.png?a8c8e4",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+1 to Physical Skills",
+      "+25 to Strength",
+      "Replenish Life 15%",
+      "Life Increased by 3%"
+    ]
+  },
+  {
+    "name": "Genji's Battle Helmet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 56,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Genjis_Battle_Helmet.png?e49e67",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[20-30]% Increased Attack Speed",
+      "+[80-150] to Attack Rating",
+      "+[5-10]% of target Defense ignored",
+      "+15 to Strength"
+    ]
+  },
+  {
+    "name": "Death Lord's Crown",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Death_Lords_Crown.png?6fe9ab",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[2-3] to Arcane Skills",
+      "+15 to Energy",
+      "+15 to Intelligence",
+      "Socketed (3)"
+    ]
+  },
+  {
+    "name": "Einar's Horned Helmet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Einars_Horned_Helmet.png?76b193",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[50-75] to Attack Rating",
+      "+[2-4]% Life stolen per Hit",
+      "+[20-25]% to Cold Resistance",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Lost Master's Vision",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Lost_Masters_Vision.png?abb7b7",
+    "properties": {
+      "Defense": "93-141"
+    },
+    "stats": [
+      "+[120-160]% Enhanced Defense",
+      "+40% Faster Cast Rate",
+      "+20 to Strength",
+      "+10 to Dexterity",
+      "+15 to Armor"
+    ]
+  },
+  {
+    "name": "Pirate Captain's Hat",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Pirate_Captains_Hat.png?247cab",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+8 to Strength",
+      "+15 to Dexterity",
+      "+[25-35]% to Fire Resistance"
+    ]
+  },
+  {
+    "name": "Valkyrie's Winged Helm",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Valkyries_Winged_Helm.png?6d6fef",
+    "properties": {
+      "Defense": "93-141"
+    },
+    "stats": [
+      "+[120-160]% Enhanced Defense",
+      "+5% Increased Attack Rating",
+      "+[50-70] to Attack Rating",
+      "+20 to Strength",
+      "+10 to Dexterity"
+    ]
+  },
+  {
+    "name": "Chronomancer's Observance",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Chronomancers_Observance.png?a42948",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+75 to Life",
+      "+75 to Mana",
+      "+30% Defense vs Missiles",
+      "+10% to All Resistances",
+      "+15% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Odin's Eternal Visage",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 57,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Odins_Eternal_Visage.png?71f917",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+8 to Energy",
+      "+5 Mana After each Kill",
+      "Life Increased by [3-5]%",
+      "+[5-10]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Thor's Battle Cap",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Thors_Battle_Cap.png?851a63",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+10 to Energy",
+      "-[3-8]% to Enemy Arcane Resistance",
+      "Replenish Mana [10-15]%"
+    ]
+  },
+  {
+    "name": "Venom's Skull",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 59,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Venoms_Skull.png?d67b81",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+1 to Poison Skills",
+      "+1 to Arcane Skills",
+      "+25 to Energy",
+      "Replenish Mana 15%",
+      "Mana Increased by 2%",
+      "+50% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Solar Prophet's Crown",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 60,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Solar_Prophets_Crown.png?c2b90e",
+    "properties": {
+      "Defense": "94-157"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[1-2] to Fire Skills",
+      "+[10-15] to Energy",
+      "+20 to Mana",
+      "+[6-12] Mana After each Kill",
+      "+[1-5]% Fire Damage Absorbed"
+    ]
+  },
+  {
+    "name": "Aztec Crown",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 60,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Aztec_Crown.png?f3f310",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+35 to Dexterity",
+      "+[370-390] to Additive Poison Damage",
+      "Poison Skill Damage increased by [8-15]%",
+      "+220 to Life",
+      "+50% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Redneck's Cap",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 61,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Rednecks_Cap.png?d23f44",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+10 to Strength",
+      "+10 to Vitality",
+      "+[50-60] to Life"
+    ]
+  },
+  {
+    "name": "Lunar Prophet's Tiara",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Lunar_Prophets_Tiara.png?419f21",
+    "properties": {
+      "Defense": "94-157"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[1-2] to Cold Skill Damage",
+      "+[10-15] to Intelligence",
+      "+35 to Mana",
+      "+[6-12] Mana After each Kill",
+      "+[1-5]% Cold Damage Absorbed"
+    ]
+  },
+  {
+    "name": "Zealot's Guise of Doom",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 62,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Zealots_Guise_of_Doom.png?517f7a",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+2 to Arcane Skills",
+      "+15 to Energy",
+      "+5 to Vitality",
+      "+30 to Mana",
+      "Mana Increased by 2%"
+    ]
+  },
+  {
+    "name": "Zeus' Circlet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "A",
+    "level": 64,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Zeus_Circlet.png?cbb9ed",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[12-26] to Lightning Skill Damage",
+      "Lightning Skill Damage increased by [3-8]%",
+      "-[2-5]% to Enemy Lightning Resistance",
+      "+20% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Mevius' Mighty Helmet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Mevius_Mighty_Helmet.png?d1f04b",
+    "properties": {
+      "Defense": "76-125"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "Cooldown Recovery Increased by [5-10]%",
+      "+15 to Vitality",
+      "+8 to All Attributes",
+      "Magic Skill Damage increased by [8-20]%",
+      "All Damage Taken Reduced by 3%"
+    ]
+  },
+  {
+    "name": "Nobunaga's Battle Helmet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Nobunagas_Battle_Helmet.png?26d396",
+    "properties": {
+      "Defense": "111-196"
+    },
+    "stats": [
+      "+[85-145]% Enhanced Defense",
+      "+[2-3] to All Skills",
+      "+30% Faster Cast Rate",
+      "+15 to Energy",
+      "+15 to Intelligence",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "Doctor's Visage",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 74,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Doctors_Visage.png?f85ca1",
+    "properties": {
+      "Defense": "108-176"
+    },
+    "stats": [
+      "+[80-120]% Enhanced Defense",
+      "+[60-80] to Additive Physical Damage",
+      "+30 to Strength",
+      "+30 to Dexterity",
+      "+[30-40] to Life",
+      "+45% to Arcane Resistance",
+      "+45% to Poison Resistance"
+    ]
+  },
+  {
+    "name": "Ymir's Frozen Shroud",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 75,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Ymirs_Frozen_Shroud.png?2dcda7",
+    "properties": {
+      "Defense": "108-184"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[10-20]% Faster Cast Rate",
+      "+[35-50] to Life",
+      "Mana Increased by [5-10]%",
+      "+[30-45]% to Cold Resistance"
+    ]
+  },
+  {
+    "name": "Gladiator's Skullet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Gladiators_Skullet.png?9dd720",
+    "properties": {
+      "Defense": "132-208"
+    },
+    "stats": [
+      "+[120-160]% Enhanced Defense",
+      "+[15-20]% Increased Attack Speed",
+      "+[8-15]% Chance for a Crushing Blow",
+      "+[15-25] to Vitality"
+    ]
+  },
+  {
+    "name": "Thunder Caller's Veil",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Thunder_Callers_Veil.png?48526a",
+    "properties": {
+      "Defense": "99-161"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[1-3] to Lightning Skills",
+      "+10% Faster Cast Rate",
+      "+15 to Intelligence",
+      "+15 to Vitality",
+      "+[30-40]% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Butcher's Hood",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Butchers_Hood.png?75524c",
+    "properties": {
+      "Defense": "132-224"
+    },
+    "stats": [
+      "+[120-180]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+[1-2] to Physical Skills",
+      "+20% Chance for a Deadly Blow",
+      "+[10-20]% of target Defense ignored",
+      "+[1-3]% to Maximum All Resists",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "Sand Manipulator's Mask",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 79,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Sand_Manipulators_Mask.png?ee1842",
+    "properties": {
+      "Defense": "108-184"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[35-50] to Mana",
+      "+[20-30]% to Arcane Resistance",
+      "+[20-30]% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Gabriel's Brimmed Fedora",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 81,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Gabriels_Brimmed_Fedora.png?b277fa",
+    "properties": {
+      "Defense": "108-184"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[3-5]% Increased Critical Strike Chance",
+      "+15 to Strength",
+      "+8 to Vitality",
+      "Attack Damage increased by [5-10]%"
+    ]
+  },
+  {
+    "name": "Wendigo Skull",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 83,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Wendigo_Skull.png?8f3259",
+    "properties": {
+      "Defense": "108-184"
+    },
+    "stats": [
+      "+[80-130]% Enhanced Defense",
+      "+[35-50] to Life",
+      "+[20-30]% to Fire Resistance",
+      "+[20-30]% to Lightning Resistance"
+    ]
+  },
+  {
+    "name": "Sheep King's Crown",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 90,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Sheep_Kings_Crown.png?53f931",
+    "properties": {
+      "Defense": "60-80"
+    },
+    "stats": [
+      "+1 to All Skills",
+      "Mana Increased by [2-5]%",
+      "+15% of Damage Returned to the Attacker",
+      "+[25-35]% of Damage Taken goes to Mana",
+      "Cannot be Frozen"
+    ]
+  },
+  {
+    "name": "High Roller's Deathcrown",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 1,
+    "image": "https://herosiege.wiki.gg/images/Helmets_High_Rollers_Deathcrown.png?798e5a",
+    "properties": {
+      "Defense": "1-100"
+    },
+    "stats": [
+      "+1 to [Roll the Dice]",
+      "+[1-40]% Increased Movement Speed",
+      "+[1-80] to All Attributes",
+      "Attack Damage increased by [1-100]%",
+      "Arcane Skill Damage increased by [1-100]%",
+      "+[1-400] to Life",
+      "+[1-70]% to All Resistances"
+    ]
+  },
+  {
+    "name": "Gaze of the Oblivion",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Gaze_of_the_Oblivion.png?ae81c4",
+    "properties": {
+      "Defense": "600-1200"
+    },
+    "stats": [
+      "20% Chance when Casting [Restless Spirits] Level 51",
+      "+[300-500]% Enhanced Defense",
+      "+[3-6] to Arcane Skills",
+      "Cooldown Recovery Increased by [10-30]%",
+      "+25 to Intelligence",
+      "+[20-40] to Vitality",
+      "+[760-3240] to Arcane Skill Damage",
+      "-10 to Light Radius",
+      "+[10-30]% to All Resistances",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Harlequinn's Veil",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Harlequinns_Veil.png?a016cd",
+    "properties": {
+      "Defense": "180-225"
+    },
+    "stats": [
+      "+[2-5] to All Skills",
+      "+[15-25] to All Attributes",
+      "+[40-75]% Faster Hit Recovery",
+      "Physical Damage Taken Reduced by [8-12]%",
+      "Magic Damage Taken Reduced by [8-12]%",
+      "+525 to Mana (Based on Level)",
+      "+[15-30]% to All Resistances",
+      "+[25-50]% Increased Magic Find",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "Nikita's KJ-33 Helmet",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Nikitas_KJ-33_Helmet.png?845bae",
+    "properties": {
+      "Defense": "175-239"
+    },
+    "stats": [
+      "+[150-165]% Enhanced Defense",
+      "+[1-2] to All Skills",
+      "+3 to Physical Skills",
+      "+40% Chance for a Deadly Blow",
+      "+[25-35]% Increased Attack Rating",
+      "+[8-13]% Life stolen per Hit",
+      "+[20-30]% of target Defense ignored",
+      "Attack Damage increased by [25-50]%"
+    ]
+  },
+  {
+    "name": "Lava King's Lost Mask",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Lava_Kings_Lost_Mask.png?645b8b",
+    "properties": {
+      "Defense": "60-80"
+    },
+    "stats": [
+      "+[1-2] to All Skills",
+      "+[2-4] to Fire Skills",
+      "+40% Faster Cast Rate",
+      "Fire Skill Damage increased by [20-35]%",
+      "-[10-20]% to Enemy Fire Resistance",
+      "+475 to Life (Based on Level)",
+      "+10% Fire Damage Absorbed",
+      "+75% to Fire Resistance",
+      "+[15-25]% Increased Magic Find"
+    ]
+  },
+  {
+    "name": "Sight Of The Gods",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Sight_Of_The_Gods.png?426ea7",
+    "properties": {
+      "Defense": "108-192"
+    },
+    "stats": [
+      "+[80-140]% Enhanced Defense",
+      "+[2-3] to All Skills",
+      "+1 to [Teleport]",
+      "+[15-20] to Energy",
+      "+15 to Vitality",
+      "Magic Skill Damage increased by [20-45]%",
+      "Magic Damage Taken Reduced by [7-15]%",
+      "Half Freeze Duration"
+    ]
+  },
+  {
+    "name": "Grimbone's Visage",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Grimbones_Visage.png?3e3abb",
+    "properties": {
+      "Defense": "126-192"
+    },
+    "stats": [
+      "+[110-140]% Enhanced Damage",
+      "+[2-3] to All Skills",
+      "+[15-25] to Intelligence",
+      "Magic Skill Damage increased by [20-50]%",
+      "Unholy Stat"
+    ]
+  },
+  {
+    "name": "Gabriel's Dauntless Vision",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 92,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Gabriels_Dauntless_Vision.png?f78693",
+    "properties": {
+      "Defense": "1650-2625"
+    },
+    "stats": [
+      "15% Chance when Struck [Gabriels Revenge] Level 3",
+      "+[450-600]% Enhanced Defense",
+      "+[3-5] to All Skills",
+      "Cooldown Recovery Increased by [30-50]%",
+      "Magic Skill Damage increased by [5-25]%",
+      "+250% Defense vs Missiles",
+      "+[4-8] to Light Radius",
+      "Physical Damage Taken Reduced by [8-15]%",
+      "Magic Damage Taken Reduced by [8-15]%",
+      "Unbreakable",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "Eternal Death",
+    "category": "Armor",
+    "type": "Helmets",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Helmets_Eternal_Death.png?f3eec5",
+    "properties": {
+      "Defense": "N/A"
+    },
+    "stats": [
+      "20% Chance when Struck [Wall of Eternity] Level 1",
+      "+[450-600]% Enhanced Defense",
+      "+[4-5] to All Skills",
+      "+[1-3] to [Eternal Armor]",
+      "+[50-75] to Vitality",
+      "+[50-75] to Armor",
+      "Replenish Life [75-100]%",
+      "+100% Faster Hit Recovery",
+      "Life Increased by [22-30]%",
+      "+[750-1000]% of Damage Returned to the Attacker",
+      "Unbreakable",
+      "Socketed (4)"
+    ]
+  }
+]

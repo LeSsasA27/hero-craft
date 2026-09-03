@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Crystal Infused Axe",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 10,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Crystal_Infused_Axe.png?ab3238",
+    "properties": {
+      "Damage": "18-31",
+      "APS": "1.35",
+      "DPS": "25-42"
+    },
+    "stats": [
+      "+[125-180]% Enhanced Damage",
+      "+15% Chance for a Deadly Blow",
+      "+25% of target Defense ignored",
+      "Attack Damage increased by 10%",
+      "+3 Life After each Kill",
+      "+3 Mana After each Kill",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Rift Commander's Axe",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 66,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Rift_Commanders_Axe.png?2b443c",
+    "properties": {
+      "Damage": "227-298",
+      "APS": "1.1",
+      "DPS": "250-328"
+    },
+    "stats": [
+      "+[320-380]% Enhanced Damage",
+      "+10% Increased Critical Strike Chance",
+      "+[4-8]% Life stolen per Hit",
+      "+[20-30]% Increased Critical Strike Damage",
+      "+10 to Vitality",
+      "Physical Damage Taken Reduced by 5%",
+      "+5% Increased Experience Gain",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Odin's Battle Axe",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 82,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Odins_Battle_Axe.png?57fd2c",
+    "properties": {
+      "Damage": "414-472",
+      "APS": "1.2",
+      "DPS": "497-567"
+    },
+    "stats": [
+      "8% Chance when Striking [Shockwave] Level 17",
+      "+[275-305]% Enhanced Damage",
+      "+[1250-1475] to Additive Physical Damage",
+      "+30% Magic Find (Based on Level)",
+      "+200% Enhanced Damage (Based on Level)",
+      "+100 to Vitality (Based on Level)",
+      "Attacks can hit multiple enemies",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "Inferno Slayer",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 84,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Inferno_Slayer.png?d2ceca",
+    "properties": {
+      "Damage": "507-572",
+      "APS": "1.2",
+      "DPS": "609-687"
+    },
+    "stats": [
+      "+250% Enhanced Damage",
+      "+[35-50] to [Deadly Whirl]",
+      "+[1850-1950] to Additive Fire Damage",
+      "+[425-735] to Life",
+      "+300% Enhanced Damage (Based on Level)",
+      "+65 to Strength (Based on Level)",
+      "+50 to Vitality (Based on Level)",
+      "Attacks can hit multiple enemies",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Abomination's Gut Ripper",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Abominations_Gut_Ripper.png?3d5339",
+    "properties": {
+      "Damage": "563-689",
+      "APS": "1.37-2.5",
+      "DPS": "771-1723"
+    },
+    "stats": [
+      "10% Chance after each Kill [Bone Storm] Level 42",
+      "2% Chance when Striking [Chainslice] Level 125",
+      "+[660-740]% Enhanced Damage",
+      "+[5-10] to Physical Skills",
+      "Attack Range Increased by [25-40]%",
+      "+[10-100]% Increased Attack Speed",
+      "+25% Chance to Open Wounds",
+      "Slows target by 75%",
+      "Unholy Stat",
+      "+100 to Strength (Based on Level)",
+      "+50 to Dexterity (Based on Level)",
+      "Attacks can hit multiple enemies",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "Viking's Sacred Axe",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 75,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Vikings_Sacred_Axe.png?b4b92c",
+    "properties": {
+      "Damage": "278-344",
+      "APS": "1.62",
+      "DPS": "450-556"
+    },
+    "stats": [
+      "+[285-340]% Enhanced Damage",
+      "+[3-5] to [Berserk]",
+      "+15% Increased Movement Speed",
+      "+20% Increased Attack Speed",
+      "+[635-720] to Attack Rating",
+      "+[175-220] to Additive Lightning Damage",
+      "Attacks can hit multiple enemies",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "Gem King's Cleaver",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Gem_Kings_Cleaver.png?f6450d",
+    "properties": {
+      "Damage": "592-656",
+      "APS": "1.1",
+      "DPS": "652-722"
+    },
+    "stats": [
+      "+700% Enhanced Damage",
+      "Attacks can hit multiple enemies",
+      "Socketed (6)"
+    ]
+  },
+  {
+    "name": "Wraith Forged Cleaver",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Wraith_Forged_Cleaver.png?44275f",
+    "properties": {
+      "Damage": "524-652",
+      "APS": "1.1",
+      "DPS": "576-717"
+    },
+    "stats": [
+      "15% Chance when Striking [Slice of Shadows] Level 66",
+      "+[580-640]% Enhanced Damage",
+      "+[5-10] to All Skills",
+      "+[12-18]% Life stolen per Hit",
+      "+100% Increased Critical Strike Chance",
+      "+50% of target Defense ignored",
+      "+33% Chance to Open Wounds",
+      "+[22-35] Mana After each Kill",
+      "Attacks can hit multiple enemies",
+      "[Dark Oath] Level [20-40] (Holder Only)",
+      "Socketed (0-6)"
+    ]
+  },
+  {
+    "name": "Headsman's Bloodthirster",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 96,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Headsmans_Bloodthirster.png?c620c3",
+    "properties": {
+      "Damage": "819-1173",
+      "APS": "1",
+      "DPS": "819-1173"
+    },
+    "stats": [
+      "+[810-920]% Enhanced Damage",
+      "+[5-9] to Physical Skills",
+      "+[1-5] to [Execution]",
+      "+10% Increased Critical Strike Chance",
+      "+25% of target Defense ignored",
+      "Extra Damage to Bleeding Monsters [30-50]%",
+      "+20 to Strength",
+      "+30 to Dexterity",
+      "Physical Damage Taken Reduced by [8-14]%",
+      "Magic Damage Taken Reduced by [8-14]%",
+      "+1200 to Attack Rating (Based on Level)",
+      "Attacks can hit multiple enemies",
+      "Socketed (2-5)"
+    ]
+  },
+  {
+    "name": "Winter's Bite",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 97,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Winters_Bite.png?b1c604",
+    "properties": {
+      "Damage": "481-683",
+      "APS": "2.1-2.8",
+      "DPS": "1010-1911"
+    },
+    "stats": [
+      "15% Chance when Striking [Breath of Ice] Level 53",
+      "+[675-775]% Enhanced Damage",
+      "+[1-2] to All Skills",
+      "+[1-2] to Cold Skills",
+      "+[20-60]% Increased Attack Speed",
+      "+15 to Attack Rating",
+      "+[7-12]% Mana stolen per Hit",
+      "Extra Damage to Deep Frozen Monsters [10-25]%",
+      "+[30-50] to Dexterity",
+      "+[3-5]% Cold Damage Absorbed",
+      "Attacks can hit multiple enemies",
+      "Cannot be Frozen",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Aurelion Fury",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_Aurelion_Fury.png?ca18dc",
+    "properties": {
+      "Damage": "879-1129",
+      "APS": "1",
+      "DPS": "879-1129"
+    },
+    "stats": [
+      "+[825-975]% Enhanced Damage",
+      "+[5-8] to All Skills",
+      "Total Attack Speed Reduced by -75%",
+      "+[7-13]% Mana stolen per Hit",
+      "+[40-65] to Vitality",
+      "+35 to All Attributes",
+      "Unholy Stat",
+      "Unholy Stat",
+      "+[30-40]% to All Resistances",
+      "Unholy Stat",
+      "Attacks can hit multiple enemies",
+      "[Lunar Aura] Level [20-45]",
+      "Socketed (4-6)"
+    ]
+  },
+  {
+    "name": "St. Rexis Sundering Axe",
+    "category": "Weapons",
+    "type": "Axes",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Axe_St._Rexis_Sundering_Axe.png?c79f2a",
+    "properties": {
+      "Damage": "683-808",
+      "APS": "2.75-3.04",
+      "DPS": "1877-2456"
+    },
+    "stats": [
+      "23% Chance when Striking [Fault Line] Level 147",
+      "+[775-885]% Enhanced Damage",
+      "+[3-4] to All Skills",
+      "+[45-60]% Increased Attack Speed",
+      "+50% Chance for a Crushing Blow",
+      "+[12-20]% Life stolen per Hit",
+      "+75% of target Defense ignored",
+      "+75 to Strength",
+      "+45 Life After each Kill",
+      "Attacks can hit multiple enemies",
+      "Socketed (3-5)"
+    ]
+  }
+]
