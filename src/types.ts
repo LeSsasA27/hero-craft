@@ -17,3 +17,54 @@ export type Rune = {
 }
 
 export type RuneInventory = Record<string, number>
+
+export type ItemCategory =
+    | 'Weapons'
+    | 'Armor'
+    | 'Jewellery'
+    | 'Special Items'
+
+export type ItemType =
+    | 'Swords'
+    | 'Daggers'
+    | 'Maces'
+    | 'Axes'
+    | 'Claws'
+    | 'Polearms'
+    | 'Chainsaws'
+    | 'Staves'
+    | 'Canes'
+    | 'Wands'
+    | 'Books'
+    | 'Spellblades'
+    | 'Bows'
+    | 'Guns'
+    | 'Flasks'
+    | 'Throwing Weapons'
+    | 'Helmets'
+    | 'Body Armors'
+    | 'Gloves'
+    | 'Boots'
+    | 'Shield'
+    | 'Amulets'
+    | 'Rings'
+    | 'Belts'
+    | 'Charms'
+    | 'Relics'
+    | 'Glyphs'
+    | 'Potions'
+
+export type Item = {
+    name: string
+    category: ItemCategory
+    type: ItemType
+
+    rarity: string
+    tier: string
+    level: number | null
+
+    image?: string
+
+    properties: Record<string, string>
+    stats: string[]
+}

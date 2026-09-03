@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Crystal Infused Sword",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "D",
+    "level": 11,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Crystal_Infused_Sword.png?f54005",
+    "properties": {
+      "Damage": "40-56",
+      "APS": "1.25",
+      "DPS": "49-70"
+    },
+    "stats": [
+      "+[180-210]% Enhanced Damage",
+      "+20% Chance for a Crushing Blow",
+      "+[3-6]% Increased Attack Rating",
+      "+[50-75] to Attack Rating",
+      "+5% Life stolen per Hit",
+      "+10 to Strength",
+      "+10 Life After each Kill",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Jade Warrior's Gladius",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 27,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Jade_Warriors_Gladius.png?377779",
+    "properties": {
+      "Damage": "85-122",
+      "APS": "1.35",
+      "DPS": "115-165"
+    },
+    "stats": [
+      "+[225-280]% Enhanced Damage",
+      "+[5-10] to Strength",
+      "+5 to Vitality",
+      "+[135-155] to Additive Poison Damage",
+      "+30 to Life",
+      "+5 Life After each Kill",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Hiyoki's Vorpal Katana",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 28,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Hiyokis_Vorpal_Katana.png?c30d7f",
+    "properties": {
+      "Damage": "85-122",
+      "APS": "1.95-2.17",
+      "DPS": "165-264"
+    },
+    "stats": [
+      "+[225-280]% Enhanced Damage",
+      "+10% Increased Movement Speed",
+      "+[30-45]% Increased Attack Speed",
+      "+[5-10]% Increased Attack Rating",
+      "+[5-10]% Life stolen per Hit",
+      "+[10-15] to Strength",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Sanguine Blade",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "C",
+    "level": 30,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Sanguine_Blade.png?4b7cd8",
+    "properties": {
+      "Damage": "38-55",
+      "APS": "1.97-2.14",
+      "DPS": "74-118"
+    },
+    "stats": [
+      "+[150-175]% Enhanced Damage",
+      "+[20-30]% Increased Attack Speed",
+      "+5% Increased Attack Rating",
+      "+[6-10]% Life stolen per Hit",
+      "+6 to Vitality",
+      "Replenish Life 8%",
+      "+15 to Life",
+      "+8 Life After each Kill",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Hanzo's Flaming Katana",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 34,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Hanzos_Flaming_Katana.png?7b118f",
+    "properties": {
+      "Damage": "180-230",
+      "APS": "1.32-1.56",
+      "DPS": "238-359"
+    },
+    "stats": [
+      "100% Chance to Cast after each Kill [Scorching Flames] Level 19",
+      "18% Chance when Striking [Fire Nova] Level 27",
+      "+[350-400]% Enhanced Damage",
+      "+[10-30]% Increased Attack Speed",
+      "+444 to Attack Rating",
+      "+25 to Strength",
+      "+[225-340] to Additive Fire Damage",
+      "+[250-325] to Fire Skill Damage",
+      "Fire Skill Damage increased by [25-40]%",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Shattered Dimensions",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 36,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Shattered_Dimensions.png?9b3eab",
+    "properties": {
+      "Damage": "160-217",
+      "APS": "1.2",
+      "DPS": "192-260"
+    },
+    "stats": [
+      "+[300-370]% Enhanced Damage",
+      "+50% Increased Movement Speed",
+      "+5% Increased Critical Strike Chance",
+      "+15% Increased Critical Strike Damage",
+      "+[30-45] to Strength",
+      "+30% Magic Find (Based on Level)",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "Ashbringer",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 37,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Ashbringer.png?ce8fd8",
+    "properties": {
+      "Damage": "156-203",
+      "APS": "1.1",
+      "DPS": "172-223"
+    },
+    "stats": [
+      "+[290-340]% Enhanced Damage",
+      "+[45-50]% Increased Attack Rating",
+      "+[345-355] to Additive Fire Damage",
+      "+[40-50] to Life",
+      "+100 to Damage (Based on Level)",
+      "+[25-40]% to Fire Resistance",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "Storm Katana",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 38,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Storm_Katana.png?280885",
+    "properties": {
+      "Damage": "164-217",
+      "APS": "1.68-1.95",
+      "DPS": "276-422"
+    },
+    "stats": [
+      "8% Chance when Striking [Lightning Fury] Level 13",
+      "+[310-370]% Enhanced Damage",
+      "+[20-40]% Increased Attack Speed",
+      "+[3-6]% Life stolen per Hit",
+      "+[5-10] to Strength",
+      "+[345-365] to Additive Lightning Damage",
+      "+5 Life After each Kill",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "Molten Sword",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 39,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Molten_Sword.png?762f47",
+    "properties": {
+      "Damage": "160-217",
+      "APS": "1.48-1.62",
+      "DPS": "237-351"
+    },
+    "stats": [
+      "+[300-370]% Enhanced Damage",
+      "+[10-20]% Increased Attack Speed",
+      "+[2-10]% Increased Critical Strike Chance",
+      "+[7-15]% Increased Critical Strike Damage",
+      "+[310-330] to Additive Fire Damage",
+      "Fire Skill Damage increased by 15%",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "Sand Crusader's Scimitar",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "B",
+    "level": 42,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Sand_Crusaders_Scimitar.png?db9d35",
+    "properties": {
+      "Damage": "68-90",
+      "APS": "1.97-2.14",
+      "DPS": "133-192"
+    },
+    "stats": [
+      "+[180-220]% Enhanced Damage",
+      "+[20-30]% Increased Attack Speed",
+      "+10% Chance for a Deadly Blow",
+      "+165 to Attack Rating",
+      "+7% Mana stolen per Hit",
+      "+30% of target Defense ignored",
+      "+10 to Dexterity",
+      "Attack Damage increased by [5-10]%"
+    ]
+  },
+  {
+    "name": "Gut's BFS",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 52,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Guts_BFS.png?cc2092",
+    "properties": {
+      "Damage": "292-360",
+      "APS": "1.5",
+      "DPS": "437-540"
+    },
+    "stats": [
+      "15% Chance when Attacking [Whirlwind] Level 22",
+      "+[420-480]% Enhanced Damage",
+      "+20% Increased Attack Speed",
+      "+225 to Attack Rating",
+      "+[540-580] to Additive Physical Damage",
+      "+5% Life stolen per Hit",
+      "+50% of target Defense ignored",
+      "+35 to Strength",
+      "+10 to Vitality",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Wind Guardian's Gladius",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 61,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Wind_Guardians_Gladius.png?a2589e",
+    "properties": {
+      "Damage": "109-137",
+      "APS": "1.3-1.5",
+      "DPS": "142-206"
+    },
+    "stats": [
+      "5% Chance when Struck [Sand Guardians] Level 15",
+      "+[240-280]% Enhanced Damage",
+      "+[30-50]% Increased Attack Speed",
+      "+[285-320] to Attack Rating",
+      "+20% Chance to Open Wounds",
+      "+[3-5] to All Attributes",
+      "+[530-645] to Additive Lightning Damage"
+    ]
+  },
+  {
+    "name": "Godfather",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 65,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Godfather.png?7412c4",
+    "properties": {
+      "Damage": "252-310",
+      "APS": "1.25",
+      "DPS": "315-388"
+    },
+    "stats": [
+      "+[350-400]% Enhanced Damage",
+      "+[45-50]% Increased Attack Rating",
+      "+[15-20]% Increased Critical Strike Damage",
+      "+[15-20] to Vitality",
+      "+[40-50] to Life",
+      "+175 to Damage (Based on Level)"
+    ]
+  },
+  {
+    "name": "Holy Warrior's Phase Blade",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "A",
+    "level": 66,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Holy_Warriors_Phase_Blade.png?6b9aa5",
+    "properties": {
+      "Damage": "103-137",
+      "APS": "1.62-1.87",
+      "DPS": "166-256"
+    },
+    "stats": [
+      "10% Chance when Striking [Holy Hammer] Level 27",
+      "+[220-280]% Enhanced Damage",
+      "+[30-50]% Increased Attack Speed",
+      "+[185-220] to Attack Rating",
+      "+[3-5] to All Attributes",
+      "+[475-585] to Additive Arcane Damage",
+      "Arcane Skill Damage increased by [8-20]%"
+    ]
+  },
+  {
+    "name": "The Undying",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 75,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_The_Undying.png?682884",
+    "properties": {
+      "Damage": "533-630",
+      "APS": "1.2",
+      "DPS": "640-756"
+    },
+    "stats": [
+      "+[550-600]% Enhanced Damage",
+      "+[25-30] to Vitality",
+      "+[20-25] to Armor",
+      "+[1340-1560] to Additive Cold Damage",
+      "+50% of Damage Returned to the Attacker",
+      "Physical Damage Taken Reduced by 15%",
+      "Attacks can hit multiple enemies",
+      "Socketed (2-4)"
+    ]
+  },
+  {
+    "name": "Azure's Wrath",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 78,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Azures_Wrath.png?51537a",
+    "properties": {
+      "Damage": "185-227",
+      "APS": "2.27",
+      "DPS": "420-515"
+    },
+    "stats": [
+      "+[285-320]% Enhanced Damage",
+      "+[1-2] to All Skills",
+      "+30% Increased Attack Speed",
+      "+15 to All Attributes",
+      "+[1125-1300] to Additive Arcane Damage",
+      "+[1125-1300] to Additive Cold Damage",
+      "+3 to Light Radius"
+    ]
+  },
+  {
+    "name": "Eternal Glaive",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Eternal_Glaive.png?27facf",
+    "properties": {
+      "Damage": "252-303",
+      "APS": "2.16-2.34",
+      "DPS": "545-708"
+    },
+    "stats": [
+      "52% Chance when Attacking [Chainslice] Level 47",
+      "+[425-460]% Enhanced Damage",
+      "+[20-30]% Increased Attack Speed",
+      "+15% Increased Critical Strike Chance",
+      "+10% Chance for a Crushing Blow",
+      "+[450-475] to Attack Rating",
+      "+[2-5]% Mana stolen per Hit",
+      "+[10-20]% Increased Critical Strike Damage",
+      "+[20-30] to Dexterity"
+    ]
+  },
+  {
+    "name": "Gut's HFS",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic",
+    "tier": "SS",
+    "level": 94,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Guts_HFS.png?25a297",
+    "properties": {
+      "Damage": "648-858",
+      "APS": "1.62",
+      "DPS": "1050-1390"
+    },
+    "stats": [
+      "35% Chance when Attacking [Whirlwind] Level 42",
+      "+[620-680]% Enhanced Damage",
+      "+30% Increased Attack Speed",
+      "+625 to Attack Rating",
+      "+[840-880] to Additive Physical Damage",
+      "+10% Life stolen per Hit",
+      "+25% of target Defense ignored",
+      "+60 to Strength",
+      "+25 to Vitality",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-3)"
+    ]
+  },
+  {
+    "name": "Nomad's Sandslicer",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 51,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Nomads_Sandslicer.png?3ecadf",
+    "properties": {
+      "Damage": "521-646",
+      "APS": "1.5",
+      "DPS": "782-969"
+    },
+    "stats": [
+      "+[520-580]% Enhanced Damage",
+      "+[20-40]% Increased Movement Speed",
+      "+15% Chance for a Crushing Blow",
+      "+25% Increased Attack Rating",
+      "+40% of target Defense ignored",
+      "+30 to Strength",
+      "+30 to Dexterity",
+      "Attack Damage increased by [15-30]%",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "Thor's Battle Sword",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 56,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Thors_Battle_Sword.png?89a999",
+    "properties": {
+      "Damage": "154-206",
+      "APS": "1.5",
+      "DPS": "231-308"
+    },
+    "stats": [
+      "+[220-280]% Enhanced Damage",
+      "+[2-4] to Arcane Skills",
+      "+25 to Energy",
+      "+15 to All Attributes",
+      "Arcane Skill Damage increased by [20-35]%",
+      "Replenish Mana 30%",
+      "+[12-20] Mana After each Kill",
+      "+75% to Arcane Resistance"
+    ]
+  },
+  {
+    "name": "Steve's Mighty Sword",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 58,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Steves_Mighty_Sword.png?15d48f",
+    "properties": {
+      "Damage": "188-249",
+      "APS": "1.72-1.95",
+      "DPS": "322-485"
+    },
+    "stats": [
+      "8% Chance when Striking [Steves Itchy Sack] Level 39",
+      "+[290-360]% Enhanced Damage",
+      "+[15-30]% Increased Attack Speed",
+      "+[800-1000] to Attack Rating",
+      "+[101-420] to Additive Physical Damage",
+      "+40 to All Attributes",
+      "+[101-420] to Additive Arcane Damage",
+      "+[101-420] to Additive Lightning Damage",
+      "+[101-420] to Additive Poison Damage",
+      "+[101-420] to Additive Fire Damage",
+      "+[101-420] to Additive Cold Damage"
+    ]
+  },
+  {
+    "name": "Genji's Sword of Fate",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 66,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Genjis_Sword_of_Fate.png?18e5e0",
+    "properties": {
+      "Damage": "287-360",
+      "APS": "1.89-2.29",
+      "DPS": "543-825"
+    },
+    "stats": [
+      "15% Chance when Striking [Empires Slash] Level 44",
+      "+[250-300]% Enhanced Damage",
+      "+[10-30]% Increased Movement Speed",
+      "+[40-70]% Increased Attack Speed",
+      "+25% Increased Attack Rating",
+      "+[540-665] to Attack Rating",
+      "+20 to Vitality",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "Dante's Demon Blade",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 68,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Dantes_Demon_Blade.png?5f72e9",
+    "properties": {
+      "Damage": "509-612",
+      "APS": "1.62-2",
+      "DPS": "824-1224"
+    },
+    "stats": [
+      "+[520-580]% Enhanced Damage",
+      "+[30-60]% Increased Attack Speed",
+      "+20% Chance for a Deadly Blow",
+      "+1225 to Attack Rating",
+      "+25% Chance to Open Wounds",
+      "+45 to Strength",
+      "+25 to Dexterity",
+      "Attack Damage increased by [20-30]%",
+      "Attacks can hit multiple enemies"
+    ]
+  },
+  {
+    "name": "Muramasa",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 83,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Muramasa.png?4cc10c",
+    "properties": {
+      "Damage": "255-314",
+      "APS": "1.5",
+      "DPS": "382-470"
+    },
+    "stats": [
+      "10% Chance when Striking [Battle Glance] Level 27",
+      "+[430-480]% Enhanced Damage",
+      "+20% Chance for a Crushing Blow",
+      "+15% Increased Attack Rating",
+      "+30 to Strength",
+      "Attack Damage increased by [15-25]%"
+    ]
+  },
+  {
+    "name": "Masamune",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic Set",
+    "tier": "S",
+    "level": 85,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Masamune.png?7e10c0",
+    "properties": {
+      "Damage": "255-314",
+      "APS": "1.79",
+      "DPS": "456-561"
+    },
+    "stats": [
+      "10% Chance when Attacking [Zeal] Level 28",
+      "+[430-480]% Enhanced Damage",
+      "+20% Increased Attack Speed",
+      "+35% Chance for a Deadly Blow",
+      "+825 to Attack Rating",
+      "+30 to Dexterity"
+    ]
+  },
+  {
+    "name": "Daisy",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Satanic Set",
+    "tier": "SS",
+    "level": 97,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Daisy.png?5b14f4",
+    "properties": {
+      "Damage": "481-578",
+      "APS": "1.25",
+      "DPS": "601-723"
+    },
+    "stats": [
+      "+[675-750]% Enhanced Damage",
+      "+[1-4] to Physical Skills",
+      "+30% Increased Attack Rating",
+      "+[10-25]% Life stolen per Hit",
+      "+[25-45]% Increased Critical Strike Damage",
+      "Slows target by [40-60]%",
+      "+45 to Strength",
+      "+[30-50] to Dexterity",
+      "+[15-30] Life After each Kill",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-2)"
+    ]
+  },
+  {
+    "name": "Bonetti's Rapier",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 93,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Bonettis_Rapier.png?f94b43",
+    "properties": {
+      "Damage": "334-416",
+      "APS": "2.4-2.96",
+      "DPS": "801-1232"
+    },
+    "stats": [
+      "+[475-550]% Enhanced Damage",
+      "+10 to [Parry]",
+      "+[30-60]% Increased Attack Speed",
+      "+25% Increased Critical Strike Chance",
+      "+25% Chance for a Crushing Blow",
+      "+[375-410] to Attack Rating",
+      "+[3-6]% Life stolen per Hit",
+      "+45% Increased Critical Strike Damage",
+      "+20% Chance to Open Wounds",
+      "+[20-30] to Strength",
+      "+25% Faster Hit Recovery",
+      "Socketed (1-3)"
+    ]
+  },
+  {
+    "name": "Glowstick Estoc",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 95,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Glowstick_Estoc.png?42f81a",
+    "properties": {
+      "Damage": "627-855",
+      "APS": "2.36-2.62",
+      "DPS": "1480-2241"
+    },
+    "stats": [
+      "8% Chance when Striking [Vacuuming Strike] Level 2",
+      "15% Chance when Attacking [Weapon Throw] Level 59",
+      "+[725-850]% Enhanced Damage",
+      "+[3-4] to All Skills",
+      "+[1-5] to [Returning Projectiles]",
+      "+[35-50]% Increased Attack Speed",
+      "+1750 to Attack Rating",
+      "+[40-60] to Strength",
+      "+45 to Dexterity",
+      "Attack Damage increased by [45-65]%",
+      "Attacks can hit multiple enemies",
+      "Socketed (3-5)"
+    ]
+  },
+  {
+    "name": "Grimbone's Scythe",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 98,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Grimbones_Scythe.png?7ef9ac",
+    "properties": {
+      "Damage": "623-900",
+      "APS": "1.65",
+      "DPS": "1027-1485"
+    },
+    "stats": [
+      "25% Chance when Striking [Grim Bones] Level 69",
+      "+[555-620]% Enhanced Damage",
+      "+[1-3] to All Skills",
+      "+1250 to Attack Rating",
+      "+20% Life stolen per Hit",
+      "+[100-125]% Increased Critical Strike Damage",
+      "+75 to Strength",
+      "+30 to Vitality",
+      "Attacks can hit multiple enemies",
+      "Socketed (0-5)"
+    ]
+  },
+  {
+    "name": "Arch Angel's Phase Blade",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Heroic",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Arch_Angels_Phase_Blade.png?ba844a",
+    "properties": {
+      "Damage": "186-244",
+      "APS": "2.14-2.47",
+      "DPS": "398-601"
+    },
+    "stats": [
+      "20% Chance when Striking [Holy Hammer] Level 68",
+      "+[220-280]% Enhanced Damage",
+      "+[30-50]% Increased Attack Speed",
+      "+[1185-1320] to Attack Rating",
+      "+[15-25] to All Attributes",
+      "+[2475-2685] to Additive Arcane Damage",
+      "Arcane Skill Damage increased by [25-50]%"
+    ]
+  },
+  {
+    "name": "Gabriel's Broken Resolve",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 97,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Gabriels_Broken_Resolve.png?2ba507",
+    "properties": {
+      "Damage": "432-590",
+      "APS": "1.75",
+      "DPS": "756-1033"
+    },
+    "stats": [
+      "15% Chance when Attacking [Gabriels Shadow] Level 1",
+      "+[575-666]% Enhanced Damage",
+      "+2 to All Skills",
+      "+[18-35]% Life stolen per Hit",
+      "+40% of target Defense ignored",
+      "+35 to Strength",
+      "+[15-30] to All Attributes",
+      "Unholy Stat",
+      "Unholy Stat",
+      "Unbreakable",
+      "Socketed (1-4)"
+    ]
+  },
+  {
+    "name": "The Hope Ender",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_The_Hope_Ender.png?71292c",
+    "properties": {
+      "Damage": "920-1226",
+      "APS": "1.25",
+      "DPS": "1149-1532"
+    },
+    "stats": [
+      "10% Chance after each Kill [Gabriels Shadow] Level 1",
+      "25% Chance when Striking [Gabriels Annihilation] Level 3",
+      "1% Chance when Struck [Demon Form] Level 60",
+      "+666% Enhanced Damage",
+      "+[4-7] to All Skills",
+      "+[10-20] to [Enraged Mania]",
+      "+[15-22]% Mana stolen per Hit",
+      "+[70-90] to Strength",
+      "+[70-90] to Dexterity",
+      "Attacks can hit multiple enemies",
+      "Unbreakable",
+      "Socketed (4-6)"
+    ]
+  },
+  {
+    "name": "Blood Moon Crescent",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Blood_Moon_Crescent.png?5b8532",
+    "properties": {
+      "Damage": "750-882",
+      "APS": "2.09-2.8",
+      "DPS": "1568-2469"
+    },
+    "stats": [
+      "10% Chance when Striking [Despair] Level 80",
+      "+[900-975]% Enhanced Damage",
+      "+[2-3] to All Skills",
+      "+8 to Poison Skills",
+      "+69% Increased Movement Speed",
+      "+[50-100]% Increased Attack Speed",
+      "Skill Movement Diminish Decreased by 75%",
+      "+15% Life stolen per Hit",
+      "+[125-150] to Dexterity",
+      "Movement Phasing",
+      "Unbreakable",
+      "Socketed (2)"
+    ]
+  },
+  {
+    "name": "Stofflix Cooking Cleaver",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Unholy",
+    "tier": "SS",
+    "level": 100,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_Stofflix_Cooking_Cleaver.png?c48ede",
+    "properties": {
+      "Damage": "459-551",
+      "APS": "2.47-2.88",
+      "DPS": "1134-1587"
+    },
+    "stats": [
+      "[10-15]% Chance when Casting [Supernova] Level [75-85]",
+      "+[575-625]% Enhanced Damage",
+      "+2 to All Skills",
+      "+8 to Fire Skills",
+      "+[40-55]% Faster Cast Rate",
+      "+[50-75]% Increased Attack Speed",
+      "Extra Damage to Burning Monsters [35-50]%",
+      "+[20-30] to All Attributes",
+      "+[10000-15000] to Additive Fire Damage",
+      "Fire Skill Damage increased by 35%",
+      "Unbreakable",
+      "Socketed (4)"
+    ]
+  },
+  {
+    "name": "St. Mika's Zweihänder",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 95,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_St._Mikas_Zweih%C3%A4nder.png?f89863",
+    "properties": {
+      "Damage": "743-1045",
+      "APS": "2.44-2.8",
+      "DPS": "1812-2926"
+    },
+    "stats": [
+      "18% Chance when Striking [Divine Storm] Level 89",
+      "+[725-850]% Enhanced Damage",
+      "+5 to All Skills",
+      "+[40-60]% Increased Attack Speed",
+      "+1555 to Attack Rating",
+      "+15 to Energy",
+      "+30 to Vitality",
+      "+35 to All Attributes",
+      "+[2175-2425] to Additive Lightning Damage",
+      "Lightning Skill Damage increased by [35-60]%",
+      "Attacks can hit multiple enemies",
+      "Socketed (2-6)"
+    ]
+  },
+  {
+    "name": "St. Gabriel's Retribution",
+    "category": "Weapons",
+    "type": "Swords",
+    "rarity": "Angelic",
+    "tier": "SS",
+    "level": 97,
+    "image": "https://herosiege.wiki.gg/images/Weapons_Sword_St._Gabriels_Retribution.png?49eb6e",
+    "properties": {
+      "Damage": "656-776",
+      "APS": "2.39-2.72",
+      "DPS": "1566-2109"
+    },
+    "stats": [
+      "15% Chance when Striking [Gabriels Glory] Level 120",
+      "+[810-920]% Enhanced Damage",
+      "+[3-4] to All Skills",
+      "+[45-65]% Increased Attack Speed",
+      "+50 to All Attributes",
+      "+[15000-20000] to Additive Arcane Damage",
+      "+5 to Light Radius",
+      "Socketed (2-4)"
+    ]
+  }
+]

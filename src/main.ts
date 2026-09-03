@@ -15,7 +15,11 @@ import { getVersion } from '@tauri-apps/api/app'
 import { isTauri } from '@tauri-apps/api/core'
 import { check, type Update } from '@tauri-apps/plugin-updater'
 import { relaunch } from '@tauri-apps/plugin-process'
-
+import { items } from "./data/items.ts";
+import { itemCard } from "./ui/itemCard.ts";
+import { itemTypesByCategory } from "./data/itemTypes.ts";
+import type { ItemCategory } from "./types.ts";
+import { filterItems } from "./logic/filterItems.ts";
 
 function getElement<T extends Element>(selector: string): T {
     const element = document.querySelector<T>(selector)
@@ -54,6 +58,10 @@ app.innerHTML = `
         
             <button class="nav-button" data-view="craft">
               <span>Craft Finder</span>
+            </button>
+            
+            <button class="nav-button"data-view="items">
+              <span>Items</span>
             </button>
           </nav>
           
@@ -180,6 +188,75 @@ app.innerHTML = `
             
               <div id="craft-results"></div>
             </section>
+            
+            <section id="view-items" class="view hidden">
+              <div class="view-header">
+                <div>
+                  <h2>Items</h2>
+                  <p id="item-count" class="result-count">
+                    0 items
+                  </p>
+                </div>
+            
+                <div class="view-controls">
+                  <input
+                    id="item-search"
+                    class="search"
+                    type="text"
+                    placeholder="Search item or stat..."
+                  >
+            
+                  <select
+                    id="item-category-filter"
+                    class="base-filter"
+                  >
+                    <option value="">All categories</option>
+                    <option value="Weapons">Weapons</option>
+                    <option value="Armor">Armor</option>
+                    <option value="Jewellery">Jewellery</option>
+                    <option value="Special Items">Special Items</option>
+                  </select>
+            
+                  <select
+                    id="item-type-filter"
+                    class="base-filter"
+                  >
+                    <option value="">All types</option>
+                  </select>
+                </div>
+              </div>
+            
+              <div class="item-layout">
+                <div
+                  id="item-list"
+                  class="item-list"
+                ></div>
+            
+                <aside
+                  id="item-detail-panel"
+                  class="detail-panel hidden"
+                >
+                  <div class="detail-panel-header">
+                    <span class="detail-panel-title">
+                      Item details
+                    </span>
+            
+                    <button
+                      id="item-detail-close"
+                      class="detail-close"
+                      type="button"
+                    >
+                      ×
+                    </button>
+                  </div>
+            
+                  <div
+                    id="item-detail-content"
+                    class="detail-content"
+                  ></div>
+                </aside>
+              </div>
+            </section>
         </main>
     </div>
 `
@@ -207,7 +284,75 @@ const updateStatus = getElement<HTMLElement>('#update-status')
 const statusDot = getElement<HTMLElement>('#status-dot')
 const updateButton = getElement<HTMLButtonElement>('#update-button')
 const updateNotes = getElement<HTMLElement>('#update-notes')
+const itemList = getElement<HTMLElement>('#item-list')
+const itemCount = getElement<HTMLElement>('#item-count')
+const itemCategoryFilter = getElement<HTMLSelectElement>('#item-category-filter')
+const itemTypeFilter = getElement<HTMLSelectElement>('#item-type-filter')
+const itemSearch = getElement<HTMLInputElement>('#item-search')
 
+function renderItems() {
+    const filteredItems = filterItems(
+        items,
+        itemSearch.value,
+        itemCategoryFilter.value,
+        itemTypeFilter.value,
+    )
+
+    itemCount.textContent =
+        `${filteredItems.length} item${filteredItems.length !== 1 ? 's' : ''}`
+
+    if (filteredItems.length === 0) {
+        itemList.innerHTML = `
+      <div class="empty-state">
+        No items found.
+      </div>
+    `
+
+        return
+    }
+
+    itemList.innerHTML =
+        filteredItems.map(itemCard).join('')
+}
+
+renderItems()
+
+itemSearch.addEventListener('input', renderItems)
+
+itemCategoryFilter.addEventListener('change', () => {
+    updateItemTypeOptions()
+    renderItems()
+})
+
+itemTypeFilter.addEventListener('change', renderItems)
+
+function updateItemTypeOptions() {
+    const category = itemCategoryFilter.value as ItemCategory | ''
+
+    itemTypeFilter.innerHTML = `
+        <option value="">All types</option>
+    `
+
+    if (!category) {
+        return
+    }
+
+    const types = itemTypesByCategory[category]
+
+    itemTypeFilter.innerHTML += types
+        .map(type => `
+            <option value="${type}">
+             ${type}
+            </option>
+        `)
+        .join('')
+}
+
+itemCategoryFilter.addEventListener('change', () => {
+    updateItemTypeOptions()
+})
+
+updateItemTypeOptions()
 
 const allSocketCounts = [
     ...new Set(
