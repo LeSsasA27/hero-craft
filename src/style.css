@@ -1167,3 +1167,16 @@ select {
   opacity: 0.55;
   cursor: default;
 }
+
+.update-notes {
+  margin-top: 8px;
+  padding-top: 10px;
+
+  border-top: 1px solid var(--border);
+
+  color: var(--text-soft);
+  font-size: 11px;
+  line-height: 1.55;
+
+  white-space: pre-line;
+}

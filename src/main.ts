@@ -74,6 +74,8 @@ app.innerHTML = `
               Update
             </button>
           </div>
+          
+          <div id="update-notes" class="update-notes hidden"></div>
         </div>
         </aside>
         
@@ -204,6 +206,7 @@ const appVersion = getElement<HTMLElement>('#app-version')
 const updateStatus = getElement<HTMLElement>('#update-status')
 const statusDot = getElement<HTMLElement>('#status-dot')
 const updateButton = getElement<HTMLButtonElement>('#update-button')
+const updateNotes = getElement<HTMLElement>('#update-notes')
 
 
 const allSocketCounts = [
@@ -247,6 +250,21 @@ async function checkAppVersion() {
         }
 
         availableUpdate = update
+
+        if (update.body) {
+            updateNotes.textContent = update.body
+            updateNotes.classList.remove('hidden')
+        }
+
+        if (!update) {
+            updateStatus.textContent = 'Up to date'
+            statusDot.className = 'status-dot success'
+
+            updateNotes.textContent = ''
+            updateNotes.classList.add('hidden')
+
+            return
+        }
 
         updateStatus.textContent = `v${update.version} available`
         statusDot.className = 'status-dot update'

@@ -3,6 +3,10 @@ name: publish
 on:
   workflow_dispatch:
 
+  push:
+    tags:
+      - 'v*'
+
 jobs:
   publish-tauri:
     permissions:
@@ -33,6 +37,6 @@ jobs:
         with:
           tagName: v__VERSION__
           releaseName: "Hero Craft v__VERSION__"
-          releaseBody: "Hero Craft desktop release."
+          generateReleaseNotes: true
           releaseDraft: false
           prerelease: false

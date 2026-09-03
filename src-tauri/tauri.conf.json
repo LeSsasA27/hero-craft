@@ -1,8 +1,9 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "hero-craft",
+  "productName": "Hero Craft",
   "version": "0.3.0",
   "identifier": "com.herocraft.dev",
+  "mainBinaryName": "Hero Craft",
   "build": {
     "frontendDist": "../dist",
     "devUrl": "http://localhost:5173",
@@ -12,7 +13,7 @@
   "app": {
     "windows": [
       {
-        "title": "Hero Siege Builder",
+        "title": "Hero Craft",
         "width": 1400,
         "height": 900,
         "minWidth": 1050,
