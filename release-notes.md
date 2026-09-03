@@ -1,2 +1,4 @@
 What's new
-- Added item tab
+- Added all items
+- Improved cards
+- Added detail card for items
