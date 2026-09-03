@@ -1,5 +1,5 @@
-﻿### What's new
+### What's new
+- Fixed release pipeline
 - Added update changelog
-- Improved desktop release workflow
 - Added new Hero Craft icon
 - Improved UI
