@@ -1,5 +1,4 @@
 ### What's new
-- Fixed release pipeline
-- Added update changelog
-- Added new Hero Craft icon
-- Improved UI
+- Patch notes are now displayed in the updater
+- Improved release workflow
+- Fixed updater metadata
