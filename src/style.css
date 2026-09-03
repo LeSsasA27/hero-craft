@@ -748,9 +748,10 @@ select {
 }
 
 .craft-inputs {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(155px, 1fr)
+  );
 }
 
 .craft-input {
@@ -1179,4 +1180,46 @@ select {
   line-height: 1.55;
 
   white-space: pre-line;
+}
+
+.rune-card-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.rune-card-icon {
+  width: 40px;
+  height: 40px;
+
+  object-fit: contain;
+  image-rendering: pixelated;
+
+  flex-shrink: 0;
+}
+
+.craft-rune-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+
+.craft-rune-icon {
+  width: 28px;
+  height: 28px;
+
+  object-fit: contain;
+  image-rendering: pixelated;
+
+  flex-shrink: 0;
+}
+
+.craft-rune-name {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+
+  font-weight: 700;
+  color: var(--text-soft);
 }

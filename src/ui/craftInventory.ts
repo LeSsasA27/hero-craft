@@ -1,5 +1,6 @@
 import { runes } from "../data/runes.ts";
 import type { RuneTier} from "../types.ts";
+import { getRuneImage } from "../data/runeImages.ts";
 
 const tierOrder: RuneTier[] = ['S', 'A', 'C', 'D', '?']
 
@@ -37,19 +38,30 @@ export function craftInventoryView(
                   <div class="craft-inputs">
                     ${namesForTier
                 .map(runeName => {
+                    const imageUrl = getRuneImage(runeName)
                     const rune = runes[runeName]
                     const isUnknown = !rune
 
                     return `
                         <label class="craft-input ${isUnknown ? 'unconfirmed' : ''}">
-                          <span>
-                            ${runeName}
-                    
-                            ${isUnknown ? `
-                              <small>?</small>
-                            ` : ''}
+                          <span class="craft-rune-info">
+                              <img
+                                class="craft-rune-icon"
+                                src="${imageUrl}"
+                                alt="${runeName}"
+                                loading="lazy"
+                                onerror="this.style.display='none'"
+                              >
+                            
+                              <span class="craft-rune-name">
+                                ${runeName}
+                            
+                                ${isUnknown ? `
+                                  <small>?</small>
+                                ` : ''}
+                              </span>
                           </span>
-                    
+                                                
                           <input
                             type="number"
                             min="0"
