@@ -8,6 +8,21 @@ param(
 
 $ErrorActionPreference = "Stop"
 
+function Write-Utf8NoBom {
+    param(
+        [string]$Path,
+        [string]$Content
+    )
+
+    $Encoding = [System.Text.UTF8Encoding]::new($false)
+
+    [System.IO.File]::WriteAllText(
+        [System.IO.Path]::GetFullPath($Path),
+        $Content,
+        $Encoding
+    )
+}
+
 $Tag = "v$Version"
 $TauriConfig = "src-tauri\tauri.conf.json"
 $ReleaseNotesFile = "release-notes.md"
@@ -39,7 +54,7 @@ if ($ExistingTag) {
 }
 
 # Écrit les notes de release
-Set-Content $ReleaseNotesFile $Notes -Encoding UTF8
+Write-Utf8NoBom $ReleaseNotesFile $Notes
 
 Write-Host "Release notes -> $ReleaseNotesFile"
 
@@ -50,7 +65,7 @@ $Content = $Content -replace `
     '"version"\s*:\s*"[^"]+"', `
     "`"version`": `"$Version`""
 
-Set-Content $TauriConfig $Content -Encoding UTF8
+Write-Utf8NoBom $TauriConfig $Content
 
 Write-Host "Version Tauri -> $Version"
 
