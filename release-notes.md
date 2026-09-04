@@ -1,4 +1,5 @@
 What's new
-- Added all items
-- Improved cards
-- Added detail card for items
+- Added filter to item tab
+- Fixed item images 
+- Fixed item rarity
+- Changed card style
