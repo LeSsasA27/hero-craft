@@ -1,6 +1,14 @@
 import type { Item } from "../types.ts";
 
 export function itemDetail(item: Item) {
+    const imageFrames =
+        item.imageFrames ?? []
+
+    const encodedImageFrames =
+        encodeURIComponent(
+            JSON.stringify(imageFrames)
+        )
+
     return `
     <div class="item-detail">
       ${item.image ? `
@@ -9,6 +17,7 @@ export function itemDetail(item: Item) {
             class="item-detail-image"
             src="${item.image}"
             alt="${item.name}"
+            data-image-frames="${encodedImageFrames}"
             onerror="this.style.display='none'"
           >
         </div>
@@ -39,11 +48,11 @@ export function itemDetail(item: Item) {
         ${Object.entries(item.properties)
         .filter(([, value]) => value)
         .map(([name, value]) => `
-            <div class="item-detail-property">
-              <span>${name}</span>
-              <strong>${value}</strong>
-            </div>
-          `)
+              <div class="item-detail-property">
+                <span>${name}</span>
+                <strong>${value}</strong>
+              </div>
+            `)
         .join('')}
       </div>
 
@@ -53,10 +62,10 @@ export function itemDetail(item: Item) {
 
           ${item.stats
         .map(stat => `
-              <div class="item-detail-stat">
-                ${stat}
-              </div>
-            `)
+                <div class="item-detail-stat">
+                  ${stat}
+                </div>
+              `)
         .join('')}
         </div>
       ` : ''}

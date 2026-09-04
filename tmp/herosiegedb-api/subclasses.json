@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1-handed",
+    "name": "1-HANDED",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "2-handed",
+    "name": "2-HANDED",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "axe",
+    "name": "AXE",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "book",
+    "name": "BOOK",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "bow",
+    "name": "BOW",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "cane",
+    "name": "CANE",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "chainsaw",
+    "name": "CHAINSAW",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "claw",
+    "name": "CLAW",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "dagger",
+    "name": "DAGGER",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "flask",
+    "name": "FLASK",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "gun",
+    "name": "GUN",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "mace",
+    "name": "MACE",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "polearm",
+    "name": "POLEARM",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "spellblade",
+    "name": "SPELLBLADE",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "staff",
+    "name": "STAFF",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "sword",
+    "name": "SWORD",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "throwing",
+    "name": "THROWING",
+    "class_item_id": "weapon"
+  },
+  {
+    "id": "wand",
+    "name": "WAND",
+    "class_item_id": "weapon"
+  }
+]

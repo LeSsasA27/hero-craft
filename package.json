@@ -12,7 +12,17 @@
     "import:weapons": "node scripts/import-weapons.mjs",
     "import:armor": "node scripts/import-armor.mjs",
     "import:jewellery": "node scripts/import-jewellery.mjs",
-    "import:special": "node scripts/import-special-items.mjs"
+    "import:special": "node scripts/import-special-items.mjs",
+    "inspect:hsdb": "node scripts/inspect-herosiegedb.mjs",
+    "inspect:hsdb-services": "node scripts/inspect-hsdb-services.mjs",
+    "import:hsdb-raw": "node scripts/import-hsdb-raw.mjs",
+    "import:hsdb": "node scripts/import-hsdb.mjs",
+    "check:item-overlap": "node scripts/check-item-overlap.mjs",
+    "check:hsdb-image": "node scripts/check-hsdb-image.mjs",
+    "check:hsdb-images-all": "node scripts/check-hsdb-images-all.mjs",
+    "check:hsdb-missing-images": "node scripts/check-hsdb-missing-images.mjs",
+    "inspect:hsdb-missing-context": "node scripts/inspect-hsdb-missing-context.mjs",
+    "compare:hsdb-runewords": "node scripts/compare-hsdb-runewords.mjs"
   },
 
   "devDependencies": {

@@ -64,6 +64,7 @@ export type Item = {
     level: number | null
 
     image?: string
+    imageFrames?: string[]
 
     properties: Record<string, string>
     stats: string[]

@@ -1686,7 +1686,7 @@ select {
 
 .item-stat-filter-panel {
   margin-bottom: 18px;
-  padding: 12px 14px;
+  padding: 10px 12px;
 
   background:
           linear-gradient(
@@ -1714,7 +1714,7 @@ select {
 
   gap: 12px;
 
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .item-stat-filter-header > span {
@@ -1935,4 +1935,67 @@ select {
 
 .item-stat.matched::before {
   color: #f1d47c;
+}
+
+.item-stat-filter-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+#item-stat-filter-content {
+  margin-top: 10px;
+}
+
+#item-stat-filter-content.hidden {
+  display: none;
+}
+
+/* ================================
+   ITEMS LAYOUT FIX
+   ================================ */
+
+#view-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  gap: 16px;
+
+  min-height: 0;
+}
+
+#view-items.hidden {
+  display: none;
+}
+
+#view-items .view-header {
+  flex: 0 0 auto;
+
+  margin-bottom: 0;
+}
+
+.item-stat-filter-panel {
+  flex: 0 0 auto;
+
+  margin: 0;
+}
+
+.item-layout {
+  flex: 0 0 auto;
+
+  width: 100%;
+
+  margin: 0;
+  margin-top: 0;
+
+  align-self: stretch;
+}
+
+.item-list {
+  align-content: start;
+}
+
+#item-stat-filter-content:not(.hidden) {
+  margin-top: 10px;
 }

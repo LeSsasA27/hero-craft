@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "A1",
+    "type": "act",
+    "name": "Town of Inoya",
+    "context": null,
+    "position_top": "72%",
+    "position_left": "13%",
+    "parent_id": null
+  },
+  {
+    "id": "A2",
+    "type": "act",
+    "name": "Danethorpe",
+    "context": null,
+    "position_top": "43%",
+    "position_left": "11%",
+    "parent_id": null
+  },
+  {
+    "id": "A3",
+    "type": "act",
+    "name": "Village of Mos'Arathim",
+    "context": null,
+    "position_top": "37%",
+    "position_left": "31%",
+    "parent_id": null
+  },
+  {
+    "id": "A4",
+    "type": "act",
+    "name": "Dhorn Farum",
+    "context": null,
+    "position_top": "84%",
+    "position_left": "18%",
+    "parent_id": null
+  },
+  {
+    "id": "A5",
+    "type": "act",
+    "name": "Shujo Retreat",
+    "context": null,
+    "position_top": "68%",
+    "position_left": "41%",
+    "parent_id": null
+  },
+  {
+    "id": "A6",
+    "type": "act",
+    "name": "Dawn's Chapel",
+    "context": null,
+    "position_top": "57%",
+    "position_left": "51%",
+    "parent_id": null
+  },
+  {
+    "id": "A7",
+    "type": "act",
+    "name": "Astral Encampment",
+    "context": null,
+    "position_top": "28%",
+    "position_left": "57%",
+    "parent_id": null
+  },
+  {
+    "id": "A8",
+    "type": "act",
+    "name": "Expansion",
+    "context": null,
+    "position_top": "26%",
+    "position_left": "70%",
+    "parent_id": null
+  },
+  {
+    "id": "A1Z5B",
+    "type": "act_boss",
+    "name": "Gurag",
+    "context": null,
+    "position_top": "41%",
+    "position_left": "24.5%",
+    "parent_id": "A1Z5"
+  },
+  {
+    "id": "A2Z5B",
+    "type": "act_boss",
+    "name": "Reaper",
+    "context": null,
+    "position_top": "28%",
+    "position_left": "26%",
+    "parent_id": "A2Z5"
+  },
+  {
+    "id": "A3Z5B",
+    "type": "act_boss",
+    "name": "Anubis",
+    "context": null,
+    "position_top": "46%",
+    "position_left": "43%",
+    "parent_id": "A3Z5"
+  },
+  {
+    "id": "A4Z5B",
+    "type": "act_boss",
+    "name": "Damien",
+    "context": null,
+    "position_top": "77.5%",
+    "position_left": "29.5%",
+    "parent_id": "A4Z5"
+  },
+  {
+    "id": "A5Z5B",
+    "type": "act_boss",
+    "name": "Karp King",
+    "context": null,
+    "position_top": "87%",
+    "position_left": "65.5%",
+    "parent_id": "A5Z5"
+  },
+  {
+    "id": "A6Z5B",
+    "type": "act_boss",
+    "name": "Satan",
+    "context": null,
+    "position_top": "40%",
+    "position_left": "57.5%",
+    "parent_id": "A6Z5"
+  },
+  {
+    "id": "A7Z5B",
+    "type": "act_boss",
+    "name": "Mevius",
+    "context": null,
+    "position_top": "60%",
+    "position_left": "71.5%",
+    "parent_id": "A7Z5"
+  },
+  {
+    "id": "A8Z5B",
+    "type": "act_boss",
+    "name": "Odin",
+    "context": null,
+    "position_top": "49%",
+    "position_left": "90.5%",
+    "parent_id": "A8Z5"
+  },
+  {
+    "id": "Amun_Ra",
+    "type": "boss",
+    "name": "Amun-Ra",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "29%",
+    "parent_id": null
+  },
+  {
+    "id": "Endrixia",
+    "type": "boss",
+    "name": "Endrixia",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "39%",
+    "parent_id": null
+  },
+  {
+    "id": "Gabriel",
+    "type": "boss",
+    "name": "Gabriel",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "24%",
+    "parent_id": null
+  },
+  {
+    "id": "Grimbone",
+    "type": "boss",
+    "name": "Grimbone",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "49%",
+    "parent_id": null
+  },
+  {
+    "id": "King_Rakhul",
+    "type": "boss",
+    "name": "King Rahkul",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "34%",
+    "parent_id": null
+  },
+  {
+    "id": "Possessed_Luna",
+    "type": "boss",
+    "name": "Possessed Luna",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "19%",
+    "parent_id": null
+  },
+  {
+    "id": "Sheeponia",
+    "type": "boss",
+    "name": "Sheep King",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "44%",
+    "parent_id": null
+  },
+  {
+    "id": "Sung_Lee",
+    "type": "boss",
+    "name": "Sung Lee",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "14%",
+    "parent_id": null
+  },
+  {
+    "id": "Uber_Damien",
+    "type": "boss",
+    "name": "Uber Damien",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "9%",
+    "parent_id": null
+  },
+  {
+    "id": "Uber_Reaper",
+    "type": "boss",
+    "name": "Uber Reaper",
+    "context": null,
+    "position_top": "95%",
+    "position_left": "4%",
+    "parent_id": null
+  },
+  {
+    "id": "A1Z5BD",
+    "type": "boss_dungeon",
+    "name": "King's Tombs",
+    "context": null,
+    "position_top": "41%",
+    "position_left": "22%",
+    "parent_id": "A1Z5"
+  },
+  {
+    "id": "A2Z5BD",
+    "type": "boss_dungeon",
+    "name": "Chamber of Ice",
+    "context": null,
+    "position_top": "28%",
+    "position_left": "23.5%",
+    "parent_id": "A2Z5"
+  },
+  {
+    "id": "A3Z5BD",
+    "type": "boss_dungeon",
+    "name": "Tomb of Ancients",
+    "context": null,
+    "position_top": "46%",
+    "position_left": "40.5%",
+    "parent_id": "A3Z5"
+  },
+  {
+    "id": "A4Z5BD",
+    "type": "boss_dungeon",
+    "name": "Chamber of Burning Souls",
+    "context": null,
+    "position_top": "77.5%",
+    "position_left": "32%",
+    "parent_id": "A4Z5"
+  },
+  {
+    "id": "A5Z5BD",
+    "type": "boss_dungeon",
+    "name": "The Sacred Temple",
+    "context": null,
+    "position_top": "87%",
+    "position_left": "63%",
+    "parent_id": "A5Z5"
+  },
+  {
+    "id": "A6Z5BD",
+    "type": "boss_dungeon",
+    "name": "Pathway to Hell",
+    "context": null,
+    "position_top": "40%",
+    "position_left": "55%",
+    "parent_id": "A6Z5"
+  },
+  {
+    "id": "A7Z5BD",
+    "type": "boss_dungeon",
+    "name": "The Waiting Room",
+    "context": null,
+    "position_top": "60%",
+    "position_left": "69%",
+    "parent_id": "A7Z5"
+  },
+  {
+    "id": "A8Z5BD",
+    "type": "boss_dungeon",
+    "name": "Vault of Ancients",
+    "context": null,
+    "position_top": "49%",
+    "position_left": "93%",
+    "parent_id": "A8Z5"
+  },
+  {
+    "id": "A1Z5B_img",
+    "type": "boss_image",
+    "name": "Gurag",
+    "context": null,
+    "position_top": "38%",
+    "position_left": "23.8%",
+    "parent_id": "A1Z5"
+  },
+  {
+    "id": "A2Z5B_img",
+    "type": "boss_image",
+    "name": "Reaper",
+    "context": null,
+    "position_top": "23%",
+    "position_left": "27%",
+    "parent_id": "A2Z5"
+  },
+  {
+    "id": "A3Z5B_img",
+    "type": "boss_image",
+    "name": "Anubis",
+    "context": null,
+    "position_top": "41%",
+    "position_left": "43.5%",
+    "parent_id": "A3Z5"
+  },
+  {
+    "id": "A4Z5B_img",
+    "type": "boss_image",
+    "name": "Damien",
+    "context": null,
+    "position_top": "72%",
+    "position_left": "29.5%",
+    "parent_id": "A4Z5"
+  },
+  {
+    "id": "A5Z5B_img",
+    "type": "boss_image",
+    "name": "Karp King",
+    "context": null,
+    "position_top": "81%",
+    "position_left": "65.5%",
+    "parent_id": "A5Z5"
+  },
+  {
+    "id": "A6Z5B_img",
+    "type": "boss_image",
+    "name": "Satan",
+    "context": null,
+    "position_top": "37%",
+    "position_left": "57.5%",
+    "parent_id": "A6Z5"
+  },
+  {
+    "id": "A7Z5B_img",
+    "type": "boss_image",
+    "name": "Mevius",
+    "context": null,
+    "position_top": "54%",
+    "position_left": "71.5%",
+    "parent_id": "A7Z5"
+  },
+  {
+    "id": "A8Z5B_img",
+    "type": "boss_image",
+    "name": "Odin",
+    "context": null,
+    "position_top": "43%",
+    "position_left": "90.5%",
+    "parent_id": "A8Z5"
+  },
+  {
+    "id": "Colossal_Chest",
+    "type": "chest",
+    "name": "Colossal Chest",
+    "context": null,
+    "position_top": "7%",
+    "position_left": "15%",
+    "parent_id": null
+  },
+  {
+    "id": "Generic_Chest",
+    "type": "chest",
+    "name": "Generic Chest",
+    "context": null,
+    "position_top": "7%",
+    "position_left": "7%",
+    "parent_id": null
+  },
+  {
+    "id": "Tarot_Card",
+    "type": "Craft",
+    "name": "Tarot Card",
+    "context": null,
+    "position_top": null,
+    "position_left": null,
+    "parent_id": null
+  },
+  {
+    "id": "A1Z1D",
+    "type": "dungeon",
+    "name": "Rat Den",
+    "context": null,
+    "position_top": "67%",
+    "position_left": "19.5%",
+    "parent_id": "A1Z1"
+  },
+  {
+    "id": "A1Z3D",
+    "type": "dungeon",
+    "name": "Pumpkin Cellar",
+    "context": null,
+    "position_top": "55%",
+    "position_left": "8.5%",
+    "parent_id": "A1Z3"
+  },
+  {
+    "id": "A1Z4D",
+    "type": "dungeon",
+    "name": "Black Tower",
+    "context": null,
+    "position_top": "50%",
+    "position_left": "17.5%",
+    "parent_id": "A1Z4"
+  },
+  {
+    "id": "A2Z1D",
+    "type": "dungeon",
+    "name": "Frozen Cellar",
+    "context": null,
+    "position_top": "37%",
+    "position_left": "17.5%",
+    "parent_id": "A2Z1"
+  },
+  {
+    "id": "A2Z5D",
+    "type": "dungeon",
+    "name": "Ancient City",
+    "context": null,
+    "position_top": "33%",
+    "position_left": "23%",
+    "parent_id": "A2Z5"
+  },
+  {
+    "id": "A3Z2D",
+    "type": "dungeon",
+    "name": "Sand Cave",
+    "context": null,
+    "position_top": "41%",
+    "position_left": "35.5%",
+    "parent_id": "A3Z2"
+  },
+  {
+    "id": "A3Z3D",
+    "type": "dungeon",
+    "name": "Forgotten City",
+    "context": null,
+    "position_top": "50%",
+    "position_left": "28.5%",
+    "parent_id": "A3Z3"
+  },
+  {
+    "id": "A3Z5D",
+    "type": "dungeon",
+    "name": "Cauflax Tomb",
+    "context": null,
+    "position_top": "53%",
+    "position_left": "45.5%",
+    "parent_id": "A3Z5"
+  },
+  {
+    "id": "A4Z1D",
+    "type": "dungeon",
+    "name": "Old Copper Mine",
+    "context": null,
+    "position_top": "83%",
+    "position_left": "7.5%",
+    "parent_id": "A4Z1"
+  },
+  {
+    "id": "A4Z2D",
+    "type": "dungeon",
+    "name": "Abandoned Mine",
+    "context": null,
+    "position_top": "76%",
+    "position_left": "19.5%",
+    "parent_id": "A4Z2"
+  },
+  {
+    "id": "A4Z5D",
+    "type": "dungeon",
+    "name": "Devil's Hole",
+    "context": null,
+    "position_top": "69%",
+    "position_left": "33.5%",
+    "parent_id": "A4Z5"
+  },
+  {
+    "id": "A5Z1D",
+    "type": "dungeon",
+    "name": "Fuji Crater",
+    "context": null,
+    "position_top": "78%",
+    "position_left": "39.5%",
+    "parent_id": "A5Z1"
+  },
+  {
+    "id": "A5Z2D",
+    "type": "dungeon",
+    "name": "Underground Garden",
+    "context": null,
+    "position_top": "79%",
+    "position_left": "48.5%",
+    "parent_id": "A5Z2"
+  },
+  {
+    "id": "A5Z3D",
+    "type": "dungeon",
+    "name": "Kaojin Temple",
+    "context": null,
+    "position_top": "69%",
+    "position_left": "52.5%",
+    "parent_id": "A5Z3"
+  },
+  {
+    "id": "A5Z5D",
+    "type": "dungeon",
+    "name": "Temple Trapdoor",
+    "context": null,
+    "position_top": "81%",
+    "position_left": "60.5%",
+    "parent_id": "A5Z5"
+  },
+  {
+    "id": "A6Z1D",
+    "type": "dungeon",
+    "name": "Unmarked Grave",
+    "context": null,
+    "position_top": "46%",
+    "position_left": "48.5%",
+    "parent_id": "A6Z1"
+  },
+  {
+    "id": "A6Z4D",
+    "type": "dungeon",
+    "name": "Arm's Storage",
+    "context": null,
+    "position_top": "26%",
+    "position_left": "47.5%",
+    "parent_id": "A6Z4"
+  },
+  {
+    "id": "A7Z2D",
+    "type": "dungeon",
+    "name": "Distorted Horizons",
+    "context": null,
+    "position_top": "43%",
+    "position_left": "66.5%",
+    "parent_id": "A7Z2"
+  },
+  {
+    "id": "A8Z1D",
+    "type": "dungeon",
+    "name": "Gladsheim Halls",
+    "context": null,
+    "position_top": "26%",
+    "position_left": "77.5%",
+    "parent_id": "A8Z1"
+  },
+  {
+    "id": "A8Z2D",
+    "type": "dungeon",
+    "name": "Naga Temple",
+    "context": null,
+    "position_top": "34%",
+    "position_left": "75.5%",
+    "parent_id": "A8Z2"
+  },
+  {
+    "id": "A8Z3D",
+    "type": "dungeon",
+    "name": "Muspelheim",
+    "context": null,
+    "position_top": "41%",
+    "position_left": "84.5%",
+    "parent_id": "A8Z3"
+  },
+  {
+    "id": "A8Z5D",
+    "type": "dungeon",
+    "name": "Niflhel",
+    "context": null,
+    "position_top": "57%",
+    "position_left": "88.5%",
+    "parent_id": "A8Z5"
+  },
+  {
+    "id": "Challenge_Dungeon",
+    "type": "event",
+    "name": "Challenge Dungeon",
+    "context": null,
+    "position_top": "7%",
+    "position_left": "65%",
+    "parent_id": null
+  },
+  {
+    "id": "Chaos_Pillar",
+    "type": "event",
+    "name": "Chaos Pillar",
+    "context": null,
+    "position_top": "7%",
+    "position_left": "85%",
+    "parent_id": null
+  },
+  {
+    "id": "Chaos_Tower",
+    "type": "event",
+    "name": "Chaos Tower",
+    "context": null,
+    "position_top": "7%",
+    "position_left": "70%",
+    "parent_id": null
+  },
+  {
+    "id": "Eternal_Battlefield",
+    "type": "event",
+    "name": "Eternal Battlefield",
+    "context": null,
+    "position_top": null,
+    "position_left": null,
+    "parent_id": null
+  },
+  {
+    "id": "Mimic",
+    "type": "event",
+    "name": "Mimic",
+    "context": null,
+    "position_top": "7%",
+    "position_left": "90%",
+    "parent_id": null
+  },
+  {
+    "id": "Ruby_Chest",
+    "type": "event",
+    "name": "Ruby Garden",
+    "context": null,
+    "position_top": "7%",
+    "position_left": "80%",
+    "parent_id": null
+  },
+  {
+    "id": "Uber_Chaos_Tower",
+    "type": "event",
+    "name": "Rogue Chaos Tower Boss",
+    "context": null,
+    "position_top": "7%",
+    "position_left": "75%",
+    "parent_id": null
+  },
+  {
+    "id": "Unstable_Rift",
+    "type": "event",
+    "name": "Unstable Rift",
+    "context": null,
+    "position_top": "7%",
+    "position_left": "95%",
+    "parent_id": null
+  },
+  {
+    "id": "craft",
+    "type": "global",
+    "name": "Craft",
+    "context": null,
+    "position_top": "95.0%",
+    "position_left": "88.00%",
+    "parent_id": null
+  },
+  {
+    "id": "global",
+    "type": "global",
+    "name": "Global",
+    "context": null,
+    "position_top": "95.0%",
+    "position_left": "95.00%",
+    "parent_id": null
+  },
+  {
+    "id": "Quest",
+    "type": "global",
+    "name": "Quest",
+    "context": null,
+    "position_top": null,
+    "position_left": null,
+    "parent_id": null
+  },
+  {
+    "id": "A1Z1",
+    "type": "zone",
+    "name": "Outskirts of Inoya",
+    "context": null,
+    "position_top": "67%",
+    "position_left": "17%",
+    "parent_id": "A1"
+  },
+  {
+    "id": "A1Z2",
+    "type": "zone",
+    "name": "Fields of Battle",
+    "context": null,
+    "position_top": "61%",
+    "position_left": "16%",
+    "parent_id": "A1"
+  },
+  {
+    "id": "A1Z3",
+    "type": "zone",
+    "name": "The Pumpking Patch",
+    "context": null,
+    "position_top": "55%",
+    "position_left": "11%",
+    "parent_id": "A1"
+  },
+  {
+    "id": "A1Z4",
+    "type": "zone",
+    "name": "Woodhill Plains",
+    "context": null,
+    "position_top": "50%",
+    "position_left": "15%",
+    "parent_id": "A1"
+  },
+  {
+    "id": "A1Z5",
+    "type": "zone",
+    "name": "King's Garden",
+    "context": null,
+    "position_top": "46%",
+    "position_left": "20%",
+    "parent_id": "A1"
+  },
+  {
+    "id": "A2Z1",
+    "type": "zone",
+    "name": "Crystal Village",
+    "context": null,
+    "position_top": "37%",
+    "position_left": "15%",
+    "parent_id": "A2"
+  },
+  {
+    "id": "A2Z2",
+    "type": "zone",
+    "name": "Chilling Lake",
+    "context": null,
+    "position_top": "34%",
+    "position_left": "9%",
+    "parent_id": "A2"
+  },
+  {
+    "id": "A2Z3",
+    "type": "zone",
+    "name": "Arctic Tundra",
+    "context": null,
+    "position_top": "29%",
+    "position_left": "14%",
+    "parent_id": "A2"
+  },
+  {
+    "id": "A2Z4",
+    "type": "zone",
+    "name": "Snowy Mountains",
+    "context": null,
+    "position_top": "23%",
+    "position_left": "18%",
+    "parent_id": "A2"
+  },
+  {
+    "id": "A2Z5",
+    "type": "zone",
+    "name": "The Glacial Trail",
+    "context": null,
+    "position_top": "33%",
+    "position_left": "20.5%",
+    "parent_id": "A2"
+  },
+  {
+    "id": "A3Z1",
+    "type": "zone",
+    "name": "Corrupted Caves",
+    "context": null,
+    "position_top": "27%",
+    "position_left": "37%",
+    "parent_id": "A3"
+  },
+  {
+    "id": "A3Z2",
+    "type": "zone",
+    "name": "Dry Hills",
+    "context": null,
+    "position_top": "41%",
+    "position_left": "33%",
+    "parent_id": "A3"
+  },
+  {
+    "id": "A3Z3",
+    "type": "zone",
+    "name": "Mos'Arathim Desert",
+    "context": null,
+    "position_top": "50%",
+    "position_left": "31%",
+    "parent_id": "A3"
+  },
+  {
+    "id": "A3Z4",
+    "type": "zone",
+    "name": "Pyramid Level 1",
+    "context": null,
+    "position_top": "56%",
+    "position_left": "38%",
+    "parent_id": "A3"
+  },
+  {
+    "id": "A3Z5",
+    "type": "zone",
+    "name": "Pyramid Level 2",
+    "context": null,
+    "position_top": "53%",
+    "position_left": "43%",
+    "parent_id": "A3"
+  },
+  {
+    "id": "A4Z1",
+    "type": "zone",
+    "name": "Old Mining Village",
+    "context": null,
+    "position_top": "83%",
+    "position_left": "10%",
+    "parent_id": "A4"
+  },
+  {
+    "id": "A4Z2",
+    "type": "zone",
+    "name": "The Highland Mines",
+    "context": null,
+    "position_top": "76%",
+    "position_left": "22%",
+    "parent_id": "A4"
+  },
+  {
+    "id": "A4Z3",
+    "type": "zone",
+    "name": "Corrupted Cave",
+    "context": null,
+    "position_top": "83%",
+    "position_left": "25%",
+    "parent_id": "A4"
+  },
+  {
+    "id": "A4Z4",
+    "type": "zone",
+    "name": "The Nightmare",
+    "context": null,
+    "position_top": "73%",
+    "position_left": "25%",
+    "parent_id": "A4"
+  },
+  {
+    "id": "A4Z5",
+    "type": "zone",
+    "name": "The Devil's Breach",
+    "context": null,
+    "position_top": "69%",
+    "position_left": "31%",
+    "parent_id": "A4"
+  },
+  {
+    "id": "A5Z1",
+    "type": "zone",
+    "name": "Mt. Fuji",
+    "context": null,
+    "position_top": "78%",
+    "position_left": "37%",
+    "parent_id": "A5"
+  },
+  {
+    "id": "A5Z2",
+    "type": "zone",
+    "name": "Misty Swamp",
+    "context": null,
+    "position_top": "79%",
+    "position_left": "46%",
+    "parent_id": "A5"
+  },
+  {
+    "id": "A5Z3",
+    "type": "zone",
+    "name": "Fuji Coast",
+    "context": null,
+    "position_top": "69%",
+    "position_left": "50%",
+    "parent_id": "A5"
+  },
+  {
+    "id": "A5Z4",
+    "type": "zone",
+    "name": "Sea of Karponia",
+    "context": null,
+    "position_top": "78%",
+    "position_left": "54%",
+    "parent_id": "A5"
+  },
+  {
+    "id": "A5Z5",
+    "type": "zone",
+    "name": "Temple of Zanjo",
+    "context": null,
+    "position_top": "81%",
+    "position_left": "63%",
+    "parent_id": "A5"
+  },
+  {
+    "id": "A6Z1",
+    "type": "zone",
+    "name": "Highland Graveyard",
+    "context": null,
+    "position_top": "46%",
+    "position_left": "46%",
+    "parent_id": "A6"
+  },
+  {
+    "id": "A6Z2",
+    "type": "zone",
+    "name": "The Cathedral",
+    "context": null,
+    "position_top": "38%",
+    "position_left": "51%",
+    "parent_id": "A6"
+  },
+  {
+    "id": "A6Z3",
+    "type": "zone",
+    "name": "Prison Dungeon",
+    "context": null,
+    "position_top": "34%",
+    "position_left": "45%",
+    "parent_id": "A6"
+  },
+  {
+    "id": "A6Z4",
+    "type": "zone",
+    "name": "Steam Train",
+    "context": null,
+    "position_top": "26%",
+    "position_left": "50%",
+    "parent_id": "A6"
+  },
+  {
+    "id": "A6Z5",
+    "type": "zone",
+    "name": "The Depths of Hell",
+    "context": null,
+    "position_top": "48%",
+    "position_left": "55%",
+    "parent_id": "A6"
+  },
+  {
+    "id": "A7Z1",
+    "type": "zone",
+    "name": "Deep Space",
+    "context": null,
+    "position_top": "32%",
+    "position_left": "62%",
+    "parent_id": "A7"
+  },
+  {
+    "id": "A7Z2",
+    "type": "zone",
+    "name": "Event Horiozon",
+    "context": null,
+    "position_top": "43%",
+    "position_left": "64%",
+    "parent_id": "A7"
+  },
+  {
+    "id": "A7Z3",
+    "type": "zone",
+    "name": "The Black Hole",
+    "context": null,
+    "position_top": "52%",
+    "position_left": "66%",
+    "parent_id": "A7"
+  },
+  {
+    "id": "A7Z4",
+    "type": "zone",
+    "name": "Parallel Dimensions",
+    "context": null,
+    "position_top": "56%",
+    "position_left": "58%",
+    "parent_id": "A7"
+  },
+  {
+    "id": "A7Z5",
+    "type": "zone",
+    "name": "Subconscious Mind",
+    "context": null,
+    "position_top": "66%",
+    "position_left": "65%",
+    "parent_id": "A7"
+  },
+  {
+    "id": "A8Z1",
+    "type": "zone",
+    "name": "Forest of the Slain",
+    "context": null,
+    "position_top": "26%",
+    "position_left": "75%",
+    "parent_id": "A8"
+  },
+  {
+    "id": "A8Z2",
+    "type": "zone",
+    "name": "Flooded Plains",
+    "context": null,
+    "position_top": "34%",
+    "position_left": "78%",
+    "parent_id": "A8"
+  },
+  {
+    "id": "A8Z3",
+    "type": "zone",
+    "name": "Forgotten Caves",
+    "context": null,
+    "position_top": "41%",
+    "position_left": "87%",
+    "parent_id": "A8"
+  },
+  {
+    "id": "A8Z4",
+    "type": "zone",
+    "name": "Camp of Souls",
+    "context": null,
+    "position_top": "50%",
+    "position_left": "80%",
+    "parent_id": "A8"
+  },
+  {
+    "id": "A8Z5",
+    "type": "zone",
+    "name": "Hellheim",
+    "context": null,
+    "position_top": "57%",
+    "position_left": "86%",
+    "parent_id": "A8"
+  }
+]

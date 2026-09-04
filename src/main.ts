@@ -188,16 +188,21 @@ app.innerHTML = `
             </section>
             
             <section id="view-items" class="view hidden">
+            
               <div class="view-header">
                 <div>
                   <h2>Items</h2>
             
-                  <p id="item-count" class="result-count">
+                  <p
+                    id="item-count"
+                    class="result-count"
+                  >
                     0 items
                   </p>
                 </div>
             
                 <div class="view-controls">
+            
                   <input
                     id="item-search"
                     class="search"
@@ -209,27 +214,45 @@ app.innerHTML = `
                     id="item-category-filter"
                     class="base-filter"
                   >
-                    <option value="">All categories</option>
-                    <option value="Weapons">Weapons</option>
-                    <option value="Armor">Armor</option>
-                    <option value="Jewellery">Jewellery</option>
-                    <option value="Special Items">Special Items</option>
+                    <option value="">
+                      All categories
+                    </option>
+            
+                    <option value="Weapons">
+                      Weapons
+                    </option>
+            
+                    <option value="Armor">
+                      Armor
+                    </option>
+            
+                    <option value="Jewellery">
+                      Jewellery
+                    </option>
+            
+                    <option value="Special Items">
+                      Special Items
+                    </option>
                   </select>
             
                   <select
                     id="item-type-filter"
                     class="base-filter"
                   >
-                    <option value="">All types</option>
+                    <option value="">
+                      All types
+                    </option>
                   </select>
             
                   <select
                     id="item-rarity-filter"
                     class="tier-filter"
                   >
-                    <option value="">All rarities</option>
+                    <option value="">
+                      All rarities
+                    </option>
                   </select>
-                  
+            
                   <button
                     id="reset-item-filters"
                     class="reset-button"
@@ -237,14 +260,32 @@ app.innerHTML = `
                   >
                     Reset
                   </button>
+            
                 </div>
               </div>
             
-              <div class="item-stat-filter-panel">
-                <div class="item-stat-filter-header">
-                  <span>Stat filters</span>
             
-                  <div>
+              <!-- STAT FILTERS -->
+            
+              <div class="item-stat-filter-panel">
+            
+                <div class="item-stat-filter-header">
+            
+                  <span>
+                    Stat filters
+                  </span>
+            
+                  <div class="item-stat-filter-actions">
+            
+                    <button
+                      id="toggle-stat-filters"
+                      class="reset-button"
+                      type="button"
+                      aria-expanded="true"
+                    >
+                      Hide
+                    </button>
+            
                     <button
                       id="add-stat-filter"
                       class="reset-button"
@@ -260,23 +301,38 @@ app.innerHTML = `
                     >
                       Clear
                     </button>
+            
                   </div>
+            
                 </div>
             
-                <div id="item-stat-filters"></div>
+            
+                <div id="item-stat-filter-content">
+            
+                  <div id="item-stat-filters"></div>
+            
+                </div>
+            
               </div>
             
+            
+              <!-- ITEMS -->
+            
               <div class="item-layout">
+            
                 <div
                   id="item-list"
                   class="item-list"
                 ></div>
             
+            
                 <aside
                   id="item-detail-panel"
                   class="detail-panel hidden"
                 >
+            
                   <div class="detail-panel-header">
+            
                     <span class="detail-panel-title">
                       Item details
                     </span>
@@ -289,14 +345,19 @@ app.innerHTML = `
                     >
                       ×
                     </button>
+            
                   </div>
+            
             
                   <div
                     id="item-detail-content"
                     class="detail-content"
                   ></div>
+            
                 </aside>
+            
               </div>
+            
             </section>
         </main>
     </div>
@@ -338,6 +399,214 @@ const itemStatFilters = getElement<HTMLElement>('#item-stat-filters')
 const addStatFilter = getElement<HTMLButtonElement>('#add-stat-filter')
 const clearStatFilters = getElement<HTMLButtonElement>('#clear-stat-filters')
 const resetItemFilters = getElement<HTMLButtonElement>('#reset-item-filters')
+const toggleStatFilters = getElement<HTMLButtonElement>('#toggle-stat-filters')
+const itemStatFilterContent = getElement<HTMLElement>('#item-stat-filter-content')
+const itemAnimationTimers = new WeakMap<HTMLImageElement, number>()
+
+function startItemImageAnimation(
+    image: HTMLImageElement,
+) {
+    const rawFrames =
+        image.dataset.imageFrames
+
+    if (!rawFrames) {
+        return
+    }
+
+    let frames: string[] = []
+
+    try {
+        frames =
+            JSON.parse(
+                decodeURIComponent(
+                    rawFrames,
+                ),
+            )
+    } catch {
+        return
+    }
+
+    if (frames.length <= 1) {
+        return
+    }
+
+    if (
+        itemAnimationTimers.has(
+            image,
+        )
+    ) {
+        return
+    }
+
+    let index = 0
+
+    const timer =
+        window.setInterval(
+            () => {
+                index =
+                    (
+                        index + 1
+                    ) %
+                    frames.length
+
+                image.src =
+                    frames[index]
+            },
+            120,
+        )
+
+    itemAnimationTimers.set(
+        image,
+        timer,
+    )
+}
+
+
+function stopItemImageAnimation(
+    image: HTMLImageElement,
+) {
+    const timer =
+        itemAnimationTimers.get(
+            image,
+        )
+
+    if (timer !== undefined) {
+        clearInterval(timer)
+
+        itemAnimationTimers.delete(
+            image,
+        )
+    }
+
+    const rawFrames =
+        image.dataset.imageFrames
+
+    if (!rawFrames) {
+        return
+    }
+
+    try {
+        const frames =
+            JSON.parse(
+                decodeURIComponent(
+                    rawFrames,
+                ),
+            ) as string[]
+
+        if (frames[0]) {
+            image.src =
+                frames[0]
+        }
+    } catch {
+        // Ignore malformed frame data.
+    }
+}
+
+function stopItemDetailAnimation() {
+    const image =
+        itemDetailContent
+            .querySelector<HTMLImageElement>(
+                '.item-detail-image',
+            )
+
+    if (!image) {
+        return
+    }
+
+    stopItemImageAnimation(
+        image,
+    )
+}
+
+
+function startItemDetailAnimation() {
+    const image =
+        itemDetailContent
+            .querySelector<HTMLImageElement>(
+                '.item-detail-image',
+            )
+
+    if (!image) {
+        return
+    }
+
+    startItemImageAnimation(
+        image,
+    )
+}
+
+itemList.addEventListener(
+    'mouseover',
+    event => {
+        const target =
+            event.target as HTMLElement
+
+        const card =
+            target.closest<HTMLElement>(
+                '.item-card',
+            )
+
+        if (!card) {
+            return
+        }
+
+        const image =
+            card.querySelector<HTMLImageElement>(
+                '.item-image',
+            )
+
+        if (!image) {
+            return
+        }
+
+        startItemImageAnimation(
+            image,
+        )
+    },
+)
+
+
+itemList.addEventListener(
+    'mouseout',
+    event => {
+        const target =
+            event.target as HTMLElement
+
+        const card =
+            target.closest<HTMLElement>(
+                '.item-card',
+            )
+
+        if (!card) {
+            return
+        }
+
+        const relatedTarget =
+            event.relatedTarget as Node | null
+
+        if (
+            relatedTarget &&
+            card.contains(
+                relatedTarget,
+            )
+        ) {
+            return
+        }
+
+        const image =
+            card.querySelector<HTMLImageElement>(
+                '.item-image',
+            )
+
+        if (!image) {
+            return
+        }
+
+        stopItemImageAnimation(
+            image,
+        )
+    },
+)
 
 const itemRarities = [
     ...new Set(
@@ -462,6 +731,25 @@ resetItemFilters.addEventListener(
     },
 )
 
+toggleStatFilters.addEventListener(
+    'click',
+    () => {
+        const isHidden =
+            itemStatFilterContent.classList.toggle(
+                'hidden',
+            )
+
+        toggleStatFilters.textContent =
+            isHidden
+                ? 'Show'
+                : 'Hide'
+
+        toggleStatFilters.setAttribute(
+            'aria-expanded',
+            String(!isHidden),
+        )
+    },
+)
 
 function readItemStatFilters(): ItemStatFilter[] {
     return [
@@ -506,6 +794,8 @@ function clearItemSelection() {
 }
 
 function resetItemDetailPanel() {
+    stopItemDetailAnimation()
+
     clearItemSelection()
 
     itemDetailContent.innerHTML = ''
@@ -539,7 +829,11 @@ itemList.addEventListener('click', event => {
 
     card.classList.add('selected')
 
+    stopItemDetailAnimation()
+
     itemDetailContent.innerHTML = itemDetail(item)
+
+    startItemDetailAnimation()
 
     itemDetailPanel.classList.remove('hidden')
 })

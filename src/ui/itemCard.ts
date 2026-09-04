@@ -32,6 +32,15 @@ export function itemCard(item: Item, statFilters: ItemStatFilter[] = []) {
     const visibleStats = item.stats.slice(0, 3)
     const remainingStats = item.stats.length - visibleStats.length
     const rarityClass = getRarityClass(item.rarity)
+    const imageFrames =
+        item.imageFrames ?? []
+
+    const encodedImageFrames =
+        encodeURIComponent(
+            JSON.stringify(
+                imageFrames,
+            ),
+        )
 
     return `
     <article
@@ -42,9 +51,10 @@ export function itemCard(item: Item, statFilters: ItemStatFilter[] = []) {
         <div class="item-card-image-wrapper rarity-${rarityClass}">
           ${item.image ? `
             <img
-              class="item-card-image"
+              class="item-card-image item-image"
               src="${item.image}"
               alt="${item.name}"
+              data-image-frames="${encodedImageFrames}"
               loading="lazy"
               onerror="this.style.display='none'"
             >

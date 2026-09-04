@@ -1,0 +1,446 @@
+[
+  {
+    "id": "ol",
+    "name": "Ol",
+    "rune_rank": 1,
+    "required_level": 11,
+    "affix_id": "stat_attack_rating",
+    "affix_name": "X TO ATTACK RATING",
+    "display_template": "value1 TO ATTACK RATING",
+    "affix_value": [
+      50
+    ]
+  },
+  {
+    "id": "old",
+    "name": "Old",
+    "rune_rank": 2,
+    "required_level": 11,
+    "affix_id": "stat_enhanced_defense",
+    "affix_name": "X% ENHANCED DEFENSE",
+    "display_template": "value1% ENHANCED DEFENSE",
+    "affix_value": [
+      15
+    ]
+  },
+  {
+    "id": "tor",
+    "name": "Tor",
+    "rune_rank": 3,
+    "required_level": 13,
+    "affix_id": "stat_mana_kill",
+    "affix_name": "X MANA AFTER EACH KILL",
+    "display_template": "value1 MANA AFTER EACH KILL",
+    "affix_value": [
+      2
+    ]
+  },
+  {
+    "id": "naf",
+    "name": "Naf",
+    "rune_rank": 4,
+    "required_level": 13,
+    "affix_id": "stat_defense_vs_missile",
+    "affix_name": "X% DEFENSE VS MISSILES",
+    "display_template": "value1% DEFENSE VS MISSILES",
+    "affix_value": [
+      15
+    ]
+  },
+  {
+    "id": "eth",
+    "name": "Eth",
+    "rune_rank": 5,
+    "required_level": 15,
+    "affix_id": "stat_target_defense",
+    "affix_name": "X% OF TARGET DEFENSE IGNORED",
+    "display_template": "value1% OF TARGET DEFENSE IGNORED",
+    "affix_value": [
+      5
+    ]
+  },
+  {
+    "id": "uth",
+    "name": "Uth",
+    "rune_rank": 6,
+    "required_level": 15,
+    "affix_id": "stat_damage_taken_mana",
+    "affix_name": "X% OF DAMAGE TAKEN RECOUPED AS MANA",
+    "display_template": "value1% OF DAMAGE TAKEN RECOUPED AS MANA",
+    "affix_value": [
+      5
+    ]
+  },
+  {
+    "id": "tul",
+    "name": "Tul",
+    "rune_rank": 7,
+    "required_level": 17,
+    "affix_id": "stat_poison_damage_p",
+    "affix_name": "POISON SKILL DAMAGE INCREASED BY X%",
+    "display_template": "POISON SKILL DAMAGE INCREASED BY value1%",
+    "affix_value": [
+      5
+    ]
+  },
+  {
+    "id": "rex",
+    "name": "Rex",
+    "rune_rank": 8,
+    "required_level": 19,
+    "affix_id": "stat_fire_damage_p",
+    "affix_name": "FIRE SKILL DAMAGE INCREASED BY X%",
+    "display_template": "FIRE SKILL DAMAGE INCREASED BY value1%",
+    "affix_value": [
+      5
+    ]
+  },
+  {
+    "id": "ert",
+    "name": "Ert",
+    "rune_rank": 9,
+    "required_level": 21,
+    "affix_id": "stat_lightning_damage_p",
+    "affix_name": "LIGHTNING SKILL DAMAGE INCREASED BY X%",
+    "display_template": "LIGHTNING SKILL DAMAGE INCREASED BY value1%",
+    "affix_value": [
+      5
+    ]
+  },
+  {
+    "id": "thal",
+    "name": "Thal",
+    "rune_rank": 10,
+    "required_level": 23,
+    "affix_id": "stat_cold_damage_p",
+    "affix_name": "COLD SKILL DAMAGE INCREASED BY X%",
+    "display_template": "COLD SKILL DAMAGE INCREASED BY value1%",
+    "affix_value": [
+      5
+    ]
+  },
+  {
+    "id": "ymn",
+    "name": "Ymn",
+    "rune_rank": 11,
+    "required_level": 25,
+    "affix_id": "stat_life_per_hit",
+    "affix_name": "X% LIFE STOLEN PER HIT",
+    "display_template": "value1% LIFE STOLEN PER HIT",
+    "affix_value": [
+      7
+    ]
+  },
+  {
+    "id": "sal",
+    "name": "Sal",
+    "rune_rank": 12,
+    "required_level": 27,
+    "affix_id": "stat_damage_reduction",
+    "affix_name": "PHYSICAL DAMAGE TAKEN REDUCED BY X%",
+    "display_template": "PHYSICAL DAMAGE TAKEN REDUCED BY value1%",
+    "affix_value": [
+      4
+    ]
+  },
+  {
+    "id": "nut",
+    "name": "Nut",
+    "rune_rank": 13,
+    "required_level": 29,
+    "affix_id": "stat_attack_speed_p",
+    "affix_name": "X% INCREASED ATTACK SPEED",
+    "display_template": "value1% INCREASED ATTACK SPEED",
+    "affix_value": [
+      4
+    ]
+  },
+  {
+    "id": "del",
+    "name": "Del",
+    "rune_rank": 14,
+    "required_level": 31,
+    "affix_id": "stat_magic_damage_p",
+    "affix_name": "ARCANE SKILL DAMAGE INCREASED BY X%",
+    "display_template": "ARCANE SKILL DAMAGE INCREASED BY value1%",
+    "affix_value": [
+      5
+    ]
+  },
+  {
+    "id": "hel",
+    "name": "Hel",
+    "rune_rank": 15,
+    "required_level": 33,
+    "affix_id": "stat_cooldown_reduction",
+    "affix_name": "SKILL HASTE INCREASED BY X%",
+    "display_template": "SKILL HASTE INCREASED BY value1%",
+    "affix_value": [
+      4
+    ]
+  },
+  {
+    "id": "io",
+    "name": "Io",
+    "rune_rank": 16,
+    "required_level": 35,
+    "affix_id": "stat_vitality",
+    "affix_name": "X TO VITALITY",
+    "display_template": "value1 TO VITALITY",
+    "affix_value": [
+      10
+    ]
+  },
+  {
+    "id": "lum",
+    "name": "Lum",
+    "rune_rank": 17,
+    "required_level": 37,
+    "affix_id": "stat_energy",
+    "affix_name": "X TO ENERGY",
+    "display_template": "value1 TO ENERGY",
+    "affix_value": [
+      10
+    ]
+  },
+  {
+    "id": "co",
+    "name": "Co",
+    "rune_rank": 18,
+    "required_level": 39,
+    "affix_id": "stat_dexterity",
+    "affix_name": "X TO DEXTERITY",
+    "display_template": "value1 TO DEXTERITY",
+    "affix_value": [
+      10
+    ]
+  },
+  {
+    "id": "fel",
+    "name": "Fel",
+    "rune_rank": 19,
+    "required_level": 41,
+    "affix_id": "stat_strength",
+    "affix_name": "X TO STRENGTH",
+    "display_template": "value1 TO STRENGTH",
+    "affix_value": [
+      10
+    ]
+  },
+  {
+    "id": "lem",
+    "name": "Lem",
+    "rune_rank": 20,
+    "required_level": 43,
+    "affix_id": "stat_extra_gold",
+    "affix_name": "X% EXTRA GOLD DROPPED FROM KILLS",
+    "display_template": "value1% EXTRA GOLD DROPPED FROM KILLS",
+    "affix_value": [
+      20
+    ]
+  },
+  {
+    "id": "pul",
+    "name": "Pul",
+    "rune_rank": 21,
+    "required_level": 45,
+    "affix_id": "stat_mana_cost",
+    "affix_name": "MANA COSTS DECREASED BY X%",
+    "display_template": "MANA COSTS DECREASED BY value1%",
+    "affix_value": [
+      3
+    ]
+  },
+  {
+    "id": "um",
+    "name": "Um",
+    "rune_rank": 22,
+    "required_level": 47,
+    "affix_id": "stat_all_resistance",
+    "affix_name": "X% TO ALL RESISTANCES",
+    "display_template": "value1% TO ALL RESISTANCES",
+    "affix_value": [
+      8
+    ]
+  },
+  {
+    "id": "mal",
+    "name": "Mal",
+    "rune_rank": 23,
+    "required_level": 49,
+    "affix_id": "stat_magic_damage_reduction",
+    "affix_name": "MAGIC DAMAGE TAKEN REDUCED BY X%",
+    "display_template": "MAGIC DAMAGE TAKEN REDUCED BY value1%",
+    "affix_value": [
+      4
+    ]
+  },
+  {
+    "id": "ist",
+    "name": "Ist",
+    "rune_rank": 24,
+    "required_level": 51,
+    "affix_id": "stat_magic_find",
+    "affix_name": "X% INCREASED MAGIC FIND",
+    "display_template": "value1% INCREASED MAGIC FIND",
+    "affix_value": [
+      15
+    ]
+  },
+  {
+    "id": "gul",
+    "name": "Gul",
+    "rune_rank": 25,
+    "required_level": 53,
+    "affix_id": "stat_attack_rating_p",
+    "affix_name": "X% INCREASED ATTACK RATING",
+    "display_template": "value1% INCREASED ATTACK RATING",
+    "affix_value": [
+      15
+    ]
+  },
+  {
+    "id": "vex",
+    "name": "Vex",
+    "rune_rank": 26,
+    "required_level": 55,
+    "affix_id": "stat_mana_per_hit",
+    "affix_name": "X% MANA STOLEN PER HIT",
+    "display_template": "value1% MANA STOLEN PER HIT",
+    "affix_value": [
+      7
+    ]
+  },
+  {
+    "id": "qi",
+    "name": "Qi",
+    "rune_rank": 27,
+    "required_level": 57,
+    "affix_id": "stat_physical_damage_p",
+    "affix_name": "ATTACK DAMAGE INCREASED BY X%",
+    "display_template": "ATTACK DAMAGE INCREASED BY value1%",
+    "affix_value": [
+      20
+    ]
+  },
+  {
+    "id": "xo",
+    "name": "Xo",
+    "rune_rank": 28,
+    "required_level": 59,
+    "affix_id": "stat_deadly_blow",
+    "affix_name": "X% CHANCE FOR A DEADLY BLOW",
+    "display_template": "value1% CHANCE FOR A DEADLY BLOW",
+    "affix_value": [
+      25
+    ]
+  },
+  {
+    "id": "sur",
+    "name": "Sur",
+    "rune_rank": 29,
+    "required_level": 61,
+    "affix_id": "stat_max_mana",
+    "affix_name": "MANA INCREASED BY X%",
+    "display_template": "MANA INCREASED BY value1%",
+    "affix_value": [
+      10
+    ]
+  },
+  {
+    "id": "ber",
+    "name": "Ber",
+    "rune_rank": 30,
+    "required_level": 63,
+    "affix_id": "stat_deadly_blow",
+    "affix_name": "X% CHANCE FOR A DEADLY BLOW",
+    "display_template": "value1% CHANCE FOR A DEADLY BLOW",
+    "affix_value": [
+      1
+    ]
+  },
+  {
+    "id": "jah",
+    "name": "Jah",
+    "rune_rank": 31,
+    "required_level": 65,
+    "affix_id": "stat_life_p",
+    "affix_name": "LIFE X%",
+    "display_template": "LIFE value1%",
+    "affix_value": [
+      10
+    ]
+  },
+  {
+    "id": "drax",
+    "name": "Drax",
+    "rune_rank": 32,
+    "required_level": 67,
+    "affix_id": "stats_max_damage_p",
+    "affix_name": "MAXIMUM WEAPON DAMAGE INCREASED BY X%",
+    "display_template": "MAXIMUM WEAPON DAMAGE INCREASED BY value1%",
+    "affix_value": [
+      3
+    ]
+  },
+  {
+    "id": "zed",
+    "name": "Zed",
+    "rune_rank": 33,
+    "required_level": 69,
+    "affix_id": "stat_skill_damage",
+    "affix_name": "MAGIC SKILL DAMAGE INCREASED BY X%",
+    "display_template": "MAGIC SKILL DAMAGE INCREASED BY value1%",
+    "affix_value": [
+      13
+    ]
+  },
+  {
+    "id": "fawn",
+    "name": "Fawn",
+    "rune_rank": 34,
+    "required_level": 100,
+    "affix_id": "stat_all_damage_reduction_p",
+    "affix_name": "ALL DAMAGE TAKEN REDUCED BY X%",
+    "display_template": "ALL DAMAGE TAKEN REDUCED BY value1%",
+    "affix_value": [
+      3
+    ]
+  },
+  {
+    "id": "flo",
+    "name": "Flo",
+    "rune_rank": 35,
+    "required_level": 100,
+    "affix_id": "stat_max_all_resistance",
+    "affix_name": "X% TO MAXIMUM ALL RESISTS",
+    "display_template": "value1% TO MAXIMUM ALL RESISTS",
+    "affix_value": [
+      2
+    ]
+  },
+  {
+    "id": "nju",
+    "name": "Nju",
+    "rune_rank": 36,
+    "required_level": 100,
+    "affix_id": "stat_ignore_all_resist",
+    "affix_name": "X% TO ALL ENEMY RESISTANCES",
+    "display_template": "value1% TO ALL ENEMY RESISTANCES",
+    "affix_value": [
+      3
+    ]
+  },
+  {
+    "id": "jol",
+    "name": "Jol",
+    "rune_rank": 37,
+    "required_level": 100,
+    "affix_id": "stat_projectileSpeed",
+    "affix_name": "X TO PROJECTILE SPEED",
+    "display_template": "value1 TO PROJECTILE SPEED",
+    "affix_value": [
+      1
+    ]
+  }
+]
