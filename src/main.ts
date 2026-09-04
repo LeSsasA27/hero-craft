@@ -1,26 +1,26 @@
 import './style.css'
 import { runewords } from './data/runewords'
-import { runewordCard } from "./ui/runewordCard.ts";
-import { filterRunewords } from "./logic/filterRunewords.ts";
-import { runes } from "./data/runes.ts";
-import { runeDetail } from "./ui/runeDetail.ts";
-import { runeCard } from "./ui/runeCard.ts";
-import { filterRunes } from "./logic/filterRunes.ts";
-import { getCraftGroups } from "./logic/crafting.ts";
-import { craftResultsView } from "./ui/craftResults.ts";
-import { readRuneInventory, loadRuneInventory, saveRuneInventory } from "./logic/inventory.ts";
-import { runewordDetail } from "./ui/runewordDetail.ts";
-import { craftInventoryView } from "./ui/craftInventory.ts";
+import { runewordCard } from './ui/runewordCard'
+import { filterRunewords } from './logic/filterRunewords'
+import { runes } from './data/runes'
+import { runeDetail } from './ui/runeDetail'
+import { runeCard } from './ui/runeCard'
+import { filterRunes } from './logic/filterRunes'
+import { getCraftGroups } from './logic/crafting'
+import { craftResultsView } from './ui/craftResults'
+import { loadRuneInventory, readRuneInventory, saveRuneInventory } from './logic/inventory'
+import { runewordDetail } from './ui/runewordDetail'
+import { craftInventoryView } from './ui/craftInventory'
 import { getVersion } from '@tauri-apps/api/app'
 import { isTauri } from '@tauri-apps/api/core'
 import { check, type Update } from '@tauri-apps/plugin-updater'
 import { relaunch } from '@tauri-apps/plugin-process'
-import { items } from "./data/items.ts";
-import { itemCard } from "./ui/itemCard.ts";
-import { itemTypesByCategory } from "./data/itemTypes.ts";
-import type { ItemCategory } from "./types.ts";
-import { filterItems } from "./logic/filterItems.ts";
-import { itemDetail } from "./ui/itemDetails.ts";
+import { items } from './data/items'
+import { itemCard } from './ui/itemCard'
+import { itemTypesByCategory } from './data/itemTypes'
+import type { ItemCategory } from './types'
+import { filterItems, type ItemStatFilter } from './logic/filterItems'
+import { itemDetail } from './ui/itemDetails'
 
 function getElement<T extends Element>(selector: string): T {
     const element = document.querySelector<T>(selector)
@@ -34,9 +34,6 @@ function getElement<T extends Element>(selector: string): T {
 
 const app = getElement<HTMLDivElement>('#app')
 
-if (!app) {
-    throw new Error('App root not found')
-}
 
 app.innerHTML = `
     <div class="app-shell">
@@ -49,19 +46,19 @@ app.innerHTML = `
           </div>
         
           <nav class="nav">
-            <button class="nav-button active" data-view="runewords">
+            <button class="nav-button active" data-view="runewords" type="button">
               <span>Runewords</span>
             </button>
         
-            <button class="nav-button" data-view="runes">
+            <button class="nav-button" data-view="runes" type="button">
               <span>Runes</span>
             </button>
         
-            <button class="nav-button" data-view="craft">
+            <button class="nav-button" data-view="craft" type="button">
               <span>Craft Finder</span>
             </button>
             
-            <button class="nav-button"data-view="items">
+            <button class="nav-button" data-view="items" type="button">
               <span>Items</span>
             </button>
           </nav>
@@ -179,7 +176,7 @@ app.innerHTML = `
                 </div>
             
                 <div class="view-controls">
-                  <button id="clear-inventory" class="reset-button">
+                  <button id="clear-inventory" class="reset-button" type="button">
                     Clear inventory
                   </button>
                 </div>
@@ -194,6 +191,7 @@ app.innerHTML = `
               <div class="view-header">
                 <div>
                   <h2>Items</h2>
+            
                   <p id="item-count" class="result-count">
                     0 items
                   </p>
@@ -224,7 +222,48 @@ app.innerHTML = `
                   >
                     <option value="">All types</option>
                   </select>
+            
+                  <select
+                    id="item-rarity-filter"
+                    class="tier-filter"
+                  >
+                    <option value="">All rarities</option>
+                  </select>
+                  
+                  <button
+                    id="reset-item-filters"
+                    class="reset-button"
+                    type="button"
+                  >
+                    Reset
+                  </button>
                 </div>
+              </div>
+            
+              <div class="item-stat-filter-panel">
+                <div class="item-stat-filter-header">
+                  <span>Stat filters</span>
+            
+                  <div>
+                    <button
+                      id="add-stat-filter"
+                      class="reset-button"
+                      type="button"
+                    >
+                      + Add stat
+                    </button>
+            
+                    <button
+                      id="clear-stat-filters"
+                      class="reset-button"
+                      type="button"
+                    >
+                      Clear
+                    </button>
+                  </div>
+                </div>
+            
+                <div id="item-stat-filters"></div>
               </div>
             
               <div class="item-layout">
@@ -246,6 +285,7 @@ app.innerHTML = `
                       id="item-detail-close"
                       class="detail-close"
                       type="button"
+                      aria-label="Close item details"
                     >
                       ×
                     </button>
@@ -265,13 +305,13 @@ const searchInput = getElement<HTMLInputElement>('#search')
 const runewordList = getElement<HTMLDivElement>('#runeword-list')
 const resultCount = getElement<HTMLParagraphElement>('#result-count')
 const baseFilter = getElement<HTMLSelectElement>('#base-filter')
-const allBases = [...new Set(runewords.flatMap(runeword => runeword.bases)),].sort()
+const allBases = [...new Set(runewords.flatMap(runeword => runeword.bases))].sort()
 const navButtons = document.querySelectorAll<HTMLButtonElement>('.nav-button')
 const views = document.querySelectorAll<HTMLElement>('.view')
 const runeList = getElement<HTMLDivElement>('#rune-list')
 const tierFilter = getElement<HTMLSelectElement>('#tier-filter')
 const runeSearch = getElement<HTMLInputElement>('#rune-search')
-const runeCount = getElement<HTMLSelectElement>('#rune-count')
+const runeCount = getElement<HTMLParagraphElement>('#rune-count')
 const craftResults = getElement<HTMLDivElement>('#craft-results')
 const craftInputs = getElement<HTMLDivElement>('#craft-inputs')
 const socketFilter = getElement<HTMLSelectElement>('#socket-filter')
@@ -289,10 +329,173 @@ const itemList = getElement<HTMLElement>('#item-list')
 const itemCount = getElement<HTMLElement>('#item-count')
 const itemCategoryFilter = getElement<HTMLSelectElement>('#item-category-filter')
 const itemTypeFilter = getElement<HTMLSelectElement>('#item-type-filter')
+const itemRarityFilter = getElement<HTMLSelectElement>('#item-rarity-filter')
 const itemSearch = getElement<HTMLInputElement>('#item-search')
 const itemDetailPanel = getElement<HTMLElement>('#item-detail-panel')
 const itemDetailContent = getElement<HTMLElement>('#item-detail-content')
 const itemDetailClose = getElement<HTMLButtonElement>('#item-detail-close')
+const itemStatFilters = getElement<HTMLElement>('#item-stat-filters')
+const addStatFilter = getElement<HTMLButtonElement>('#add-stat-filter')
+const clearStatFilters = getElement<HTMLButtonElement>('#clear-stat-filters')
+const resetItemFilters = getElement<HTMLButtonElement>('#reset-item-filters')
+
+const itemRarities = [
+    ...new Set(
+        items.flatMap(item => item.rarity ? [item.rarity] : []),
+    ),
+].sort()
+
+itemRarityFilter.innerHTML += itemRarities
+    .map(rarity => `
+        <option value="${rarity}">
+          ${rarity}
+        </option>
+    `)
+    .join('')
+
+function getStatName(stat: string) {
+    return stat
+        // [20-30], 20-30, +20, -10, 15.5...
+        .replace(
+            /^[+\-]?\s*\[?\s*\d+(?:\.\d+)?(?:\s*-\s*\d+(?:\.\d+)?)?\s*\]?\s*%?\s*/i,
+            '',
+        )
+        // "+[2-4] to All Skills" -> "All Skills"
+        .replace(/^to\s+/i, '')
+        .trim()
+}
+
+
+const availableItemStats = [
+    ...new Set(
+        items
+            .flatMap(item => item.stats)
+            .map(getStatName)
+            .filter(Boolean),
+    ),
+].sort((a, b) =>
+    a.localeCompare(b),
+)
+
+const itemStatDatalist =
+    document.createElement('datalist')
+
+itemStatDatalist.id =
+    'item-stat-suggestions'
+
+itemStatDatalist.innerHTML =
+    availableItemStats
+        .map(stat => `
+            <option value="${stat}"></option>
+        `)
+        .join('')
+
+document.body.append(
+    itemStatDatalist,
+)
+
+function createStatFilterRow() {
+    const row = document.createElement('div')
+
+    row.className = 'item-stat-filter-row'
+
+    row.innerHTML = `
+        <input
+          class="item-stat-name"
+          type="text"
+          list="item-stat-suggestions"
+          autocomplete="off"
+          placeholder="Search a stat..."
+        >
+
+        <input
+          class="item-stat-min"
+          type="number"
+          step="any"
+          placeholder="Min"
+        >
+
+        <button
+          class="item-stat-remove"
+          type="button"
+          aria-label="Remove stat filter"
+        >
+          ×
+        </button>
+    `
+
+    itemStatFilters.append(row)
+
+    row.addEventListener(
+        'input',
+        renderItems,
+    )
+
+    row
+        .querySelector('.item-stat-remove')
+        ?.addEventListener('click', () => {
+            row.remove()
+            renderItems()
+        })
+}
+
+
+addStatFilter.addEventListener('click', createStatFilterRow)
+
+clearStatFilters.addEventListener('click', () => {
+    itemStatFilters.innerHTML = ''
+    renderItems()
+})
+
+resetItemFilters.addEventListener(
+    'click',
+    () => {
+        itemSearch.value = ''
+        itemCategoryFilter.value = ''
+        itemTypeFilter.value = ''
+        itemRarityFilter.value = ''
+
+        itemStatFilters.innerHTML = ''
+
+        updateItemTypeOptions()
+        renderItems()
+    },
+)
+
+
+function readItemStatFilters(): ItemStatFilter[] {
+    return [
+        ...itemStatFilters.querySelectorAll<HTMLElement>(
+            '.item-stat-filter-row',
+        ),
+    ]
+        .map(row => {
+            const query =
+                row
+                    .querySelector<HTMLInputElement>(
+                        '.item-stat-name',
+                    )
+                    ?.value
+                    .trim() ?? ''
+
+            const minInput =
+                row.querySelector<HTMLInputElement>(
+                    '.item-stat-min',
+                )
+
+            const min =
+                minInput &&
+                minInput.value !== ''
+                    ? Number(minInput.value)
+                    : null
+
+            return {
+                query,
+                min,
+            }
+        })
+        .filter(filter => filter.query)
+}
 
 function clearItemSelection() {
     itemList
@@ -346,28 +549,43 @@ itemDetailClose.addEventListener('click', resetItemDetailPanel)
 function renderItems() {
     resetItemDetailPanel()
 
+    const statFilters = readItemStatFilters()
+
     const filteredItems = filterItems(
         items,
         itemSearch.value,
         itemCategoryFilter.value,
         itemTypeFilter.value,
+        itemRarityFilter.value,
+        statFilters,
     )
 
     itemCount.textContent =
-        `${filteredItems.length} item${filteredItems.length !== 1 ? 's' : ''}`
+        `${filteredItems.length} item${
+            filteredItems.length !== 1
+                ? 's'
+                : ''
+        }`
 
     if (filteredItems.length === 0) {
         itemList.innerHTML = `
-      <div class="empty-state">
-        No items found.
-      </div>
-    `
+          <div class="empty-state">
+            No items found.
+          </div>
+        `
 
         return
     }
 
     itemList.innerHTML =
-        filteredItems.map(itemCard).join('')
+        filteredItems
+            .map(item =>
+                itemCard(
+                    item,
+                    statFilters,
+                ),
+            )
+            .join('')
 }
 
 renderItems()
@@ -380,6 +598,7 @@ itemCategoryFilter.addEventListener('change', () => {
 })
 
 itemTypeFilter.addEventListener('change', renderItems)
+itemRarityFilter.addEventListener('change', renderItems)
 
 function updateItemTypeOptions() {
     const category = itemCategoryFilter.value as ItemCategory | ''
@@ -392,7 +611,7 @@ function updateItemTypeOptions() {
         return
     }
 
-    const types = itemTypesByCategory[category]
+    const types = itemTypesByCategory[category] ?? []
 
     itemTypeFilter.innerHTML += types
         .map(type => `
@@ -402,10 +621,6 @@ function updateItemTypeOptions() {
         `)
         .join('')
 }
-
-itemCategoryFilter.addEventListener('change', () => {
-    updateItemTypeOptions()
-})
 
 updateItemTypeOptions()
 
@@ -454,16 +669,6 @@ async function checkAppVersion() {
         if (update.body) {
             updateNotes.textContent = update.body
             updateNotes.classList.remove('hidden')
-        }
-
-        if (!update) {
-            updateStatus.textContent = 'Up to date'
-            statusDot.className = 'status-dot success'
-
-            updateNotes.textContent = ''
-            updateNotes.classList.add('hidden')
-
-            return
         }
 
         updateStatus.textContent = `v${update.version} available`
@@ -534,7 +739,16 @@ updateButton.addEventListener('click', async () => {
     }
 })
 
-function showView(viewName: string) {
+type ViewName = 'runewords' | 'runes' | 'craft' | 'items'
+
+function isViewName(value: string | undefined | null): value is ViewName {
+    return value === 'runewords' ||
+        value === 'runes' ||
+        value === 'craft' ||
+        value === 'items'
+}
+
+function showView(viewName: ViewName) {
     navButtons.forEach(button => {
         button.classList.toggle(
             'active',
@@ -552,15 +766,15 @@ function showView(viewName: string) {
     sessionStorage.setItem('activeView', viewName)
 }
 
-const savedView = sessionStorage.getItem('activeView') ?? 'runewords'
+const savedView = sessionStorage.getItem('activeView')
 
-showView(savedView)
+showView(isViewName(savedView) ? savedView : 'runewords')
 
 navButtons.forEach(button => {
     button.addEventListener('click', () => {
         const viewName = button.dataset.view
 
-        if (!viewName) {
+        if (!isViewName(viewName)) {
             return
         }
 
@@ -758,7 +972,6 @@ runewordList.addEventListener('click', event => {
         return
     }
 
-
     const runewordCardElement =
         target.closest<HTMLElement>('[data-runeword]')
 
@@ -829,4 +1042,3 @@ craftInputs.addEventListener('input', renderCraftResults)
 renderRunes()
 renderRunewords()
 renderCraftResults()
-

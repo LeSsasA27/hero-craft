@@ -1,4 +1,5 @@
 import type { Item } from '../types.ts'
+import type { ItemStatFilter } from '../logic/filterItems.ts'
 
 function getRarityClass(rarity: string) {
     return rarity
@@ -6,14 +7,35 @@ function getRarityClass(rarity: string) {
         .replace(/\s+/g, '-')
 }
 
-export function itemCard(item: Item) {
+function isMatchingStat(
+    stat: string,
+    filters: ItemStatFilter[],
+) {
+    const normalizedStat =
+        stat.toLowerCase()
+
+    return filters.some(filter => {
+        const query =
+            filter.query
+                .trim()
+                .toLowerCase()
+
+        if (!query) {
+            return false
+        }
+
+        return normalizedStat.includes(query)
+    })
+}
+
+export function itemCard(item: Item, statFilters: ItemStatFilter[] = []) {
     const visibleStats = item.stats.slice(0, 3)
     const remainingStats = item.stats.length - visibleStats.length
     const rarityClass = getRarityClass(item.rarity)
 
     return `
     <article
-      class="item-card"
+      class="item-card rarity-${rarityClass}"
       data-item="${item.name}"
     >
       <div class="item-card-top">
@@ -71,13 +93,21 @@ export function itemCard(item: Item) {
 
       ${visibleStats.length > 0 ? `
         <div class="item-card-stats">
-          ${visibleStats
-        .map(stat => `
-              <div class="item-stat">
-                ${stat}
-              </div>
-            `)
-        .join('')}
+          ${visibleStats.map(stat => {
+        const matching =
+            isMatchingStat(
+                stat,
+                statFilters,
+            )
+
+        return `
+        <div
+          class="item-stat${matching ? ' matched' : ''}"
+        >
+          ${stat}
+        </div>
+      `
+        }).join('')}
 
           ${remainingStats > 0 ? `
             <div class="item-more-stats">
